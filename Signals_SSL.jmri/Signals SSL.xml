@@ -174,83 +174,83 @@
     </turnout>
     <turnout feedback="MONITORING" inverted="false" automate="Off">
       <systemName>MT05.01.01.01.31.00.03.0C;05.01.01.01.31.00.03.0D</systemName>
-      <userName>vTurnout Signal 02 A Continue 1</userName>
+      <userName>vTurnout Signal 02A Continue 1</userName>
     </turnout>
     <turnout feedback="MONITORING" inverted="false" automate="Off">
       <systemName>MT05.01.01.01.31.00.03.0E;05.01.01.01.31.00.03.0F</systemName>
-      <userName>vTurnout Signal 02 A Continue 2</userName>
+      <userName>vTurnout Signal 02A Continue 2</userName>
     </turnout>
     <turnout feedback="MONITORING" inverted="false" automate="Off">
       <systemName>MT05.01.01.01.31.00.03.10;05.01.01.01.31.00.03.11</systemName>
-      <userName>vTurnout Signal 02 B Throat 1</userName>
+      <userName>vTurnout Signal 02B Throat 1</userName>
     </turnout>
     <turnout feedback="MONITORING" inverted="false" automate="Off">
       <systemName>MT05.01.01.01.31.00.03.12;05.01.01.01.31.00.03.13</systemName>
-      <userName>vTurnout Signal 02 B Throat 2</userName>
+      <userName>vTurnout Signal 02B Throat 2</userName>
     </turnout>
     <turnout feedback="MONITORING" inverted="false" automate="Off">
       <systemName>MT05.01.01.01.31.00.03.14;05.01.01.01.31.00.03.15</systemName>
-      <userName>vTurnout Signal 02 C Continue 1</userName>
+      <userName>vTurnout Signal 02C Continue 1</userName>
     </turnout>
     <turnout feedback="MONITORING" inverted="false" automate="Off">
       <systemName>MT05.01.01.01.31.00.03.16;05.01.01.01.31.00.03.17</systemName>
-      <userName>vTurnout Signal 02 C Continue 2</userName>
+      <userName>vTurnout Signal 02C Continue 2</userName>
     </turnout>
     <turnout feedback="MONITORING" inverted="false" automate="Off">
       <systemName>MT05.01.01.01.31.00.03.18;05.01.01.01.31.00.03.19</systemName>
-      <userName>vTurnout Signal 02 D Throat 1</userName>
+      <userName>vTurnout Signal 02D Throat 1</userName>
     </turnout>
     <turnout feedback="MONITORING" inverted="false" automate="Off">
       <systemName>MT05.01.01.01.31.00.03.1A;05.01.01.01.31.00.03.1B</systemName>
-      <userName>vTurnout Signal 02 D Throat 2</userName>
+      <userName>vTurnout Signal 02D Throat 2</userName>
     </turnout>
     <turnout feedback="MONITORING" inverted="false" automate="Default">
       <systemName>MT05.01.01.01.31.00.03.1D;05.01.01.01.31.00.03.1E</systemName>
-      <userName>vTurnout Signal 04 A Continue 1</userName>
+      <userName>vTurnout Signal 04A Throat 1</userName>
     </turnout>
     <turnout feedback="MONITORING" inverted="false" automate="Default">
       <systemName>MT05.01.01.01.31.00.03.1F;05.01.01.01.31.00.03.20</systemName>
-      <userName>vTurnout Signal 04 A Continue 2</userName>
+      <userName>vTurnout Signal 04A Throat 2</userName>
     </turnout>
     <turnout feedback="MONITORING" inverted="false" automate="Default">
       <systemName>MT05.01.01.01.31.00.03.21;05.01.01.01.31.00.03.22</systemName>
-      <userName>vTurnout Signal 04 A Diverge 1</userName>
+      <userName>xTurnout Signal 04A Diverge 1</userName>
     </turnout>
     <turnout feedback="MONITORING" inverted="false" automate="Default">
       <systemName>MT05.01.01.01.31.00.03.23;05.01.01.01.31.00.03.24</systemName>
-      <userName>vTurnout Signal 04 A Diverge 2</userName>
+      <userName>xTurnout Signal 04A Diverge 2</userName>
     </turnout>
     <turnout feedback="MONITORING" inverted="false" automate="Default">
       <systemName>MT05.01.01.01.31.00.03.25;05.01.01.01.31.00.03.26</systemName>
-      <userName>vTurnout Signal 04 B Continue 1</userName>
+      <userName>vTurnout Signal 04B Continue 1</userName>
     </turnout>
     <turnout feedback="MONITORING" inverted="false" automate="Default">
       <systemName>MT05.01.01.01.31.00.03.27;05.01.01.01.31.00.03.28</systemName>
-      <userName>vTurnout Signal 04 B Continue 2</userName>
+      <userName>vTurnout Signal 04B Continue 2</userName>
     </turnout>
     <turnout feedback="MONITORING" inverted="false" automate="Default">
       <systemName>MT05.01.01.01.31.00.03.29;05.01.01.01.31.00.03.2A</systemName>
-      <userName>vTurnout Signal 04 C Continue 1</userName>
+      <userName>vTurnout Signal 04C Throat 1</userName>
     </turnout>
     <turnout feedback="MONITORING" inverted="false" automate="Default">
       <systemName>MT05.01.01.01.31.00.03.2B;05.01.01.01.31.00.03.2C</systemName>
-      <userName>vTurnout Signal 04 C Continue 2</userName>
+      <userName>vTurnout Signal 04C Throat 2</userName>
     </turnout>
     <turnout feedback="MONITORING" inverted="false" automate="Default">
       <systemName>MT05.01.01.01.31.00.03.2D;05.01.01.01.31.00.03.2E</systemName>
-      <userName>vTurnout Signal 04 C Diverge 1</userName>
+      <userName>xTurnout Signal 04 C Diverge 1</userName>
     </turnout>
     <turnout feedback="MONITORING" inverted="false" automate="Default">
       <systemName>MT05.01.01.01.31.00.03.2F;05.01.01.01.31.00.03.30</systemName>
-      <userName>vTurnout Signal 04 C Diverge 2</userName>
+      <userName>xTurnout Signal 04 C Diverge 2</userName>
     </turnout>
     <turnout feedback="MONITORING" inverted="false" automate="Default">
       <systemName>MT05.01.01.01.31.00.03.31;05.01.01.01.31.00.03.32</systemName>
-      <userName>vTurnout Signal 04 D Continue 1</userName>
+      <userName>vTurnout Signal 04D Continue 1</userName>
     </turnout>
     <turnout feedback="MONITORING" inverted="false" automate="Default">
       <systemName>MT05.01.01.01.31.00.03.33;05.01.01.01.31.00.03.34</systemName>
-      <userName>vTurnout Signal 04 D Continue 2</userName>
+      <userName>vTurnout Signal 04D Continue 2</userName>
     </turnout>
     <turnout feedback="MONITORING" inverted="false" automate="Default">
       <systemName>MT05.01.01.01.31.00.03.35;05.01.01.01.31.00.03.36</systemName>
@@ -344,51 +344,51 @@
     </signalhead>
     <signalhead class="jmri.implementation.configurexml.VirtualSignalHeadXml">
       <systemName>IH05</systemName>
-      <userName>vSignal Turnout 02 A Continue</userName>
+      <userName>vSignal Turnout 02A Continue</userName>
     </signalhead>
     <signalhead class="jmri.implementation.configurexml.VirtualSignalHeadXml">
       <systemName>IH06</systemName>
-      <userName>vSignal Turnout 02 B Continue</userName>
+      <userName>vSignal Turnout 02B Continue</userName>
     </signalhead>
     <signalhead class="jmri.implementation.configurexml.VirtualSignalHeadXml">
       <systemName>IH07</systemName>
-      <userName>vSignal Turnout 02 B Diverge</userName>
+      <userName>vSignal Turnout 02B Diverge</userName>
     </signalhead>
     <signalhead class="jmri.implementation.configurexml.VirtualSignalHeadXml">
       <systemName>IH08</systemName>
-      <userName>vSignal Turnout 02 C Continue</userName>
+      <userName>vSignal Turnout 02C Continue</userName>
     </signalhead>
     <signalhead class="jmri.implementation.configurexml.VirtualSignalHeadXml">
       <systemName>IH09</systemName>
-      <userName>vSignal Turnout 02 D Continue</userName>
+      <userName>vSignal Turnout 02D Continue</userName>
     </signalhead>
     <signalhead class="jmri.implementation.configurexml.VirtualSignalHeadXml">
       <systemName>IH10</systemName>
-      <userName>vSignal Turnout 02 D Diverge</userName>
+      <userName>vSignal Turnout 02D Diverge</userName>
     </signalhead>
     <signalhead class="jmri.implementation.configurexml.VirtualSignalHeadXml">
       <systemName>IH11</systemName>
-      <userName>vSignal Turnout 04 A Continue</userName>
+      <userName>vSignal Turnout 04A Continue</userName>
     </signalhead>
     <signalhead class="jmri.implementation.configurexml.VirtualSignalHeadXml">
       <systemName>IH12</systemName>
-      <userName>vSignal Turnout 04 A Diverge</userName>
+      <userName>vSignal Turnout 04A Diverge</userName>
     </signalhead>
     <signalhead class="jmri.implementation.configurexml.VirtualSignalHeadXml">
       <systemName>IH13</systemName>
-      <userName>vSignal Turnout 04 B Continue</userName>
+      <userName>vSignal Turnout 04B Continue</userName>
     </signalhead>
     <signalhead class="jmri.implementation.configurexml.VirtualSignalHeadXml">
       <systemName>IH14</systemName>
-      <userName>vSignal Turnout 04 C Continue</userName>
+      <userName>vSignal Turnout 04C Continue</userName>
     </signalhead>
     <signalhead class="jmri.implementation.configurexml.VirtualSignalHeadXml">
       <systemName>IH15</systemName>
-      <userName>vSignal Turnout 04 C Diverge</userName>
+      <userName>vSignal Turnout 04C Diverge</userName>
     </signalhead>
     <signalhead class="jmri.implementation.configurexml.VirtualSignalHeadXml">
       <systemName>IH16</systemName>
-      <userName>vSignal Turnout 04 D Continue</userName>
+      <userName>vSignal Turnout 04D Continue</userName>
     </signalhead>
     <signalhead class="jmri.implementation.configurexml.VirtualSignalHeadXml">
       <systemName>IH17</systemName>
@@ -469,6 +469,446 @@
     <signalhead class="jmri.implementation.configurexml.VirtualSignalHeadXml">
       <systemName>IH36</systemName>
       <userName>vSignal Turnout 10 Throat Diverge</userName>
+    </signalhead>
+    <signalhead class="jmri.implementation.configurexml.LsDecSignalHeadXml">
+      <systemName>IH37</systemName>
+      <userName>Signal Turnout 01 Continue</userName>
+      <turnout systemName="vTurnout Signal 01 Continue 1" state="THROWN" />
+      <turnout systemName="vTurnout Signal 01 Continue 2" state="THROWN" />
+      <turnout systemName="vTurnout Signal 02A Continue 1" state="CLOSED" />
+      <turnout systemName="vTurnout Signal 01 Continue 1" state="THROWN" />
+      <turnout systemName="vTurnout Signal 01 Continue 2" state="THROWN" />
+      <turnout systemName="vTurnout Signal 01 Continue 1" state="CLOSED" />
+      <turnout systemName="vTurnout Signal 01 Continue 2" state="CLOSED" />
+    </signalhead>
+    <signalhead class="jmri.implementation.configurexml.LsDecSignalHeadXml">
+      <systemName>IH38</systemName>
+      <userName>Signal Turnout 01 Diverge</userName>
+      <turnout systemName="vTurnout Signal 01 Diverge 1" state="THROWN" />
+      <turnout systemName="vTurnout Signal 01 Diverge 2" state="THROWN" />
+      <turnout systemName="vTurnout Signal 01 Diverge 1" state="CLOSED" />
+      <turnout systemName="vTurnout Signal 01 Diverge 1" state="THROWN" />
+      <turnout systemName="vTurnout Signal 01 Diverge 2" state="THROWN" />
+      <turnout systemName="vTurnout Signal 01 Diverge 1" state="CLOSED" />
+      <turnout systemName="vTurnout Signal 01 Diverge 1" state="CLOSED" />
+    </signalhead>
+    <signalhead class="jmri.implementation.configurexml.LsDecSignalHeadXml">
+      <systemName>IH39</systemName>
+      <userName>Signal Turnout 01 Throat</userName>
+      <turnout systemName="vTurnout Signal 01 Throat 1" state="THROWN" />
+      <turnout systemName="vTurnout Signal 01 Throat 2" state="THROWN" />
+      <turnout systemName="vTurnout Signal 01 Throat 1" state="CLOSED" />
+      <turnout systemName="vTurnout Signal 01 Throat 1" state="THROWN" />
+      <turnout systemName="vTurnout Signal 01 Throat 2" state="THROWN" />
+      <turnout systemName="vTurnout Signal 01 Throat 1" state="CLOSED" />
+      <turnout systemName="vTurnout Signal 01 Throat 1" state="CLOSED" />
+    </signalhead>
+    <signalhead class="jmri.implementation.configurexml.LsDecSignalHeadXml">
+      <systemName>IH40</systemName>
+      <userName>Signal Turnout 01 Continue Advance</userName>
+      <turnout systemName="vTurnout Signal 01 Continue 1" state="THROWN" />
+      <turnout systemName="vTurnout Signal 01 Continue 2" state="THROWN" />
+      <turnout systemName="vTurnout Signal 01 Continue 1" state="CLOSED" />
+      <turnout systemName="vTurnout Signal 01 Continue 1" state="THROWN" />
+      <turnout systemName="vTurnout Signal 01 Continue 2" state="THROWN" />
+      <turnout systemName="vTurnout Signal 01 Continue 1" state="CLOSED" />
+      <turnout systemName="vTurnout Signal 01 Continue 1" state="CLOSED" />
+    </signalhead>
+    <signalhead class="jmri.implementation.configurexml.LsDecSignalHeadXml">
+      <systemName>IH41</systemName>
+      <userName>Signal Turnout 01 Diverge Advance</userName>
+      <turnout systemName="vTurnout Signal 01 Diverge 1" state="THROWN" />
+      <turnout systemName="vTurnout Signal 01 Diverge 2" state="THROWN" />
+      <turnout systemName="vTurnout Signal 01 Diverge 1" state="CLOSED" />
+      <turnout systemName="vTurnout Signal 01 Diverge 1" state="THROWN" />
+      <turnout systemName="vTurnout Signal 01 Diverge 2" state="THROWN" />
+      <turnout systemName="vTurnout Signal 01 Diverge 1" state="CLOSED" />
+      <turnout systemName="vTurnout Signal 01 Diverge 1" state="CLOSED" />
+    </signalhead>
+    <signalhead class="jmri.implementation.configurexml.LsDecSignalHeadXml">
+      <systemName>IH42</systemName>
+      <userName>Signal Turnout 01 Throat Advance</userName>
+      <turnout systemName="vTurnout Signal 01 Throat 1" state="THROWN" />
+      <turnout systemName="vTurnout Signal 01 Throat 2" state="THROWN" />
+      <turnout systemName="vTurnout Signal 01 Throat 1" state="CLOSED" />
+      <turnout systemName="vTurnout Signal 01 Throat 1" state="THROWN" />
+      <turnout systemName="vTurnout Signal 01 Throat 2" state="THROWN" />
+      <turnout systemName="vTurnout Signal 01 Throat 1" state="CLOSED" />
+      <turnout systemName="vTurnout Signal 01 Throat 1" state="CLOSED" />
+    </signalhead>
+    <signalhead class="jmri.implementation.configurexml.LsDecSignalHeadXml">
+      <systemName>IH43</systemName>
+      <userName>Signal Turnout 02A Continue</userName>
+      <turnout systemName="vTurnout Signal 02A Continue 1" state="THROWN" />
+      <turnout systemName="vTurnout Signal 02A Continue 2" state="THROWN" />
+      <turnout systemName="vTurnout Signal 02A Continue 1" state="CLOSED" />
+      <turnout systemName="vTurnout Signal 02A Continue 1" state="THROWN" />
+      <turnout systemName="vTurnout Signal 02A Continue 2" state="THROWN" />
+      <turnout systemName="vTurnout Signal 02A Continue 1" state="CLOSED" />
+      <turnout systemName="vTurnout Signal 02A Continue 1" state="CLOSED" />
+    </signalhead>
+    <signalhead class="jmri.implementation.configurexml.LsDecSignalHeadXml">
+      <systemName>IH44</systemName>
+      <userName>Signal Turnout 02A Continue Advance</userName>
+      <turnout systemName="vTurnout Signal 02A Continue 1" state="THROWN" />
+      <turnout systemName="vTurnout Signal 02A Continue 2" state="THROWN" />
+      <turnout systemName="vTurnout Signal 02A Continue 1" state="CLOSED" />
+      <turnout systemName="vTurnout Signal 02A Continue 1" state="THROWN" />
+      <turnout systemName="vTurnout Signal 02A Continue 2" state="THROWN" />
+      <turnout systemName="vTurnout Signal 02A Continue 1" state="CLOSED" />
+      <turnout systemName="vTurnout Signal 02A Continue 1" state="CLOSED" />
+    </signalhead>
+    <signalhead class="jmri.implementation.configurexml.LsDecSignalHeadXml">
+      <systemName>IH45</systemName>
+      <userName>Signal Turnout 02B Throat</userName>
+      <turnout systemName="vTurnout Signal 02B Throat 1" state="THROWN" />
+      <turnout systemName="vTurnout Signal 02B Throat 2" state="THROWN" />
+      <turnout systemName="vTurnout Signal 02B Throat 1" state="CLOSED" />
+      <turnout systemName="vTurnout Signal 02A Continue 1" state="THROWN" />
+      <turnout systemName="vTurnout Signal 02B Throat 2" state="THROWN" />
+      <turnout systemName="vTurnout Signal 01 Throat 1" state="CLOSED" />
+      <turnout systemName="vTurnout Signal 01 Throat 1" state="CLOSED" />
+    </signalhead>
+    <signalhead class="jmri.implementation.configurexml.LsDecSignalHeadXml">
+      <systemName>IH46</systemName>
+      <userName>Signal Turnout 02B Throat Advance</userName>
+      <turnout systemName="vTurnout Signal 02B Throat 1" state="THROWN" />
+      <turnout systemName="vTurnout Signal 02B Throat 2" state="THROWN" />
+      <turnout systemName="vTurnout Signal 02B Throat 1" state="CLOSED" />
+      <turnout systemName="vTurnout Signal 02A Continue 1" state="THROWN" />
+      <turnout systemName="vTurnout Signal 02B Throat 2" state="THROWN" />
+      <turnout systemName="vTurnout Signal 01 Throat 1" state="CLOSED" />
+      <turnout systemName="vTurnout Signal 01 Throat 1" state="CLOSED" />
+    </signalhead>
+    <signalhead class="jmri.implementation.configurexml.LsDecSignalHeadXml">
+      <systemName>IH47</systemName>
+      <userName>Signal Turnout 02C Continue</userName>
+      <turnout systemName="vTurnout Signal 02C Continue 1" state="THROWN" />
+      <turnout systemName="vTurnout Signal 02C Continue 2" state="THROWN" />
+      <turnout systemName="vTurnout Signal 02C Continue 1" state="CLOSED" />
+      <turnout systemName="vTurnout Signal 02C Continue 1" state="THROWN" />
+      <turnout systemName="vTurnout Signal 02C Continue 2" state="THROWN" />
+      <turnout systemName="vTurnout Signal 02C Continue 1" state="CLOSED" />
+      <turnout systemName="vTurnout Signal 02C Continue 1" state="CLOSED" />
+    </signalhead>
+    <signalhead class="jmri.implementation.configurexml.LsDecSignalHeadXml">
+      <systemName>IH48</systemName>
+      <userName>Signal Turnout 02C Continue Advance</userName>
+      <turnout systemName="vTurnout Signal 02C Continue 1" state="THROWN" />
+      <turnout systemName="vTurnout Signal 02C Continue 2" state="THROWN" />
+      <turnout systemName="vTurnout Signal 02C Continue 1" state="CLOSED" />
+      <turnout systemName="vTurnout Signal 02C Continue 1" state="THROWN" />
+      <turnout systemName="vTurnout Signal 02C Continue 2" state="THROWN" />
+      <turnout systemName="vTurnout Signal 02C Continue 1" state="CLOSED" />
+      <turnout systemName="vTurnout Signal 02C Continue 1" state="CLOSED" />
+    </signalhead>
+    <signalhead class="jmri.implementation.configurexml.LsDecSignalHeadXml">
+      <systemName>IH49</systemName>
+      <userName>Signal Turnout 02D Throat</userName>
+      <turnout systemName="vTurnout Signal 02D Throat 1" state="THROWN" />
+      <turnout systemName="vTurnout Signal 02D Throat 2" state="THROWN" />
+      <turnout systemName="vTurnout Signal 02D Throat 1" state="CLOSED" />
+      <turnout systemName="vTurnout Signal 02D Throat 1" state="THROWN" />
+      <turnout systemName="vTurnout Signal 02D Throat 2" state="THROWN" />
+      <turnout systemName="vTurnout Signal 02D Throat 1" state="CLOSED" />
+      <turnout systemName="vTurnout Signal 02D Throat 1" state="CLOSED" />
+    </signalhead>
+    <signalhead class="jmri.implementation.configurexml.LsDecSignalHeadXml">
+      <systemName>IH50</systemName>
+      <userName>Signal Turnout 02D Throat Advance</userName>
+      <turnout systemName="vTurnout Signal 02D Throat 1" state="THROWN" />
+      <turnout systemName="vTurnout Signal 02D Throat 2" state="THROWN" />
+      <turnout systemName="vTurnout Signal 02D Throat 1" state="CLOSED" />
+      <turnout systemName="vTurnout Signal 02D Throat 1" state="THROWN" />
+      <turnout systemName="vTurnout Signal 02D Throat 2" state="THROWN" />
+      <turnout systemName="vTurnout Signal 02D Throat 1" state="CLOSED" />
+      <turnout systemName="vTurnout Signal 02D Throat 1" state="CLOSED" />
+    </signalhead>
+    <signalhead class="jmri.implementation.configurexml.LsDecSignalHeadXml">
+      <systemName>IH51</systemName>
+      <userName>Signal Turnout 04A Throat</userName>
+      <turnout systemName="vTurnout Signal 04A Throat 1" state="THROWN" />
+      <turnout systemName="vTurnout Signal 04A Throat 2" state="THROWN" />
+      <turnout systemName="vTurnout Signal 04A Throat 1" state="CLOSED" />
+      <turnout systemName="vTurnout Signal 04A Throat 1" state="THROWN" />
+      <turnout systemName="vTurnout Signal 04A Throat 2" state="THROWN" />
+      <turnout systemName="vTurnout Signal 04A Throat 1" state="CLOSED" />
+      <turnout systemName="vTurnout Signal 04A Throat 1" state="CLOSED" />
+    </signalhead>
+    <signalhead class="jmri.implementation.configurexml.LsDecSignalHeadXml">
+      <systemName>IH52</systemName>
+      <userName>Signal Turnout 04A Throat Advance</userName>
+      <turnout systemName="vTurnout Signal 04A Throat 1" state="THROWN" />
+      <turnout systemName="vTurnout Signal 04A Throat 2" state="THROWN" />
+      <turnout systemName="vTurnout Signal 04A Throat 1" state="CLOSED" />
+      <turnout systemName="vTurnout Signal 04A Throat 1" state="THROWN" />
+      <turnout systemName="vTurnout Signal 04A Throat 2" state="THROWN" />
+      <turnout systemName="vTurnout Signal 04A Throat 1" state="CLOSED" />
+      <turnout systemName="vTurnout Signal 04A Throat 1" state="CLOSED" />
+    </signalhead>
+    <signalhead class="jmri.implementation.configurexml.LsDecSignalHeadXml">
+      <systemName>IH53</systemName>
+      <userName>Signal Turnout 04B Continue</userName>
+      <turnout systemName="vTurnout Signal 04B Continue 1" state="THROWN" />
+      <turnout systemName="vTurnout Signal 04B Continue 2" state="THROWN" />
+      <turnout systemName="vTurnout Signal 04B Continue 1" state="CLOSED" />
+      <turnout systemName="vTurnout Signal 04B Continue 1" state="THROWN" />
+      <turnout systemName="vTurnout Signal 04B Continue 2" state="THROWN" />
+      <turnout systemName="vTurnout Signal 04B Continue 1" state="CLOSED" />
+      <turnout systemName="vTurnout Signal 04B Continue 1" state="CLOSED" />
+    </signalhead>
+    <signalhead class="jmri.implementation.configurexml.LsDecSignalHeadXml">
+      <systemName>IH54</systemName>
+      <userName>Signal Turnout 04B Continue Advance</userName>
+      <turnout systemName="vTurnout Signal 04B Continue 1" state="THROWN" />
+      <turnout systemName="vTurnout Signal 04B Continue 2" state="THROWN" />
+      <turnout systemName="vTurnout Signal 04B Continue 1" state="CLOSED" />
+      <turnout systemName="vTurnout Signal 04B Continue 1" state="THROWN" />
+      <turnout systemName="vTurnout Signal 04B Continue 2" state="THROWN" />
+      <turnout systemName="vTurnout Signal 04B Continue 1" state="CLOSED" />
+      <turnout systemName="vTurnout Signal 04B Continue 1" state="CLOSED" />
+    </signalhead>
+    <signalhead class="jmri.implementation.configurexml.LsDecSignalHeadXml">
+      <systemName>IH55</systemName>
+      <userName>Signal Turnout 04C Throat</userName>
+      <turnout systemName="vTurnout Signal 04C Throat 1" state="THROWN" />
+      <turnout systemName="vTurnout Signal 04C Throat 2" state="THROWN" />
+      <turnout systemName="vTurnout Signal 04C Throat 1" state="CLOSED" />
+      <turnout systemName="vTurnout Signal 04C Throat 1" state="THROWN" />
+      <turnout systemName="vTurnout Signal 04C Throat 2" state="THROWN" />
+      <turnout systemName="vTurnout Signal 04C Throat 1" state="CLOSED" />
+      <turnout systemName="vTurnout Signal 04C Throat 1" state="CLOSED" />
+    </signalhead>
+    <signalhead class="jmri.implementation.configurexml.LsDecSignalHeadXml">
+      <systemName>IH56</systemName>
+      <userName>Signal Turnout 04C Throat Advance</userName>
+      <turnout systemName="vTurnout Signal 04C Throat 1" state="THROWN" />
+      <turnout systemName="vTurnout Signal 04C Throat 2" state="THROWN" />
+      <turnout systemName="vTurnout Signal 04C Throat 1" state="CLOSED" />
+      <turnout systemName="vTurnout Signal 04C Throat 1" state="THROWN" />
+      <turnout systemName="vTurnout Signal 04C Throat 2" state="THROWN" />
+      <turnout systemName="vTurnout Signal 04C Throat 1" state="CLOSED" />
+      <turnout systemName="vTurnout Signal 04C Throat 1" state="CLOSED" />
+    </signalhead>
+    <signalhead class="jmri.implementation.configurexml.LsDecSignalHeadXml">
+      <systemName>IH57</systemName>
+      <userName>Signal Turnout 04D Continue</userName>
+      <turnout systemName="vTurnout Signal 04D Continue 1" state="THROWN" />
+      <turnout systemName="vTurnout Signal 04D Continue 2" state="THROWN" />
+      <turnout systemName="vTurnout Signal 04B Continue 1" state="CLOSED" />
+      <turnout systemName="vTurnout Signal 04D Continue 1" state="THROWN" />
+      <turnout systemName="vTurnout Signal 04D Continue 2" state="THROWN" />
+      <turnout systemName="vTurnout Signal 04D Continue 1" state="CLOSED" />
+      <turnout systemName="vTurnout Signal 04D Continue 1" state="CLOSED" />
+    </signalhead>
+    <signalhead class="jmri.implementation.configurexml.LsDecSignalHeadXml">
+      <systemName>IH58</systemName>
+      <userName>Signal Turnout 04D Continue Advance</userName>
+      <turnout systemName="vTurnout Signal 04D Continue 1" state="THROWN" />
+      <turnout systemName="vTurnout Signal 04D Continue 2" state="THROWN" />
+      <turnout systemName="vTurnout Signal 04B Continue 1" state="CLOSED" />
+      <turnout systemName="vTurnout Signal 04D Continue 1" state="THROWN" />
+      <turnout systemName="vTurnout Signal 04D Continue 2" state="THROWN" />
+      <turnout systemName="vTurnout Signal 04D Continue 1" state="CLOSED" />
+      <turnout systemName="vTurnout Signal 04D Continue 1" state="CLOSED" />
+    </signalhead>
+    <signalhead class="jmri.implementation.configurexml.LsDecSignalHeadXml">
+      <systemName>IH59</systemName>
+      <userName>Signal Turnout 06 Continue</userName>
+      <turnout systemName="vTurnout Signal 06 Continue 1" state="THROWN" />
+      <turnout systemName="vTurnout Signal 06 Continue 2" state="THROWN" />
+      <turnout systemName="vTurnout Signal 06 Continue 1" state="CLOSED" />
+      <turnout systemName="vTurnout Signal 06 Continue 1" state="THROWN" />
+      <turnout systemName="vTurnout Signal 06 Continue 2" state="THROWN" />
+      <turnout systemName="vTurnout Signal 06 Continue 1" state="CLOSED" />
+      <turnout systemName="vTurnout Signal 04D Continue 2" state="CLOSED" />
+    </signalhead>
+    <signalhead class="jmri.implementation.configurexml.LsDecSignalHeadXml">
+      <systemName>IH60</systemName>
+      <userName>Signal Turnout 06 Continue Advance</userName>
+      <turnout systemName="vTurnout Signal 06 Continue 1" state="THROWN" />
+      <turnout systemName="vTurnout Signal 06 Continue 2" state="THROWN" />
+      <turnout systemName="vTurnout Signal 06 Continue 1" state="CLOSED" />
+      <turnout systemName="vTurnout Signal 06 Continue 1" state="THROWN" />
+      <turnout systemName="vTurnout Signal 06 Continue 2" state="THROWN" />
+      <turnout systemName="vTurnout Signal 06 Continue 1" state="CLOSED" />
+      <turnout systemName="vTurnout Signal 04D Continue 2" state="CLOSED" />
+    </signalhead>
+    <signalhead class="jmri.implementation.configurexml.LsDecSignalHeadXml">
+      <systemName>IH61</systemName>
+      <userName>Signal Turnout 06 Diverge</userName>
+      <turnout systemName="vTurnout Signal 06 Diverge 1" state="THROWN" />
+      <turnout systemName="vTurnout Signal 06 Diverge 2" state="THROWN" />
+      <turnout systemName="vTurnout Signal 06 Diverge 1" state="CLOSED" />
+      <turnout systemName="vTurnout Signal 06 Diverge 1" state="THROWN" />
+      <turnout systemName="vTurnout Signal 06 Diverge 2" state="THROWN" />
+      <turnout systemName="vTurnout Signal 06 Diverge 1" state="CLOSED" />
+      <turnout systemName="vTurnout Signal 06 Diverge 1" state="CLOSED" />
+    </signalhead>
+    <signalhead class="jmri.implementation.configurexml.LsDecSignalHeadXml">
+      <systemName>IH62</systemName>
+      <userName>Signal Turnout 06 Diverge Advance</userName>
+      <turnout systemName="vTurnout Signal 06 Diverge 1" state="THROWN" />
+      <turnout systemName="vTurnout Signal 06 Diverge 2" state="THROWN" />
+      <turnout systemName="vTurnout Signal 06 Diverge 1" state="CLOSED" />
+      <turnout systemName="vTurnout Signal 06 Diverge 1" state="THROWN" />
+      <turnout systemName="vTurnout Signal 06 Diverge 2" state="THROWN" />
+      <turnout systemName="vTurnout Signal 06 Diverge 1" state="CLOSED" />
+      <turnout systemName="vTurnout Signal 06 Diverge 1" state="CLOSED" />
+    </signalhead>
+    <signalhead class="jmri.implementation.configurexml.LsDecSignalHeadXml">
+      <systemName>IH63</systemName>
+      <userName>Signal Turnout 06 Throat</userName>
+      <turnout systemName="vTurnout Signal 06 Throat 1" state="THROWN" />
+      <turnout systemName="vTurnout Signal 06 Throat 2" state="THROWN" />
+      <turnout systemName="vTurnout Signal 06 Throat 1" state="CLOSED" />
+      <turnout systemName="vTurnout Signal 06 Throat 1" state="THROWN" />
+      <turnout systemName="vTurnout Signal 06 Throat 2" state="THROWN" />
+      <turnout systemName="vTurnout Signal 06 Throat 1" state="CLOSED" />
+      <turnout systemName="vTurnout Signal 06 Throat 1" state="CLOSED" />
+    </signalhead>
+    <signalhead class="jmri.implementation.configurexml.LsDecSignalHeadXml">
+      <systemName>IH64</systemName>
+      <userName>Signal Turnout 06 Throat Advance</userName>
+      <turnout systemName="vTurnout Signal 06 Throat 1" state="THROWN" />
+      <turnout systemName="vTurnout Signal 06 Throat 2" state="THROWN" />
+      <turnout systemName="vTurnout Signal 06 Throat 1" state="CLOSED" />
+      <turnout systemName="vTurnout Signal 06 Throat 1" state="THROWN" />
+      <turnout systemName="vTurnout Signal 06 Throat 2" state="THROWN" />
+      <turnout systemName="vTurnout Signal 06 Throat 1" state="CLOSED" />
+      <turnout systemName="vTurnout Signal 06 Throat 1" state="CLOSED" />
+    </signalhead>
+    <signalhead class="jmri.implementation.configurexml.LsDecSignalHeadXml">
+      <systemName>IH65</systemName>
+      <userName>Signal Turnout 09 Continue</userName>
+      <turnout systemName="vTurnout Signal 09 Continue 1" state="THROWN" />
+      <turnout systemName="vTurnout Signal 09 Continue 2" state="THROWN" />
+      <turnout systemName="vTurnout Signal 09 Continue 1" state="CLOSED" />
+      <turnout systemName="vTurnout Signal 09 Continue 1" state="THROWN" />
+      <turnout systemName="vTurnout Signal 09 Continue 2" state="THROWN" />
+      <turnout systemName="vTurnout Signal 09 Continue 1" state="CLOSED" />
+      <turnout systemName="vTurnout Signal 09 Continue 1" state="CLOSED" />
+    </signalhead>
+    <signalhead class="jmri.implementation.configurexml.LsDecSignalHeadXml">
+      <systemName>IH66</systemName>
+      <userName>Signal Turnout 09 Continue Advance</userName>
+      <turnout systemName="vTurnout Signal 09 Continue 1" state="THROWN" />
+      <turnout systemName="vTurnout Signal 09 Continue 2" state="THROWN" />
+      <turnout systemName="vTurnout Signal 09 Continue 1" state="CLOSED" />
+      <turnout systemName="vTurnout Signal 09 Continue 1" state="THROWN" />
+      <turnout systemName="vTurnout Signal 09 Continue 2" state="THROWN" />
+      <turnout systemName="vTurnout Signal 09 Continue 1" state="CLOSED" />
+      <turnout systemName="vTurnout Signal 09 Continue 1" state="CLOSED" />
+    </signalhead>
+    <signalhead class="jmri.implementation.configurexml.LsDecSignalHeadXml">
+      <systemName>IH67</systemName>
+      <userName>Signal Turnout 09 Diverge</userName>
+      <turnout systemName="vTurnout Signal 09 Diverge 1" state="THROWN" />
+      <turnout systemName="vTurnout Signal 09 Diverge 2" state="THROWN" />
+      <turnout systemName="vTurnout Signal 09 Diverge 1" state="CLOSED" />
+      <turnout systemName="vTurnout Signal 09 Diverge 1" state="THROWN" />
+      <turnout systemName="vTurnout Signal 09 Diverge 2" state="THROWN" />
+      <turnout systemName="vTurnout Signal 09 Diverge 1" state="CLOSED" />
+      <turnout systemName="vTurnout Signal 09 Diverge 1" state="CLOSED" />
+    </signalhead>
+    <signalhead class="jmri.implementation.configurexml.LsDecSignalHeadXml">
+      <systemName>IH68</systemName>
+      <userName>Signal Turnout 09 Diverge Advance</userName>
+      <turnout systemName="vTurnout Signal 09 Diverge 1" state="THROWN" />
+      <turnout systemName="vTurnout Signal 09 Diverge 2" state="THROWN" />
+      <turnout systemName="vTurnout Signal 09 Diverge 1" state="CLOSED" />
+      <turnout systemName="vTurnout Signal 09 Diverge 1" state="THROWN" />
+      <turnout systemName="vTurnout Signal 09 Diverge 2" state="THROWN" />
+      <turnout systemName="vTurnout Signal 09 Diverge 1" state="CLOSED" />
+      <turnout systemName="vTurnout Signal 09 Diverge 1" state="CLOSED" />
+    </signalhead>
+    <signalhead class="jmri.implementation.configurexml.LsDecSignalHeadXml">
+      <systemName>IH69</systemName>
+      <userName>Signal Turnout 09 Throat</userName>
+      <turnout systemName="vTurnout Signal 09 Throat 1" state="THROWN" />
+      <turnout systemName="vTurnout Signal 09 Throat 2" state="THROWN" />
+      <turnout systemName="vTurnout Signal 09 Throat 1" state="CLOSED" />
+      <turnout systemName="vTurnout Signal 09 Throat 1" state="THROWN" />
+      <turnout systemName="vTurnout Signal 09 Throat 2" state="THROWN" />
+      <turnout systemName="vTurnout Signal 09 Throat 1" state="CLOSED" />
+      <turnout systemName="vTurnout Signal 09 Throat 1" state="CLOSED" />
+    </signalhead>
+    <signalhead class="jmri.implementation.configurexml.LsDecSignalHeadXml">
+      <systemName>IH70</systemName>
+      <userName>Signal Turnout 09 Throat Advance</userName>
+      <turnout systemName="vTurnout Signal 09 Throat 1" state="THROWN" />
+      <turnout systemName="vTurnout Signal 09 Throat 2" state="THROWN" />
+      <turnout systemName="vTurnout Signal 09 Throat 1" state="CLOSED" />
+      <turnout systemName="vTurnout Signal 09 Throat 1" state="THROWN" />
+      <turnout systemName="vTurnout Signal 09 Throat 2" state="THROWN" />
+      <turnout systemName="vTurnout Signal 09 Throat 1" state="CLOSED" />
+      <turnout systemName="vTurnout Signal 09 Throat 1" state="CLOSED" />
+    </signalhead>
+    <signalhead class="jmri.implementation.configurexml.LsDecSignalHeadXml">
+      <systemName>IH71</systemName>
+      <userName>Signal Turnout 10 Continue</userName>
+      <turnout systemName="vTurnout Signal 10 Continue 1" state="THROWN" />
+      <turnout systemName="vTurnout Signal 10 Continue 2" state="THROWN" />
+      <turnout systemName="vTurnout Signal 10 Continue 1" state="CLOSED" />
+      <turnout systemName="vTurnout Signal 10 Continue 1" state="THROWN" />
+      <turnout systemName="vTurnout Signal 10 Continue 2" state="THROWN" />
+      <turnout systemName="vTurnout Signal 10 Continue 1" state="CLOSED" />
+      <turnout systemName="vTurnout Signal 10 Continue 1" state="CLOSED" />
+    </signalhead>
+    <signalhead class="jmri.implementation.configurexml.LsDecSignalHeadXml">
+      <systemName>IH72</systemName>
+      <userName>Signal Turnout 10 Continue Advance</userName>
+      <turnout systemName="vTurnout Signal 10 Continue 1" state="THROWN" />
+      <turnout systemName="vTurnout Signal 10 Continue 2" state="THROWN" />
+      <turnout systemName="vTurnout Signal 10 Continue 1" state="CLOSED" />
+      <turnout systemName="vTurnout Signal 10 Continue 1" state="THROWN" />
+      <turnout systemName="vTurnout Signal 10 Continue 2" state="THROWN" />
+      <turnout systemName="vTurnout Signal 10 Continue 1" state="CLOSED" />
+      <turnout systemName="vTurnout Signal 10 Continue 1" state="CLOSED" />
+    </signalhead>
+    <signalhead class="jmri.implementation.configurexml.LsDecSignalHeadXml">
+      <systemName>IH73</systemName>
+      <userName>Signal Turnout 10 Diverge</userName>
+      <turnout systemName="vTurnout Signal 10 Diverge 1" state="THROWN" />
+      <turnout systemName="vTurnout Signal 10 Diverge 2" state="THROWN" />
+      <turnout systemName="vTurnout Signal 10 Diverge 1" state="CLOSED" />
+      <turnout systemName="vTurnout Signal 10 Diverge 1" state="THROWN" />
+      <turnout systemName="vTurnout Signal 10 Diverge 2" state="THROWN" />
+      <turnout systemName="vTurnout Signal 10 Diverge 1" state="CLOSED" />
+      <turnout systemName="vTurnout Signal 10 Diverge 1" state="CLOSED" />
+    </signalhead>
+    <signalhead class="jmri.implementation.configurexml.LsDecSignalHeadXml">
+      <systemName>IH74</systemName>
+      <userName>Signal Turnout 10 Diverge Advance</userName>
+      <turnout systemName="vTurnout Signal 10 Diverge 1" state="THROWN" />
+      <turnout systemName="vTurnout Signal 10 Diverge 2" state="THROWN" />
+      <turnout systemName="vTurnout Signal 10 Diverge 1" state="CLOSED" />
+      <turnout systemName="vTurnout Signal 10 Diverge 1" state="THROWN" />
+      <turnout systemName="vTurnout Signal 10 Diverge 2" state="THROWN" />
+      <turnout systemName="vTurnout Signal 10 Diverge 1" state="CLOSED" />
+      <turnout systemName="vTurnout Signal 10 Diverge 1" state="CLOSED" />
+    </signalhead>
+    <signalhead class="jmri.implementation.configurexml.LsDecSignalHeadXml">
+      <systemName>IH75</systemName>
+      <userName>Signal Turnout 10 Throat</userName>
+      <turnout systemName="vTurnout Signal 10 Throat 1" state="THROWN" />
+      <turnout systemName="vTurnout Signal 10 Throat 2" state="THROWN" />
+      <turnout systemName="vTurnout Signal 10 Throat 1" state="CLOSED" />
+      <turnout systemName="vTurnout Signal 10 Throat 1" state="THROWN" />
+      <turnout systemName="vTurnout Signal 10 Throat 2" state="THROWN" />
+      <turnout systemName="vTurnout Signal 10 Throat 1" state="CLOSED" />
+      <turnout systemName="vTurnout Signal 10 Throat 1" state="CLOSED" />
+    </signalhead>
+    <signalhead class="jmri.implementation.configurexml.LsDecSignalHeadXml">
+      <systemName>IH76</systemName>
+      <userName>Signal Turnout 10 Throat Advance</userName>
+      <turnout systemName="vTurnout Signal 10 Throat 1" state="THROWN" />
+      <turnout systemName="vTurnout Signal 10 Throat 2" state="THROWN" />
+      <turnout systemName="vTurnout Signal 10 Throat 1" state="CLOSED" />
+      <turnout systemName="vTurnout Signal 10 Throat 1" state="THROWN" />
+      <turnout systemName="vTurnout Signal 10 Throat 2" state="THROWN" />
+      <turnout systemName="vTurnout Signal 10 Throat 1" state="CLOSED" />
+      <turnout systemName="vTurnout Signal 10 Throat 1" state="CLOSED" />
     </signalhead>
   </signalheads>
   <blocks class="jmri.configurexml.BlockManagerXml">
@@ -708,7 +1148,7 @@
           <turnout systemName="Turnout 09" />
         </beansetting>
       </path>
-      <path todir="96" fromdir="144" block="IB:AUTO:0011">
+      <path todir="64" fromdir="128" block="IB:AUTO:0011">
         <beansetting setting="4">
           <turnout systemName="Turnout 10" />
         </beansetting>
@@ -961,40 +1401,40 @@
     <signalelement signal="vSignal Turnout 01 Diverge" mode="3" watchedturnout="MT05.01.01.01.31.00.00.00;05.01.01.01.31.00.00.01" watchedsignal1="IH09" watchedsignal1alt="IH10" limitspeed1="false" limitspeed2="true" useflashyellow="false" distantsignal="false">
       <sensorname>MS05.01.01.01.31.00.02.02;05.01.01.01.31.00.02.03</sensorname>
     </signalelement>
-    <signalelement signal="vSignal Turnout 02 A Continue" mode="2" watchedturnout="MT05.01.01.01.31.00.00.02;05.01.01.01.31.00.00.03" watchedsignal1="IH11" watchedsignal1alt="IH12" limitspeed1="false" limitspeed2="false" useflashyellow="false" distantsignal="false">
+    <signalelement signal="vSignal Turnout 02A Continue" mode="2" watchedturnout="MT05.01.01.01.31.00.00.02;05.01.01.01.31.00.00.03" watchedsignal1="IH11" watchedsignal1alt="IH12" limitspeed1="false" limitspeed2="false" useflashyellow="false" distantsignal="false">
       <sensorname>MS05.01.01.01.31.00.02.04;05.01.01.01.31.00.02.05</sensorname>
     </signalelement>
-    <signalelement signal="vSignal Turnout 02 B Continue" mode="2" watchedturnout="MT05.01.01.01.31.00.00.02;05.01.01.01.31.00.00.03" watchedsignal1="IH29" limitspeed1="false" limitspeed2="false" useflashyellow="false" distantsignal="false">
+    <signalelement signal="vSignal Turnout 02B Continue" mode="2" watchedturnout="MT05.01.01.01.31.00.00.02;05.01.01.01.31.00.00.03" watchedsignal1="IH29" limitspeed1="false" limitspeed2="false" useflashyellow="false" distantsignal="false">
       <sensorname>MS05.01.01.01.31.00.02.18;05.01.01.01.31.00.02.19</sensorname>
     </signalelement>
-    <signalelement signal="vSignal Turnout 02 B Diverge" mode="3" watchedturnout="MT05.01.01.01.31.00.00.02;05.01.01.01.31.00.00.03" watchedsignal1="IH01" watchedsignal1alt="IH04" limitspeed1="false" limitspeed2="true" useflashyellow="false" distantsignal="false">
+    <signalelement signal="vSignal Turnout 02B Diverge" mode="3" watchedturnout="MT05.01.01.01.31.00.00.02;05.01.01.01.31.00.00.03" watchedsignal1="IH01" watchedsignal1alt="IH04" limitspeed1="false" limitspeed2="true" useflashyellow="false" distantsignal="false">
       <sensorname>MS05.01.01.01.31.00.02.02;05.01.01.01.31.00.02.03</sensorname>
     </signalelement>
-    <signalelement signal="vSignal Turnout 02 C Continue" mode="2" watchedturnout="MT05.01.01.01.31.00.00.02;05.01.01.01.31.00.00.03" watchedsignal1="IH01" watchedsignal1alt="IH04" limitspeed1="false" limitspeed2="false" useflashyellow="false" distantsignal="false">
+    <signalelement signal="vSignal Turnout 02C Continue" mode="2" watchedturnout="MT05.01.01.01.31.00.00.02;05.01.01.01.31.00.00.03" watchedsignal1="IH01" watchedsignal1alt="IH04" limitspeed1="false" limitspeed2="false" useflashyellow="false" distantsignal="false">
       <sensorname>MS05.01.01.01.31.00.02.02;05.01.01.01.31.00.02.03</sensorname>
     </signalelement>
-    <signalelement signal="vSignal Turnout 02 D Continue" mode="2" watchedturnout="MT05.01.01.01.31.00.00.02;05.01.01.01.31.00.00.03" watchedsignal1="IH16" limitspeed1="false" limitspeed2="false" useflashyellow="false" distantsignal="false">
+    <signalelement signal="vSignal Turnout 02D Continue" mode="2" watchedturnout="MT05.01.01.01.31.00.00.02;05.01.01.01.31.00.00.03" watchedsignal1="IH16" limitspeed1="false" limitspeed2="false" useflashyellow="false" distantsignal="false">
       <sensorname>MS05.01.01.01.31.00.02.06;05.01.01.01.31.00.02.07</sensorname>
     </signalelement>
-    <signalelement signal="vSignal Turnout 02 D Diverge" mode="3" watchedturnout="MT05.01.01.01.31.00.00.02;05.01.01.01.31.00.00.03" watchedsignal1="IH11" watchedsignal1alt="IH12" limitspeed1="false" limitspeed2="true" useflashyellow="false" distantsignal="false">
+    <signalelement signal="vSignal Turnout 02D Diverge" mode="3" watchedturnout="MT05.01.01.01.31.00.00.02;05.01.01.01.31.00.00.03" watchedsignal1="IH11" watchedsignal1alt="IH12" limitspeed1="false" limitspeed2="true" useflashyellow="false" distantsignal="false">
       <sensorname>MS05.01.01.01.31.00.02.04;05.01.01.01.31.00.02.05</sensorname>
     </signalelement>
-    <signalelement signal="vSignal Turnout 04 A Continue" mode="2" watchedturnout="MT05.01.01.01.31.00.00.06;05.01.01.01.31.00.00.07" watchedsignal1="IH33" limitspeed1="false" limitspeed2="false" useflashyellow="false" distantsignal="false">
+    <signalelement signal="vSignal Turnout 04A Continue" mode="2" watchedturnout="MT05.01.01.01.31.00.00.06;05.01.01.01.31.00.00.07" watchedsignal1="IH33" limitspeed1="false" limitspeed2="false" useflashyellow="false" distantsignal="false">
       <sensorname>MS05.01.01.01.31.00.02.12;05.01.01.01.31.00.02.13</sensorname>
     </signalelement>
-    <signalelement signal="vSignal Turnout 04 A Diverge" mode="3" watchedturnout="MT05.01.01.01.31.00.00.06;05.01.01.01.31.00.00.07" watchedsignal1="IH19" watchedsignal1alt="IH20" limitspeed1="false" limitspeed2="true" useflashyellow="false" distantsignal="false">
+    <signalelement signal="vSignal Turnout 04A Diverge" mode="3" watchedturnout="MT05.01.01.01.31.00.00.06;05.01.01.01.31.00.00.07" watchedsignal1="IH19" watchedsignal1alt="IH20" limitspeed1="false" limitspeed2="true" useflashyellow="false" distantsignal="false">
       <sensorname>MS05.01.01.01.31.00.02.08;05.01.01.01.31.00.02.09</sensorname>
     </signalelement>
-    <signalelement signal="vSignal Turnout 04 B Continue" mode="2" watchedturnout="MT05.01.01.01.31.00.00.06;05.01.01.01.31.00.00.07" watchedsignal1="IH06" watchedsignal1alt="IH07" limitspeed1="false" limitspeed2="false" useflashyellow="false" distantsignal="false">
+    <signalelement signal="vSignal Turnout 04B Continue" mode="2" watchedturnout="MT05.01.01.01.31.00.00.06;05.01.01.01.31.00.00.07" watchedsignal1="IH06" watchedsignal1alt="IH07" limitspeed1="false" limitspeed2="false" useflashyellow="false" distantsignal="false">
       <sensorname>MS05.01.01.01.31.00.02.04;05.01.01.01.31.00.02.05</sensorname>
     </signalelement>
-    <signalelement signal="vSignal Turnout 04 C Continue" mode="2" watchedturnout="MT05.01.01.01.31.00.00.06;05.01.01.01.31.00.00.07" watchedsignal1="IH08" limitspeed1="false" limitspeed2="false" useflashyellow="false" distantsignal="false">
+    <signalelement signal="vSignal Turnout 04C Continue" mode="2" watchedturnout="MT05.01.01.01.31.00.00.06;05.01.01.01.31.00.00.07" watchedsignal1="IH08" limitspeed1="false" limitspeed2="false" useflashyellow="false" distantsignal="false">
       <sensorname>MS05.01.01.01.31.00.02.06;05.01.01.01.31.00.02.07</sensorname>
     </signalelement>
-    <signalelement signal="vSignal Turnout 04 C Diverge" mode="3" watchedturnout="MT05.01.01.01.31.00.00.06;05.01.01.01.31.00.00.07" watchedsignal1="IH06" watchedsignal1alt="IH07" limitspeed1="false" limitspeed2="true" useflashyellow="false" distantsignal="false">
+    <signalelement signal="vSignal Turnout 04C Diverge" mode="3" watchedturnout="MT05.01.01.01.31.00.00.06;05.01.01.01.31.00.00.07" watchedsignal1="IH06" watchedsignal1alt="IH07" limitspeed1="false" limitspeed2="true" useflashyellow="false" distantsignal="false">
       <sensorname>MS05.01.01.01.31.00.02.04;05.01.01.01.31.00.02.05</sensorname>
     </signalelement>
-    <signalelement signal="vSignal Turnout 04 D Continue" mode="2" watchedturnout="MT05.01.01.01.31.00.00.06;05.01.01.01.31.00.00.07" watchedsignal1="IH19" watchedsignal1alt="IH20" limitspeed1="false" limitspeed2="false" useflashyellow="false" distantsignal="false">
+    <signalelement signal="vSignal Turnout 04D Continue" mode="2" watchedturnout="MT05.01.01.01.31.00.00.06;05.01.01.01.31.00.00.07" watchedsignal1="IH19" watchedsignal1alt="IH20" limitspeed1="false" limitspeed2="false" useflashyellow="false" distantsignal="false">
       <sensorname>MS05.01.01.01.31.00.02.08;05.01.01.01.31.00.02.09</sensorname>
     </signalelement>
     <signalelement signal="vSignal Turnout 06 Throat Continue" mode="2" watchedturnout="MT05.01.01.01.31.00.00.0A;05.01.01.01.31.00.00.0B" watchedsignal1="IH03" limitspeed1="false" limitspeed2="false" useflashyellow="false" distantsignal="false">
@@ -1061,7 +1501,7 @@
   <signalmastlogics class="jmri.managers.configurexml.DefaultSignalMastLogicManagerXml">
     <logicDelay>500</logicDelay>
   </signalmastlogics>
-  <LayoutEditor class="jmri.jmrit.display.layoutEditor.configurexml.LayoutEditorXml" name="Signals SSL" x="70" y="27" windowheight="1053" windowwidth="1850" panelheight="607" panelwidth="1260" sliders="no" scrollable="none" editable="yes" positionable="yes" controlling="yes" animating="yes" showhelpbar="no" drawgrid="yes" snaponadd="yes" snaponmove="yes" antialiasing="no" turnoutcircles="no" tooltipsnotedit="no" tooltipsinedit="yes" mainlinetrackwidth="4" xscale="1.0" yscale="1.0" sidetrackwidth="2" defaulttrackcolor="darkGray" defaultoccupiedtrackcolor="red" defaultalternativetrackcolor="white" defaulttextcolor="black" turnoutcirclecolor="black" turnoutcirclesize="4" turnoutdrawunselectedleg="yes" turnoutbx="20.0" turnoutcx="20.0" turnoutwid="10.0" xoverlong="30.0" xoverhwid="10.0" xovershort="10.0" autoblkgenerate="no" redBackground="192" greenBackground="192" blueBackground="192" gridSize="10" gridSize2nd="10" openDispatcher="no" useDirectTurnoutControl="no">
+  <LayoutEditor class="jmri.jmrit.display.layoutEditor.configurexml.LayoutEditorXml" name="Signals SSL" x="70" y="27" windowheight="1053" windowwidth="1850" panelheight="624" panelwidth="1260" sliders="no" scrollable="none" editable="yes" positionable="yes" controlling="yes" animating="yes" showhelpbar="no" drawgrid="yes" snaponadd="yes" snaponmove="yes" antialiasing="no" turnoutcircles="no" tooltipsnotedit="no" tooltipsinedit="yes" mainlinetrackwidth="4" xscale="1.0" yscale="1.0" sidetrackwidth="2" defaulttrackcolor="darkGray" defaultoccupiedtrackcolor="red" defaultalternativetrackcolor="white" defaulttextcolor="black" turnoutcirclecolor="black" turnoutcirclesize="4" turnoutdrawunselectedleg="yes" turnoutbx="20.0" turnoutcx="20.0" turnoutwid="10.0" xoverlong="30.0" xoverhwid="10.0" xovershort="10.0" autoblkgenerate="no" redBackground="192" greenBackground="192" blueBackground="192" gridSize="10" gridSize2nd="10" openDispatcher="no" useDirectTurnoutControl="no">
     <layoutTrackDrawingOptions name="Signals SSL" class="jmri.jmrit.display.layoutEditor.configurexml.LayoutTrackDrawingOptionsXml">
       <mainBallastColor>#000000</mainBallastColor>
       <mainBallastWidth>0</mainBallastWidth>
@@ -1399,7 +1839,7 @@
       </icons>
       <iconmaps />
     </signalheadicon>
-    <signalheadicon signalhead="vSignal Turnout 02 A Continue" x="412" y="524" level="9" forcecontroloff="false" hidden="no" positionable="true" showtooltip="true" editable="true" degrees="180" clickmode="3" litmode="false" class="jmri.jmrit.display.configurexml.SignalHeadIconXml">
+    <signalheadicon signalhead="vSignal Turnout 02A Continue" x="400" y="520" level="9" forcecontroloff="false" hidden="no" positionable="true" showtooltip="true" editable="true" degrees="180" clickmode="3" litmode="false" class="jmri.jmrit.display.configurexml.SignalHeadIconXml">
       <icons>
         <held url="program:resources/icons/smallschematics/searchlights/left-held-short.gif" degrees="180" scale="1.0">
           <rotation>0</rotation>
@@ -1428,123 +1868,94 @@
       </icons>
       <iconmaps />
     </signalheadicon>
-    <signalheadicon signalhead="vSignal Turnout 02 B Continue" x="444" y="502" level="9" forcecontroloff="false" hidden="no" positionable="true" showtooltip="true" editable="true" degrees="90" clickmode="3" litmode="false" class="jmri.jmrit.display.configurexml.SignalHeadIconXml">
+    <signalheadicon signalhead="vSignal Turnout 02B Continue" x="444" y="502" level="9" forcecontroloff="false" hidden="no" positionable="true" showtooltip="true" editable="true" clickmode="3" litmode="false" class="jmri.jmrit.display.configurexml.SignalHeadIconXml">
       <icons>
-        <held url="program:resources/icons/smallschematics/searchlights/left-held-short.gif" degrees="90" scale="1.0">
+        <held url="program:resources/icons/smallschematics/searchlights/left-held-short.gif" degrees="0" scale="1.0">
           <rotation>0</rotation>
         </held>
-        <dark url="program:resources/icons/smallschematics/searchlights/left-dark-short.gif" degrees="90" scale="1.0">
+        <dark url="program:resources/icons/smallschematics/searchlights/left-dark-short.gif" degrees="0" scale="1.0">
           <rotation>0</rotation>
         </dark>
-        <red url="program:resources/icons/smallschematics/searchlights/left-red-short.gif" degrees="90" scale="1.0">
+        <red url="program:resources/icons/smallschematics/searchlights/left-red-short.gif" degrees="0" scale="1.0">
           <rotation>0</rotation>
         </red>
-        <yellow url="program:resources/icons/smallschematics/searchlights/left-yellow-short.gif" degrees="90" scale="1.0">
+        <yellow url="program:resources/icons/smallschematics/searchlights/left-yellow-short.gif" degrees="0" scale="1.0">
           <rotation>0</rotation>
         </yellow>
-        <green url="program:resources/icons/smallschematics/searchlights/left-green-short.gif" degrees="90" scale="1.0">
+        <green url="program:resources/icons/smallschematics/searchlights/left-green-short.gif" degrees="0" scale="1.0">
           <rotation>0</rotation>
         </green>
-        <flashred url="program:resources/icons/smallschematics/searchlights/left-flashred-short.gif" degrees="90" scale="1.0">
+        <flashred url="program:resources/icons/smallschematics/searchlights/left-flashred-short.gif" degrees="0" scale="1.0">
           <rotation>0</rotation>
         </flashred>
-        <flashyellow url="program:resources/icons/smallschematics/searchlights/left-flashyellow-short.gif" degrees="90" scale="1.0">
+        <flashyellow url="program:resources/icons/smallschematics/searchlights/left-flashyellow-short.gif" degrees="0" scale="1.0">
           <rotation>0</rotation>
         </flashyellow>
-        <flashgreen url="program:resources/icons/smallschematics/searchlights/left-flashgreen-short.gif" degrees="90" scale="1.0">
+        <flashgreen url="program:resources/icons/smallschematics/searchlights/left-flashgreen-short.gif" degrees="0" scale="1.0">
           <rotation>0</rotation>
         </flashgreen>
       </icons>
       <iconmaps />
     </signalheadicon>
-    <signalheadicon signalhead="vSignal Turnout 02 B Diverge" x="464" y="502" level="9" forcecontroloff="false" hidden="no" positionable="true" showtooltip="true" editable="true" degrees="90" clickmode="3" litmode="false" class="jmri.jmrit.display.configurexml.SignalHeadIconXml">
+    <signalheadicon signalhead="vSignal Turnout 02B Diverge" x="464" y="502" level="9" forcecontroloff="false" hidden="no" positionable="true" showtooltip="true" editable="true" clickmode="3" litmode="false" class="jmri.jmrit.display.configurexml.SignalHeadIconXml">
       <icons>
-        <held url="program:resources/icons/smallschematics/searchlights/left-held-short.gif" degrees="90" scale="1.0">
+        <held url="program:resources/icons/smallschematics/searchlights/left-held-short.gif" degrees="0" scale="1.0">
           <rotation>0</rotation>
         </held>
-        <dark url="program:resources/icons/smallschematics/searchlights/left-dark-short.gif" degrees="90" scale="1.0">
+        <dark url="program:resources/icons/smallschematics/searchlights/left-dark-short.gif" degrees="0" scale="1.0">
           <rotation>0</rotation>
         </dark>
-        <red url="program:resources/icons/smallschematics/searchlights/left-red-short.gif" degrees="90" scale="1.0">
+        <red url="program:resources/icons/smallschematics/searchlights/left-red-short.gif" degrees="0" scale="1.0">
           <rotation>0</rotation>
         </red>
-        <yellow url="program:resources/icons/smallschematics/searchlights/left-yellow-short.gif" degrees="90" scale="1.0">
+        <yellow url="program:resources/icons/smallschematics/searchlights/left-yellow-short.gif" degrees="0" scale="1.0">
           <rotation>0</rotation>
         </yellow>
-        <green url="program:resources/icons/smallschematics/searchlights/left-green-short.gif" degrees="90" scale="1.0">
+        <green url="program:resources/icons/smallschematics/searchlights/left-green-short.gif" degrees="0" scale="1.0">
           <rotation>0</rotation>
         </green>
-        <flashred url="program:resources/icons/smallschematics/searchlights/left-flashred-short.gif" degrees="90" scale="1.0">
+        <flashred url="program:resources/icons/smallschematics/searchlights/left-flashred-short.gif" degrees="0" scale="1.0">
           <rotation>0</rotation>
         </flashred>
-        <flashyellow url="program:resources/icons/smallschematics/searchlights/left-flashyellow-short.gif" degrees="90" scale="1.0">
+        <flashyellow url="program:resources/icons/smallschematics/searchlights/left-flashyellow-short.gif" degrees="0" scale="1.0">
           <rotation>0</rotation>
         </flashyellow>
-        <flashgreen url="program:resources/icons/smallschematics/searchlights/left-flashgreen-short.gif" degrees="90" scale="1.0">
+        <flashgreen url="program:resources/icons/smallschematics/searchlights/left-flashgreen-short.gif" degrees="0" scale="1.0">
           <rotation>0</rotation>
         </flashgreen>
       </icons>
       <iconmaps />
     </signalheadicon>
-    <signalheadicon signalhead="vSignal Turnout 02 C Continue" x="434" y="522" level="9" forcecontroloff="false" hidden="no" positionable="true" showtooltip="true" editable="true" degrees="90" clickmode="3" litmode="false" class="jmri.jmrit.display.configurexml.SignalHeadIconXml">
+    <signalheadicon signalhead="vSignal Turnout 02C Continue" x="450" y="530" level="9" forcecontroloff="false" hidden="no" positionable="true" showtooltip="true" editable="true" clickmode="3" litmode="false" class="jmri.jmrit.display.configurexml.SignalHeadIconXml">
       <icons>
-        <held url="program:resources/icons/smallschematics/searchlights/left-held-short.gif" degrees="90" scale="1.0">
+        <held url="program:resources/icons/smallschematics/searchlights/left-held-short.gif" degrees="0" scale="1.0">
           <rotation>0</rotation>
         </held>
-        <dark url="program:resources/icons/smallschematics/searchlights/left-dark-short.gif" degrees="90" scale="1.0">
+        <dark url="program:resources/icons/smallschematics/searchlights/left-dark-short.gif" degrees="0" scale="1.0">
           <rotation>0</rotation>
         </dark>
-        <red url="program:resources/icons/smallschematics/searchlights/left-red-short.gif" degrees="90" scale="1.0">
+        <red url="program:resources/icons/smallschematics/searchlights/left-red-short.gif" degrees="0" scale="1.0">
           <rotation>0</rotation>
         </red>
-        <yellow url="program:resources/icons/smallschematics/searchlights/left-yellow-short.gif" degrees="90" scale="1.0">
+        <yellow url="program:resources/icons/smallschematics/searchlights/left-yellow-short.gif" degrees="0" scale="1.0">
           <rotation>0</rotation>
         </yellow>
-        <green url="program:resources/icons/smallschematics/searchlights/left-green-short.gif" degrees="90" scale="1.0">
+        <green url="program:resources/icons/smallschematics/searchlights/left-green-short.gif" degrees="0" scale="1.0">
           <rotation>0</rotation>
         </green>
-        <flashred url="program:resources/icons/smallschematics/searchlights/left-flashred-short.gif" degrees="90" scale="1.0">
+        <flashred url="program:resources/icons/smallschematics/searchlights/left-flashred-short.gif" degrees="0" scale="1.0">
           <rotation>0</rotation>
         </flashred>
-        <flashyellow url="program:resources/icons/smallschematics/searchlights/left-flashyellow-short.gif" degrees="90" scale="1.0">
+        <flashyellow url="program:resources/icons/smallschematics/searchlights/left-flashyellow-short.gif" degrees="0" scale="1.0">
           <rotation>0</rotation>
         </flashyellow>
-        <flashgreen url="program:resources/icons/smallschematics/searchlights/left-flashgreen-short.gif" degrees="90" scale="1.0">
+        <flashgreen url="program:resources/icons/smallschematics/searchlights/left-flashgreen-short.gif" degrees="0" scale="1.0">
           <rotation>0</rotation>
         </flashgreen>
       </icons>
       <iconmaps />
     </signalheadicon>
-    <signalheadicon signalhead="vSignal Turnout 02 D Continue" x="402" y="544" level="9" forcecontroloff="false" hidden="no" positionable="true" showtooltip="true" editable="true" degrees="180" clickmode="3" litmode="false" class="jmri.jmrit.display.configurexml.SignalHeadIconXml">
-      <icons>
-        <held url="program:resources/icons/smallschematics/searchlights/left-held-short.gif" degrees="180" scale="1.0">
-          <rotation>0</rotation>
-        </held>
-        <dark url="program:resources/icons/smallschematics/searchlights/left-dark-short.gif" degrees="180" scale="1.0">
-          <rotation>0</rotation>
-        </dark>
-        <red url="program:resources/icons/smallschematics/searchlights/left-red-short.gif" degrees="180" scale="1.0">
-          <rotation>0</rotation>
-        </red>
-        <yellow url="program:resources/icons/smallschematics/searchlights/left-yellow-short.gif" degrees="180" scale="1.0">
-          <rotation>0</rotation>
-        </yellow>
-        <green url="program:resources/icons/smallschematics/searchlights/left-green-short.gif" degrees="180" scale="1.0">
-          <rotation>0</rotation>
-        </green>
-        <flashred url="program:resources/icons/smallschematics/searchlights/left-flashred-short.gif" degrees="180" scale="1.0">
-          <rotation>0</rotation>
-        </flashred>
-        <flashyellow url="program:resources/icons/smallschematics/searchlights/left-flashyellow-short.gif" degrees="180" scale="1.0">
-          <rotation>0</rotation>
-        </flashyellow>
-        <flashgreen url="program:resources/icons/smallschematics/searchlights/left-flashgreen-short.gif" degrees="180" scale="1.0">
-          <rotation>0</rotation>
-        </flashgreen>
-      </icons>
-      <iconmaps />
-    </signalheadicon>
-    <signalheadicon signalhead="vSignal Turnout 02 D Diverge" x="382" y="544" level="9" forcecontroloff="false" hidden="no" positionable="true" showtooltip="true" editable="true" degrees="180" clickmode="3" litmode="false" class="jmri.jmrit.display.configurexml.SignalHeadIconXml">
+    <signalheadicon signalhead="vSignal Turnout 02D Continue" x="402" y="544" level="9" forcecontroloff="false" hidden="no" positionable="true" showtooltip="true" editable="true" degrees="180" clickmode="3" litmode="false" class="jmri.jmrit.display.configurexml.SignalHeadIconXml">
       <icons>
         <held url="program:resources/icons/smallschematics/searchlights/left-held-short.gif" degrees="180" scale="1.0">
           <rotation>0</rotation>
@@ -1573,7 +1984,7 @@
       </icons>
       <iconmaps />
     </signalheadicon>
-    <signalheadicon signalhead="vSignal Turnout 04 A Continue" x="892" y="524" level="9" forcecontroloff="false" hidden="no" positionable="true" showtooltip="true" editable="true" degrees="180" clickmode="3" litmode="false" class="jmri.jmrit.display.configurexml.SignalHeadIconXml">
+    <signalheadicon signalhead="vSignal Turnout 02D Diverge" x="382" y="544" level="9" forcecontroloff="false" hidden="no" positionable="true" showtooltip="true" editable="true" degrees="180" clickmode="3" litmode="false" class="jmri.jmrit.display.configurexml.SignalHeadIconXml">
       <icons>
         <held url="program:resources/icons/smallschematics/searchlights/left-held-short.gif" degrees="180" scale="1.0">
           <rotation>0</rotation>
@@ -1602,7 +2013,7 @@
       </icons>
       <iconmaps />
     </signalheadicon>
-    <signalheadicon signalhead="vSignal Turnout 04 A Diverge" x="872" y="524" level="9" forcecontroloff="false" hidden="no" positionable="true" showtooltip="true" editable="true" degrees="180" clickmode="3" litmode="false" class="jmri.jmrit.display.configurexml.SignalHeadIconXml">
+    <signalheadicon signalhead="vSignal Turnout 04A Continue" x="892" y="524" level="9" forcecontroloff="false" hidden="no" positionable="true" showtooltip="true" editable="true" degrees="180" clickmode="3" litmode="false" class="jmri.jmrit.display.configurexml.SignalHeadIconXml">
       <icons>
         <held url="program:resources/icons/smallschematics/searchlights/left-held-short.gif" degrees="180" scale="1.0">
           <rotation>0</rotation>
@@ -1631,7 +2042,36 @@
       </icons>
       <iconmaps />
     </signalheadicon>
-    <signalheadicon signalhead="vSignal Turnout 04 B Continue" x="923" y="502" level="9" forcecontroloff="false" hidden="no" positionable="true" showtooltip="true" editable="true" degrees="90" clickmode="3" litmode="false" class="jmri.jmrit.display.configurexml.SignalHeadIconXml">
+    <signalheadicon signalhead="vSignal Turnout 04A Diverge" x="872" y="524" level="9" forcecontroloff="false" hidden="no" positionable="true" showtooltip="true" editable="true" degrees="180" clickmode="3" litmode="false" class="jmri.jmrit.display.configurexml.SignalHeadIconXml">
+      <icons>
+        <held url="program:resources/icons/smallschematics/searchlights/left-held-short.gif" degrees="180" scale="1.0">
+          <rotation>0</rotation>
+        </held>
+        <dark url="program:resources/icons/smallschematics/searchlights/left-dark-short.gif" degrees="180" scale="1.0">
+          <rotation>0</rotation>
+        </dark>
+        <red url="program:resources/icons/smallschematics/searchlights/left-red-short.gif" degrees="180" scale="1.0">
+          <rotation>0</rotation>
+        </red>
+        <yellow url="program:resources/icons/smallschematics/searchlights/left-yellow-short.gif" degrees="180" scale="1.0">
+          <rotation>0</rotation>
+        </yellow>
+        <green url="program:resources/icons/smallschematics/searchlights/left-green-short.gif" degrees="180" scale="1.0">
+          <rotation>0</rotation>
+        </green>
+        <flashred url="program:resources/icons/smallschematics/searchlights/left-flashred-short.gif" degrees="180" scale="1.0">
+          <rotation>0</rotation>
+        </flashred>
+        <flashyellow url="program:resources/icons/smallschematics/searchlights/left-flashyellow-short.gif" degrees="180" scale="1.0">
+          <rotation>0</rotation>
+        </flashyellow>
+        <flashgreen url="program:resources/icons/smallschematics/searchlights/left-flashgreen-short.gif" degrees="180" scale="1.0">
+          <rotation>0</rotation>
+        </flashgreen>
+      </icons>
+      <iconmaps />
+    </signalheadicon>
+    <signalheadicon signalhead="vSignal Turnout 04B Continue" x="923" y="502" level="9" forcecontroloff="false" hidden="no" positionable="true" showtooltip="true" editable="true" degrees="90" clickmode="3" litmode="false" class="jmri.jmrit.display.configurexml.SignalHeadIconXml">
       <icons>
         <held url="program:resources/icons/smallschematics/searchlights/left-held-short.gif" degrees="90" scale="1.0">
           <rotation>0</rotation>
@@ -1660,7 +2100,7 @@
       </icons>
       <iconmaps />
     </signalheadicon>
-    <signalheadicon signalhead="vSignal Turnout 04 C Continue" x="954" y="522" level="9" forcecontroloff="false" hidden="no" positionable="true" showtooltip="true" editable="true" degrees="90" clickmode="3" litmode="false" class="jmri.jmrit.display.configurexml.SignalHeadIconXml">
+    <signalheadicon signalhead="vSignal Turnout 04C Continue" x="954" y="522" level="9" forcecontroloff="false" hidden="no" positionable="true" showtooltip="true" editable="true" degrees="90" clickmode="3" litmode="false" class="jmri.jmrit.display.configurexml.SignalHeadIconXml">
       <icons>
         <held url="program:resources/icons/smallschematics/searchlights/left-held-short.gif" degrees="90" scale="1.0">
           <rotation>0</rotation>
@@ -1689,7 +2129,7 @@
       </icons>
       <iconmaps />
     </signalheadicon>
-    <signalheadicon signalhead="vSignal Turnout 04 C Diverge" x="974" y="522" level="9" forcecontroloff="false" hidden="no" positionable="true" showtooltip="true" editable="true" degrees="90" clickmode="3" litmode="false" class="jmri.jmrit.display.configurexml.SignalHeadIconXml">
+    <signalheadicon signalhead="vSignal Turnout 04C Diverge" x="974" y="522" level="9" forcecontroloff="false" hidden="no" positionable="true" showtooltip="true" editable="true" degrees="90" clickmode="3" litmode="false" class="jmri.jmrit.display.configurexml.SignalHeadIconXml">
       <icons>
         <held url="program:resources/icons/smallschematics/searchlights/left-held-short.gif" degrees="90" scale="1.0">
           <rotation>0</rotation>
@@ -1718,7 +2158,7 @@
       </icons>
       <iconmaps />
     </signalheadicon>
-    <signalheadicon signalhead="vSignal Turnout 04 D Continue" x="922" y="544" level="9" forcecontroloff="false" hidden="no" positionable="true" showtooltip="true" editable="true" degrees="180" clickmode="3" litmode="false" class="jmri.jmrit.display.configurexml.SignalHeadIconXml">
+    <signalheadicon signalhead="vSignal Turnout 04D Continue" x="922" y="544" level="9" forcecontroloff="false" hidden="no" positionable="true" showtooltip="true" editable="true" degrees="180" clickmode="3" litmode="false" class="jmri.jmrit.display.configurexml.SignalHeadIconXml">
       <icons>
         <held url="program:resources/icons/smallschematics/searchlights/left-held-short.gif" degrees="180" scale="1.0">
           <rotation>0</rotation>
@@ -2327,13 +2767,999 @@
       </icons>
       <iconmaps />
     </signalheadicon>
+    <signalheadicon signalhead="Signal Turnout 01 Throat" x="240" y="10" level="9" forcecontroloff="false" hidden="no" positionable="true" showtooltip="true" editable="true" clickmode="3" litmode="false" class="jmri.jmrit.display.configurexml.SignalHeadIconXml">
+      <icons>
+        <held url="settings:resources/icons/CH-Hauptsignal_3ab_Halt_12x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </held>
+        <dark url="settings:resources/icons/CH-Hauptsignal_3ab_Halt_12x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </dark>
+        <red url="settings:resources/icons/CH-Hauptsignal_3ab_Halt_12x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </red>
+        <yellow url="settings:resources/icons/CH-Hauptsignal_3a_FB2_12x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </yellow>
+        <green url="settings:resources/icons/CH-Hauptsignal_3ab_FB1_12x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </green>
+        <flashred url="settings:resources/icons/CH-Hauptsignal_3ab_Halt_12x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </flashred>
+        <flashyellow url="settings:resources/icons/CH-Hauptsignal_3a_FB2_12x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </flashyellow>
+        <flashgreen url="settings:resources/icons/CH-Hauptsignal_3ab_FB1_12x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </flashgreen>
+      </icons>
+      <iconmaps />
+    </signalheadicon>
+    <signalheadicon signalhead="Signal Turnout 01 Continue" x="360" y="50" level="9" forcecontroloff="false" hidden="no" positionable="true" showtooltip="true" editable="true" clickmode="3" litmode="false" class="jmri.jmrit.display.configurexml.SignalHeadIconXml">
+      <icons>
+        <held url="settings:resources/icons/CH-Hauptsignal_3ab_Halt_12x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </held>
+        <dark url="settings:resources/icons/CH-Hauptsignal_3ab_Halt_12x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </dark>
+        <red url="settings:resources/icons/CH-Hauptsignal_3ab_Halt_12x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </red>
+        <yellow url="settings:resources/icons/CH-Hauptsignal_3a_FB2_12x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </yellow>
+        <green url="settings:resources/icons/CH-Hauptsignal_3ab_FB1_12x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </green>
+        <flashred url="settings:resources/icons/CH-Hauptsignal_3ab_Halt_12x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </flashred>
+        <flashyellow url="settings:resources/icons/CH-Hauptsignal_3a_FB2_12x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </flashyellow>
+        <flashgreen url="settings:resources/icons/CH-Hauptsignal_3ab_FB1_12x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </flashgreen>
+      </icons>
+      <iconmaps />
+    </signalheadicon>
+    <signalheadicon signalhead="Signal Turnout 01 Diverge" x="360" y="90" level="9" forcecontroloff="false" hidden="no" positionable="true" showtooltip="true" editable="true" clickmode="3" litmode="false" class="jmri.jmrit.display.configurexml.SignalHeadIconXml">
+      <icons>
+        <held url="settings:resources/icons/CH-Hauptsignal_3ab_Halt_12x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </held>
+        <dark url="settings:resources/icons/CH-Hauptsignal_3ab_Halt_12x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </dark>
+        <red url="settings:resources/icons/CH-Hauptsignal_3ab_Halt_12x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </red>
+        <yellow url="settings:resources/icons/CH-Hauptsignal_3a_FB2_12x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </yellow>
+        <green url="settings:resources/icons/CH-Hauptsignal_3ab_FB1_12x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </green>
+        <flashred url="settings:resources/icons/CH-Hauptsignal_3ab_Halt_12x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </flashred>
+        <flashyellow url="settings:resources/icons/CH-Hauptsignal_3a_FB2_12x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </flashyellow>
+        <flashgreen url="settings:resources/icons/CH-Hauptsignal_3ab_FB1_12x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </flashgreen>
+      </icons>
+      <iconmaps />
+    </signalheadicon>
+    <signalheadicon signalhead="Signal Turnout 01 Throat Advance" x="70" y="140" level="9" forcecontroloff="false" hidden="no" positionable="true" showtooltip="true" editable="true" clickmode="3" litmode="false" class="jmri.jmrit.display.configurexml.SignalHeadIconXml">
+      <icons>
+        <held url="settings:resources/icons/CH-Vorsignal-Halt 24x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </held>
+        <dark url="settings:resources/icons/CH-Vorsignal-Halt 24x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </dark>
+        <red url="settings:resources/icons/CH-Vorsignal-Halt 24x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </red>
+        <yellow url="settings:resources/icons/CH-Vorsignal-FB2 24x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </yellow>
+        <green url="settings:resources/icons/CH-Vorsignal-FB1 24x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </green>
+        <flashred url="settings:resources/icons/CH-Vorsignal-Halt 24x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </flashred>
+        <flashyellow url="settings:resources/icons/CH-Vorsignal-FB2 24x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </flashyellow>
+        <flashgreen url="settings:resources/icons/CH-Vorsignal-FB1 24x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </flashgreen>
+      </icons>
+      <iconmaps />
+    </signalheadicon>
+    <signalheadicon signalhead="Signal Turnout 01 Diverge Advance" x="580" y="90" level="9" forcecontroloff="false" hidden="no" positionable="true" showtooltip="true" editable="true" clickmode="3" litmode="false" class="jmri.jmrit.display.configurexml.SignalHeadIconXml">
+      <icons>
+        <held url="settings:resources/icons/CH-Vorsignal-Halt 24x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </held>
+        <dark url="settings:resources/icons/CH-Vorsignal-Halt 24x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </dark>
+        <red url="settings:resources/icons/CH-Vorsignal-Halt 24x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </red>
+        <yellow url="settings:resources/icons/CH-Vorsignal-FB2 24x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </yellow>
+        <green url="settings:resources/icons/CH-Vorsignal-FB1 24x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </green>
+        <flashred url="settings:resources/icons/CH-Vorsignal-Halt 24x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </flashred>
+        <flashyellow url="settings:resources/icons/CH-Vorsignal-FB2 24x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </flashyellow>
+        <flashgreen url="settings:resources/icons/CH-Vorsignal-FB1 24x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </flashgreen>
+      </icons>
+      <iconmaps />
+    </signalheadicon>
+    <signalheadicon signalhead="Signal Turnout 02A Continue" x="380" y="490" level="9" forcecontroloff="false" hidden="no" positionable="true" showtooltip="true" editable="true" clickmode="3" litmode="false" class="jmri.jmrit.display.configurexml.SignalHeadIconXml">
+      <icons>
+        <held url="settings:resources/icons/CH-Hauptsignal_3ab_Halt_12x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </held>
+        <dark url="settings:resources/icons/CH-Hauptsignal_3ab_Halt_12x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </dark>
+        <red url="settings:resources/icons/CH-Hauptsignal_3ab_Halt_12x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </red>
+        <yellow url="settings:resources/icons/CH-Hauptsignal_3a_FB2_12x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </yellow>
+        <green url="settings:resources/icons/CH-Hauptsignal_3ab_FB1_12x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </green>
+        <flashred url="settings:resources/icons/CH-Hauptsignal_3ab_Halt_12x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </flashred>
+        <flashyellow url="settings:resources/icons/CH-Hauptsignal_3a_FB2_12x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </flashyellow>
+        <flashgreen url="settings:resources/icons/CH-Hauptsignal_3ab_FB1_12x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </flashgreen>
+      </icons>
+      <iconmaps />
+    </signalheadicon>
+    <signalheadicon signalhead="Signal Turnout 02A Continue Advance" x="170" y="420" level="9" forcecontroloff="false" hidden="no" positionable="true" showtooltip="true" editable="true" clickmode="3" litmode="false" class="jmri.jmrit.display.configurexml.SignalHeadIconXml">
+      <icons>
+        <held url="settings:resources/icons/CH-Vorsignal-Halt 24x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </held>
+        <dark url="settings:resources/icons/CH-Vorsignal-Halt 24x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </dark>
+        <red url="settings:resources/icons/CH-Vorsignal-Halt 24x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </red>
+        <yellow url="settings:resources/icons/CH-Vorsignal-FB2 24x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </yellow>
+        <green url="settings:resources/icons/CH-Vorsignal-FB1 24x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </green>
+        <flashred url="settings:resources/icons/CH-Vorsignal-Halt 24x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </flashred>
+        <flashyellow url="settings:resources/icons/CH-Vorsignal-FB2 24x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </flashyellow>
+        <flashgreen url="settings:resources/icons/CH-Vorsignal-FB1 24x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </flashgreen>
+      </icons>
+      <iconmaps />
+    </signalheadicon>
+    <signalheadicon signalhead="Signal Turnout 02B Throat" x="470" y="520" level="9" forcecontroloff="false" hidden="no" positionable="true" showtooltip="true" editable="true" clickmode="3" litmode="false" class="jmri.jmrit.display.configurexml.SignalHeadIconXml">
+      <icons>
+        <held url="settings:resources/icons/CH-Hauptsignal_3ab_Halt_12x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </held>
+        <dark url="settings:resources/icons/CH-Hauptsignal_3ab_Halt_12x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </dark>
+        <red url="settings:resources/icons/CH-Hauptsignal_3ab_Halt_12x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </red>
+        <yellow url="settings:resources/icons/CH-Hauptsignal_3a_FB2_12x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </yellow>
+        <green url="settings:resources/icons/CH-Hauptsignal_3ab_FB1_12x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </green>
+        <flashred url="settings:resources/icons/CH-Hauptsignal_3ab_Halt_12x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </flashred>
+        <flashyellow url="settings:resources/icons/CH-Hauptsignal_3a_FB2_12x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </flashyellow>
+        <flashgreen url="settings:resources/icons/CH-Hauptsignal_3ab_FB1_12x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </flashgreen>
+      </icons>
+      <iconmaps />
+    </signalheadicon>
+    <signalheadicon signalhead="Signal Turnout 02C Continue" x="470" y="550" level="9" forcecontroloff="false" hidden="no" positionable="true" showtooltip="true" editable="true" clickmode="3" litmode="false" class="jmri.jmrit.display.configurexml.SignalHeadIconXml">
+      <icons>
+        <held url="settings:resources/icons/CH-Hauptsignal_3ab_Halt_12x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </held>
+        <dark url="settings:resources/icons/CH-Hauptsignal_3ab_Halt_12x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </dark>
+        <red url="settings:resources/icons/CH-Hauptsignal_3ab_Halt_12x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </red>
+        <yellow url="settings:resources/icons/CH-Hauptsignal_3a_FB2_12x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </yellow>
+        <green url="settings:resources/icons/CH-Hauptsignal_3ab_FB1_12x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </green>
+        <flashred url="settings:resources/icons/CH-Hauptsignal_3ab_Halt_12x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </flashred>
+        <flashyellow url="settings:resources/icons/CH-Hauptsignal_3a_FB2_12x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </flashyellow>
+        <flashgreen url="settings:resources/icons/CH-Hauptsignal_3ab_FB1_12x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </flashgreen>
+      </icons>
+      <iconmaps />
+    </signalheadicon>
+    <signalheadicon signalhead="Signal Turnout 02D Throat" x="380" y="520" level="9" forcecontroloff="false" hidden="no" positionable="true" showtooltip="true" editable="true" clickmode="3" litmode="false" class="jmri.jmrit.display.configurexml.SignalHeadIconXml">
+      <icons>
+        <held url="settings:resources/icons/CH-Hauptsignal_3ab_Halt_12x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </held>
+        <dark url="settings:resources/icons/CH-Hauptsignal_3ab_Halt_12x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </dark>
+        <red url="settings:resources/icons/CH-Hauptsignal_3ab_Halt_12x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </red>
+        <yellow url="settings:resources/icons/CH-Hauptsignal_3a_FB2_12x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </yellow>
+        <green url="settings:resources/icons/CH-Hauptsignal_3ab_FB1_12x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </green>
+        <flashred url="settings:resources/icons/CH-Hauptsignal_3ab_Halt_12x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </flashred>
+        <flashyellow url="settings:resources/icons/CH-Hauptsignal_3a_FB2_12x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </flashyellow>
+        <flashgreen url="settings:resources/icons/CH-Hauptsignal_3ab_FB1_12x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </flashgreen>
+      </icons>
+      <iconmaps />
+    </signalheadicon>
+    <signalheadicon signalhead="Signal Turnout 02D Throat Advance" x="110" y="400" level="9" forcecontroloff="false" hidden="no" positionable="true" showtooltip="true" editable="true" clickmode="3" litmode="false" class="jmri.jmrit.display.configurexml.SignalHeadIconXml">
+      <icons>
+        <held url="settings:resources/icons/CH-Vorsignal-Halt 24x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </held>
+        <dark url="settings:resources/icons/CH-Vorsignal-Halt 24x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </dark>
+        <red url="settings:resources/icons/CH-Vorsignal-Halt 24x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </red>
+        <yellow url="settings:resources/icons/CH-Vorsignal-FB2 24x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </yellow>
+        <green url="settings:resources/icons/CH-Vorsignal-FB1 24x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </green>
+        <flashred url="settings:resources/icons/CH-Vorsignal-Halt 24x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </flashred>
+        <flashyellow url="settings:resources/icons/CH-Vorsignal-FB2 24x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </flashyellow>
+        <flashgreen url="settings:resources/icons/CH-Vorsignal-FB1 24x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </flashgreen>
+      </icons>
+      <iconmaps />
+    </signalheadicon>
+    <signalheadicon signalhead="Signal Turnout 04A Throat" x="860" y="490" level="9" forcecontroloff="false" hidden="no" positionable="true" showtooltip="true" editable="true" clickmode="3" litmode="false" class="jmri.jmrit.display.configurexml.SignalHeadIconXml">
+      <icons>
+        <held url="settings:resources/icons/CH-Hauptsignal_3ab_Halt_12x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </held>
+        <dark url="settings:resources/icons/CH-Hauptsignal_3ab_Halt_12x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </dark>
+        <red url="settings:resources/icons/CH-Hauptsignal_3ab_Halt_12x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </red>
+        <yellow url="settings:resources/icons/CH-Hauptsignal_3a_FB2_12x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </yellow>
+        <green url="settings:resources/icons/CH-Hauptsignal_3ab_FB1_12x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </green>
+        <flashred url="settings:resources/icons/CH-Hauptsignal_3ab_Halt_12x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </flashred>
+        <flashyellow url="settings:resources/icons/CH-Hauptsignal_3a_FB2_12x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </flashyellow>
+        <flashgreen url="settings:resources/icons/CH-Hauptsignal_3ab_FB1_12x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </flashgreen>
+      </icons>
+      <iconmaps />
+    </signalheadicon>
+    <signalheadicon signalhead="Signal Turnout 04B Continue" x="990" y="520" level="9" forcecontroloff="false" hidden="no" positionable="true" showtooltip="true" editable="true" clickmode="3" litmode="false" class="jmri.jmrit.display.configurexml.SignalHeadIconXml">
+      <icons>
+        <held url="settings:resources/icons/CH-Hauptsignal_3ab_Halt_12x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </held>
+        <dark url="settings:resources/icons/CH-Hauptsignal_3ab_Halt_12x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </dark>
+        <red url="settings:resources/icons/CH-Hauptsignal_3ab_Halt_12x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </red>
+        <yellow url="settings:resources/icons/CH-Hauptsignal_3a_FB2_12x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </yellow>
+        <green url="settings:resources/icons/CH-Hauptsignal_3ab_FB1_12x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </green>
+        <flashred url="settings:resources/icons/CH-Hauptsignal_3ab_Halt_12x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </flashred>
+        <flashyellow url="settings:resources/icons/CH-Hauptsignal_3a_FB2_12x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </flashyellow>
+        <flashgreen url="settings:resources/icons/CH-Hauptsignal_3ab_FB1_12x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </flashgreen>
+      </icons>
+      <iconmaps />
+    </signalheadicon>
+    <signalheadicon signalhead="Signal Turnout 04B Continue Advance" x="1090" y="510" level="9" forcecontroloff="false" hidden="no" positionable="true" showtooltip="true" editable="true" clickmode="3" litmode="false" class="jmri.jmrit.display.configurexml.SignalHeadIconXml">
+      <icons>
+        <held url="settings:resources/icons/CH-Vorsignal-Halt 24x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </held>
+        <dark url="settings:resources/icons/CH-Vorsignal-Halt 24x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </dark>
+        <red url="settings:resources/icons/CH-Vorsignal-Halt 24x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </red>
+        <yellow url="settings:resources/icons/CH-Vorsignal-FB2 24x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </yellow>
+        <green url="settings:resources/icons/CH-Vorsignal-FB1 24x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </green>
+        <flashred url="settings:resources/icons/CH-Vorsignal-Halt 24x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </flashred>
+        <flashyellow url="settings:resources/icons/CH-Vorsignal-FB2 24x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </flashyellow>
+        <flashgreen url="settings:resources/icons/CH-Vorsignal-FB1 24x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </flashgreen>
+      </icons>
+      <iconmaps />
+    </signalheadicon>
+    <signalheadicon signalhead="Signal Turnout 04C Throat" x="990" y="550" level="9" forcecontroloff="false" hidden="no" positionable="true" showtooltip="true" editable="true" clickmode="3" litmode="false" class="jmri.jmrit.display.configurexml.SignalHeadIconXml">
+      <icons>
+        <held url="settings:resources/icons/CH-Hauptsignal_3ab_Halt_12x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </held>
+        <dark url="settings:resources/icons/CH-Hauptsignal_3ab_Halt_12x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </dark>
+        <red url="settings:resources/icons/CH-Hauptsignal_3ab_Halt_12x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </red>
+        <yellow url="settings:resources/icons/CH-Hauptsignal_3a_FB2_12x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </yellow>
+        <green url="settings:resources/icons/CH-Hauptsignal_3ab_FB1_12x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </green>
+        <flashred url="settings:resources/icons/CH-Hauptsignal_3ab_Halt_12x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </flashred>
+        <flashyellow url="settings:resources/icons/CH-Hauptsignal_3a_FB2_12x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </flashyellow>
+        <flashgreen url="settings:resources/icons/CH-Hauptsignal_3ab_FB1_12x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </flashgreen>
+      </icons>
+      <iconmaps />
+    </signalheadicon>
+    <signalheadicon signalhead="Signal Turnout 04C Throat Advance" x="1170" y="520" level="9" forcecontroloff="false" hidden="no" positionable="true" showtooltip="true" editable="true" clickmode="3" litmode="false" class="jmri.jmrit.display.configurexml.SignalHeadIconXml">
+      <icons>
+        <held url="settings:resources/icons/CH-Vorsignal-Halt 24x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </held>
+        <dark url="settings:resources/icons/CH-Vorsignal-Halt 24x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </dark>
+        <red url="settings:resources/icons/CH-Vorsignal-Halt 24x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </red>
+        <yellow url="settings:resources/icons/CH-Vorsignal-FB2 24x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </yellow>
+        <green url="settings:resources/icons/CH-Vorsignal-FB1 24x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </green>
+        <flashred url="settings:resources/icons/CH-Vorsignal-Halt 24x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </flashred>
+        <flashyellow url="settings:resources/icons/CH-Vorsignal-FB2 24x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </flashyellow>
+        <flashgreen url="settings:resources/icons/CH-Vorsignal-FB1 24x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </flashgreen>
+      </icons>
+      <iconmaps />
+    </signalheadicon>
+    <signalheadicon signalhead="Signal Turnout 04D Continue" x="860" y="520" level="9" forcecontroloff="false" hidden="no" positionable="true" showtooltip="true" editable="true" clickmode="3" litmode="false" class="jmri.jmrit.display.configurexml.SignalHeadIconXml">
+      <icons>
+        <held url="settings:resources/icons/CH-Hauptsignal_3ab_Halt_12x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </held>
+        <dark url="settings:resources/icons/CH-Hauptsignal_3ab_Halt_12x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </dark>
+        <red url="settings:resources/icons/CH-Hauptsignal_3ab_Halt_12x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </red>
+        <yellow url="settings:resources/icons/CH-Hauptsignal_3a_FB2_12x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </yellow>
+        <green url="settings:resources/icons/CH-Hauptsignal_3ab_FB1_12x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </green>
+        <flashred url="settings:resources/icons/CH-Hauptsignal_3ab_Halt_12x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </flashred>
+        <flashyellow url="settings:resources/icons/CH-Hauptsignal_3a_FB2_12x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </flashyellow>
+        <flashgreen url="settings:resources/icons/CH-Hauptsignal_3ab_FB1_12x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </flashgreen>
+      </icons>
+      <iconmaps />
+    </signalheadicon>
+    <signalheadicon signalhead="Signal Turnout 06 Continue" x="970" y="50" level="9" forcecontroloff="false" hidden="no" positionable="true" showtooltip="true" editable="true" clickmode="3" litmode="false" class="jmri.jmrit.display.configurexml.SignalHeadIconXml">
+      <icons>
+        <held url="settings:resources/icons/CH-Hauptsignal_3ab_Halt_12x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </held>
+        <dark url="settings:resources/icons/CH-Hauptsignal_3ab_Halt_12x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </dark>
+        <red url="settings:resources/icons/CH-Hauptsignal_3ab_Halt_12x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </red>
+        <yellow url="settings:resources/icons/CH-Hauptsignal_3a_FB2_12x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </yellow>
+        <green url="settings:resources/icons/CH-Hauptsignal_3ab_FB1_12x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </green>
+        <flashred url="settings:resources/icons/CH-Hauptsignal_3ab_Halt_12x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </flashred>
+        <flashyellow url="settings:resources/icons/CH-Hauptsignal_3a_FB2_12x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </flashyellow>
+        <flashgreen url="settings:resources/icons/CH-Hauptsignal_3ab_FB1_12x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </flashgreen>
+      </icons>
+      <iconmaps />
+    </signalheadicon>
+    <signalheadicon signalhead="Signal Turnout 06 Continue Advance" x="710" y="50" level="9" forcecontroloff="false" hidden="no" positionable="true" showtooltip="true" editable="true" clickmode="3" litmode="false" class="jmri.jmrit.display.configurexml.SignalHeadIconXml">
+      <icons>
+        <held url="settings:resources/icons/CH-Vorsignal-Halt 24x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </held>
+        <dark url="settings:resources/icons/CH-Vorsignal-Halt 24x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </dark>
+        <red url="settings:resources/icons/CH-Vorsignal-Halt 24x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </red>
+        <yellow url="settings:resources/icons/CH-Vorsignal-FB2 24x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </yellow>
+        <green url="settings:resources/icons/CH-Vorsignal-FB1 24x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </green>
+        <flashred url="settings:resources/icons/CH-Vorsignal-Halt 24x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </flashred>
+        <flashyellow url="settings:resources/icons/CH-Vorsignal-FB2 24x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </flashyellow>
+        <flashgreen url="settings:resources/icons/CH-Vorsignal-FB1 24x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </flashgreen>
+      </icons>
+      <iconmaps />
+    </signalheadicon>
+    <signalheadicon signalhead="Signal Turnout 06 Diverge" x="930" y="90" level="9" forcecontroloff="false" hidden="no" positionable="true" showtooltip="true" editable="true" clickmode="3" litmode="false" class="jmri.jmrit.display.configurexml.SignalHeadIconXml">
+      <icons>
+        <held url="settings:resources/icons/CH-Hauptsignal_3ab_Halt_12x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </held>
+        <dark url="settings:resources/icons/CH-Hauptsignal_3ab_Halt_12x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </dark>
+        <red url="settings:resources/icons/CH-Hauptsignal_3ab_Halt_12x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </red>
+        <yellow url="settings:resources/icons/CH-Hauptsignal_3a_FB2_12x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </yellow>
+        <green url="settings:resources/icons/CH-Hauptsignal_3ab_FB1_12x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </green>
+        <flashred url="settings:resources/icons/CH-Hauptsignal_3ab_Halt_12x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </flashred>
+        <flashyellow url="settings:resources/icons/CH-Hauptsignal_3a_FB2_12x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </flashyellow>
+        <flashgreen url="settings:resources/icons/CH-Hauptsignal_3ab_FB1_12x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </flashgreen>
+      </icons>
+      <iconmaps />
+    </signalheadicon>
+    <signalheadicon signalhead="Signal Turnout 06 Throat" x="1020" y="80" level="9" forcecontroloff="false" hidden="no" positionable="true" showtooltip="true" editable="true" clickmode="3" litmode="false" class="jmri.jmrit.display.configurexml.SignalHeadIconXml">
+      <icons>
+        <held url="settings:resources/icons/CH-Hauptsignal_3ab_Halt_12x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </held>
+        <dark url="settings:resources/icons/CH-Hauptsignal_3ab_Halt_12x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </dark>
+        <red url="settings:resources/icons/CH-Hauptsignal_3ab_Halt_12x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </red>
+        <yellow url="settings:resources/icons/CH-Hauptsignal_3a_FB2_12x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </yellow>
+        <green url="settings:resources/icons/CH-Hauptsignal_3ab_FB1_12x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </green>
+        <flashred url="settings:resources/icons/CH-Hauptsignal_3ab_Halt_12x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </flashred>
+        <flashyellow url="settings:resources/icons/CH-Hauptsignal_3a_FB2_12x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </flashyellow>
+        <flashgreen url="settings:resources/icons/CH-Hauptsignal_3ab_FB1_12x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </flashgreen>
+      </icons>
+      <iconmaps />
+    </signalheadicon>
+    <signalheadicon signalhead="Signal Turnout 06 Throat Advance" x="1170" y="150" level="9" forcecontroloff="false" hidden="no" positionable="true" showtooltip="true" editable="true" clickmode="3" litmode="false" class="jmri.jmrit.display.configurexml.SignalHeadIconXml">
+      <icons>
+        <held url="settings:resources/icons/CH-Vorsignal-Halt 24x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </held>
+        <dark url="settings:resources/icons/CH-Vorsignal-Halt 24x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </dark>
+        <red url="settings:resources/icons/CH-Vorsignal-Halt 24x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </red>
+        <yellow url="settings:resources/icons/CH-Vorsignal-FB2 24x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </yellow>
+        <green url="settings:resources/icons/CH-Vorsignal-FB1 24x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </green>
+        <flashred url="settings:resources/icons/CH-Vorsignal-Halt 24x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </flashred>
+        <flashyellow url="settings:resources/icons/CH-Vorsignal-FB2 24x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </flashyellow>
+        <flashgreen url="settings:resources/icons/CH-Vorsignal-FB1 24x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </flashgreen>
+      </icons>
+      <iconmaps />
+    </signalheadicon>
+    <signalheadicon signalhead="Signal Turnout 09 Continue" x="860" y="200" level="9" forcecontroloff="false" hidden="no" positionable="true" showtooltip="true" editable="true" clickmode="3" litmode="false" class="jmri.jmrit.display.configurexml.SignalHeadIconXml">
+      <icons>
+        <held url="settings:resources/icons/CH-Hauptsignal_3ab_Halt_12x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </held>
+        <dark url="settings:resources/icons/CH-Hauptsignal_3ab_Halt_12x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </dark>
+        <red url="settings:resources/icons/CH-Hauptsignal_3ab_Halt_12x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </red>
+        <yellow url="settings:resources/icons/CH-Hauptsignal_3a_FB2_12x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </yellow>
+        <green url="settings:resources/icons/CH-Hauptsignal_3ab_FB1_12x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </green>
+        <flashred url="settings:resources/icons/CH-Hauptsignal_3ab_Halt_12x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </flashred>
+        <flashyellow url="settings:resources/icons/CH-Hauptsignal_3a_FB2_12x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </flashyellow>
+        <flashgreen url="settings:resources/icons/CH-Hauptsignal_3ab_FB1_12x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </flashgreen>
+      </icons>
+      <iconmaps />
+    </signalheadicon>
+    <signalheadicon signalhead="Signal Turnout 09 Continue Advance" x="580" y="200" level="9" forcecontroloff="false" hidden="no" positionable="true" showtooltip="true" editable="true" clickmode="3" litmode="false" class="jmri.jmrit.display.configurexml.SignalHeadIconXml">
+      <icons>
+        <held url="settings:resources/icons/CH-Vorsignal-Halt 24x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </held>
+        <dark url="settings:resources/icons/CH-Vorsignal-Halt 24x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </dark>
+        <red url="settings:resources/icons/CH-Vorsignal-Halt 24x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </red>
+        <yellow url="settings:resources/icons/CH-Vorsignal-FB2 24x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </yellow>
+        <green url="settings:resources/icons/CH-Vorsignal-FB1 24x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </green>
+        <flashred url="settings:resources/icons/CH-Vorsignal-Halt 24x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </flashred>
+        <flashyellow url="settings:resources/icons/CH-Vorsignal-FB2 24x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </flashyellow>
+        <flashgreen url="settings:resources/icons/CH-Vorsignal-FB1 24x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </flashgreen>
+      </icons>
+      <iconmaps />
+    </signalheadicon>
+    <signalheadicon signalhead="Signal Turnout 09 Diverge" x="830" y="240" level="9" forcecontroloff="false" hidden="no" positionable="true" showtooltip="true" editable="true" clickmode="3" litmode="false" class="jmri.jmrit.display.configurexml.SignalHeadIconXml">
+      <icons>
+        <held url="settings:resources/icons/CH-Hauptsignal_3ab_Halt_12x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </held>
+        <dark url="settings:resources/icons/CH-Hauptsignal_3ab_Halt_12x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </dark>
+        <red url="settings:resources/icons/CH-Hauptsignal_3ab_Halt_12x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </red>
+        <yellow url="settings:resources/icons/CH-Hauptsignal_3a_FB2_12x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </yellow>
+        <green url="settings:resources/icons/CH-Hauptsignal_3ab_FB1_12x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </green>
+        <flashred url="settings:resources/icons/CH-Hauptsignal_3ab_Halt_12x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </flashred>
+        <flashyellow url="settings:resources/icons/CH-Hauptsignal_3a_FB2_12x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </flashyellow>
+        <flashgreen url="settings:resources/icons/CH-Hauptsignal_3ab_FB1_12x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </flashgreen>
+      </icons>
+      <iconmaps />
+    </signalheadicon>
+    <signalheadicon signalhead="Signal Turnout 09 Diverge Advance" x="580" y="250" level="9" forcecontroloff="false" hidden="no" positionable="true" showtooltip="true" editable="true" clickmode="3" litmode="false" class="jmri.jmrit.display.configurexml.SignalHeadIconXml">
+      <icons>
+        <held url="settings:resources/icons/CH-Vorsignal-Halt 24x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </held>
+        <dark url="settings:resources/icons/CH-Vorsignal-Halt 24x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </dark>
+        <red url="settings:resources/icons/CH-Vorsignal-Halt 24x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </red>
+        <yellow url="settings:resources/icons/CH-Vorsignal-FB2 24x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </yellow>
+        <green url="settings:resources/icons/CH-Vorsignal-FB1 24x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </green>
+        <flashred url="settings:resources/icons/CH-Vorsignal-Halt 24x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </flashred>
+        <flashyellow url="settings:resources/icons/CH-Vorsignal-FB2 24x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </flashyellow>
+        <flashgreen url="settings:resources/icons/CH-Vorsignal-FB1 24x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </flashgreen>
+      </icons>
+      <iconmaps />
+    </signalheadicon>
+    <signalheadicon signalhead="Signal Turnout 09 Throat" x="920" y="230" level="9" forcecontroloff="false" hidden="no" positionable="true" showtooltip="true" editable="true" clickmode="3" litmode="false" class="jmri.jmrit.display.configurexml.SignalHeadIconXml">
+      <icons>
+        <held url="settings:resources/icons/CH-Hauptsignal_3ab_Halt_12x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </held>
+        <dark url="settings:resources/icons/CH-Hauptsignal_3ab_Halt_12x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </dark>
+        <red url="settings:resources/icons/CH-Hauptsignal_3ab_Halt_12x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </red>
+        <yellow url="settings:resources/icons/CH-Hauptsignal_3a_FB2_12x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </yellow>
+        <green url="settings:resources/icons/CH-Hauptsignal_3ab_FB1_12x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </green>
+        <flashred url="settings:resources/icons/CH-Hauptsignal_3ab_Halt_12x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </flashred>
+        <flashyellow url="settings:resources/icons/CH-Hauptsignal_3a_FB2_12x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </flashyellow>
+        <flashgreen url="settings:resources/icons/CH-Hauptsignal_3ab_FB1_12x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </flashgreen>
+      </icons>
+      <iconmaps />
+    </signalheadicon>
+    <signalheadicon signalhead="Signal Turnout 09 Throat Advance" x="1110" y="300" level="9" forcecontroloff="false" hidden="no" positionable="true" showtooltip="true" editable="true" clickmode="3" litmode="false" class="jmri.jmrit.display.configurexml.SignalHeadIconXml">
+      <icons>
+        <held url="settings:resources/icons/CH-Vorsignal-Halt 24x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </held>
+        <dark url="settings:resources/icons/CH-Vorsignal-Halt 24x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </dark>
+        <red url="settings:resources/icons/CH-Vorsignal-Halt 24x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </red>
+        <yellow url="settings:resources/icons/CH-Vorsignal-FB2 24x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </yellow>
+        <green url="settings:resources/icons/CH-Vorsignal-FB1 24x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </green>
+        <flashred url="settings:resources/icons/CH-Vorsignal-Halt 24x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </flashred>
+        <flashyellow url="settings:resources/icons/CH-Vorsignal-FB2 24x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </flashyellow>
+        <flashgreen url="settings:resources/icons/CH-Vorsignal-FB1 24x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </flashgreen>
+      </icons>
+      <iconmaps />
+    </signalheadicon>
+    <signalheadicon signalhead="Signal Turnout 10 Continue" x="1070" y="490" level="9" forcecontroloff="false" hidden="no" positionable="true" showtooltip="true" editable="true" clickmode="3" litmode="false" class="jmri.jmrit.display.configurexml.SignalHeadIconXml">
+      <icons>
+        <held url="settings:resources/icons/CH-Hauptsignal_3ab_Halt_12x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </held>
+        <dark url="settings:resources/icons/CH-Hauptsignal_3ab_Halt_12x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </dark>
+        <red url="settings:resources/icons/CH-Hauptsignal_3ab_Halt_12x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </red>
+        <yellow url="settings:resources/icons/CH-Hauptsignal_3a_FB2_12x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </yellow>
+        <green url="settings:resources/icons/CH-Hauptsignal_3ab_FB1_12x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </green>
+        <flashred url="settings:resources/icons/CH-Hauptsignal_3ab_Halt_12x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </flashred>
+        <flashyellow url="settings:resources/icons/CH-Hauptsignal_3a_FB2_12x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </flashyellow>
+        <flashgreen url="settings:resources/icons/CH-Hauptsignal_3ab_FB1_12x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </flashgreen>
+      </icons>
+      <iconmaps />
+    </signalheadicon>
+    <signalheadicon signalhead="Signal Turnout 10 Continue Advance" x="960" y="490" level="9" forcecontroloff="false" hidden="no" positionable="true" showtooltip="true" editable="true" clickmode="3" litmode="false" class="jmri.jmrit.display.configurexml.SignalHeadIconXml">
+      <icons>
+        <held url="settings:resources/icons/CH-Vorsignal-Halt 24x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </held>
+        <dark url="settings:resources/icons/CH-Vorsignal-Halt 24x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </dark>
+        <red url="settings:resources/icons/CH-Vorsignal-Halt 24x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </red>
+        <yellow url="settings:resources/icons/CH-Vorsignal-FB2 24x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </yellow>
+        <green url="settings:resources/icons/CH-Vorsignal-FB1 24x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </green>
+        <flashred url="settings:resources/icons/CH-Vorsignal-Halt 24x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </flashred>
+        <flashyellow url="settings:resources/icons/CH-Vorsignal-FB2 24x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </flashyellow>
+        <flashgreen url="settings:resources/icons/CH-Vorsignal-FB1 24x24.gif" degrees="0" scale="1.0">
+          <rotation>3</rotation>
+        </flashgreen>
+      </icons>
+      <iconmaps />
+    </signalheadicon>
+    <signalheadicon signalhead="Signal Turnout 10 Diverge" x="1070" y="440" level="9" forcecontroloff="false" hidden="no" positionable="true" showtooltip="true" editable="true" degrees="90" clickmode="3" litmode="false" class="jmri.jmrit.display.configurexml.SignalHeadIconXml">
+      <icons>
+        <held url="settings:resources/icons/CH-Hauptsignal_3ab_Halt_12x24.gif" degrees="90" scale="1.0">
+          <rotation>0</rotation>
+        </held>
+        <dark url="settings:resources/icons/CH-Hauptsignal_3ab_Halt_12x24.gif" degrees="90" scale="1.0">
+          <rotation>0</rotation>
+        </dark>
+        <red url="settings:resources/icons/CH-Hauptsignal_3ab_Halt_12x24.gif" degrees="90" scale="1.0">
+          <rotation>0</rotation>
+        </red>
+        <yellow url="settings:resources/icons/CH-Hauptsignal_3a_FB2_12x24.gif" degrees="90" scale="1.0">
+          <rotation>0</rotation>
+        </yellow>
+        <green url="settings:resources/icons/CH-Hauptsignal_3ab_FB1_12x24.gif" degrees="90" scale="1.0">
+          <rotation>0</rotation>
+        </green>
+        <flashred url="settings:resources/icons/CH-Hauptsignal_3ab_Halt_12x24.gif" degrees="90" scale="1.0">
+          <rotation>0</rotation>
+        </flashred>
+        <flashyellow url="settings:resources/icons/CH-Hauptsignal_3a_FB2_12x24.gif" degrees="90" scale="1.0">
+          <rotation>0</rotation>
+        </flashyellow>
+        <flashgreen url="settings:resources/icons/CH-Hauptsignal_3ab_FB1_12x24.gif" degrees="90" scale="1.0">
+          <rotation>0</rotation>
+        </flashgreen>
+      </icons>
+      <iconmaps />
+    </signalheadicon>
+    <signalheadicon signalhead="Signal Turnout 10 Diverge Advance" x="850" y="440" level="9" forcecontroloff="false" hidden="no" positionable="true" showtooltip="true" editable="true" degrees="90" clickmode="3" litmode="false" class="jmri.jmrit.display.configurexml.SignalHeadIconXml">
+      <icons>
+        <held url="settings:resources/icons/CH-Vorsignal-Halt 24x24.gif" degrees="90" scale="1.0">
+          <rotation>0</rotation>
+        </held>
+        <dark url="settings:resources/icons/CH-Vorsignal-Halt 24x24.gif" degrees="90" scale="1.0">
+          <rotation>0</rotation>
+        </dark>
+        <red url="settings:resources/icons/CH-Vorsignal-Halt 24x24.gif" degrees="90" scale="1.0">
+          <rotation>0</rotation>
+        </red>
+        <yellow url="settings:resources/icons/CH-Vorsignal-FB2 24x24.gif" degrees="90" scale="1.0">
+          <rotation>0</rotation>
+        </yellow>
+        <green url="settings:resources/icons/CH-Vorsignal-FB1 24x24.gif" degrees="90" scale="1.0">
+          <rotation>0</rotation>
+        </green>
+        <flashred url="settings:resources/icons/CH-Vorsignal-Halt 24x24.gif" degrees="90" scale="1.0">
+          <rotation>0</rotation>
+        </flashred>
+        <flashyellow url="settings:resources/icons/CH-Vorsignal-FB2 24x24.gif" degrees="90" scale="1.0">
+          <rotation>0</rotation>
+        </flashyellow>
+        <flashgreen url="settings:resources/icons/CH-Vorsignal-FB1 24x24.gif" degrees="90" scale="1.0">
+          <rotation>0</rotation>
+        </flashgreen>
+      </icons>
+      <iconmaps />
+    </signalheadicon>
+    <signalheadicon signalhead="Signal Turnout 10 Throat" x="1150" y="430" level="9" forcecontroloff="false" hidden="no" positionable="true" showtooltip="true" editable="true" degrees="90" clickmode="3" litmode="false" class="jmri.jmrit.display.configurexml.SignalHeadIconXml">
+      <icons>
+        <held url="settings:resources/icons/CH-Hauptsignal_3ab_Halt_12x24.gif" degrees="90" scale="1.0">
+          <rotation>0</rotation>
+        </held>
+        <dark url="settings:resources/icons/CH-Hauptsignal_3ab_Halt_12x24.gif" degrees="90" scale="1.0">
+          <rotation>0</rotation>
+        </dark>
+        <red url="settings:resources/icons/CH-Hauptsignal_3ab_Halt_12x24.gif" degrees="90" scale="1.0">
+          <rotation>0</rotation>
+        </red>
+        <yellow url="settings:resources/icons/CH-Hauptsignal_3a_FB2_12x24.gif" degrees="90" scale="1.0">
+          <rotation>0</rotation>
+        </yellow>
+        <green url="settings:resources/icons/CH-Hauptsignal_3ab_FB1_12x24.gif" degrees="90" scale="1.0">
+          <rotation>0</rotation>
+        </green>
+        <flashred url="settings:resources/icons/CH-Hauptsignal_3ab_Halt_12x24.gif" degrees="90" scale="1.0">
+          <rotation>0</rotation>
+        </flashred>
+        <flashyellow url="settings:resources/icons/CH-Hauptsignal_3a_FB2_12x24.gif" degrees="90" scale="1.0">
+          <rotation>0</rotation>
+        </flashyellow>
+        <flashgreen url="settings:resources/icons/CH-Hauptsignal_3ab_FB1_12x24.gif" degrees="90" scale="1.0">
+          <rotation>0</rotation>
+        </flashgreen>
+      </icons>
+      <iconmaps />
+    </signalheadicon>
+    <signalheadicon signalhead="Signal Turnout 10 Throat Advance" x="1150" y="330" level="9" forcecontroloff="false" hidden="no" positionable="true" showtooltip="true" editable="true" degrees="90" clickmode="3" litmode="false" class="jmri.jmrit.display.configurexml.SignalHeadIconXml">
+      <icons>
+        <held url="settings:resources/icons/CH-Vorsignal-Halt 24x24.gif" degrees="90" scale="1.0">
+          <rotation>0</rotation>
+        </held>
+        <dark url="settings:resources/icons/CH-Vorsignal-Halt 24x24.gif" degrees="90" scale="1.0">
+          <rotation>0</rotation>
+        </dark>
+        <red url="settings:resources/icons/CH-Vorsignal-Halt 24x24.gif" degrees="90" scale="1.0">
+          <rotation>0</rotation>
+        </red>
+        <yellow url="settings:resources/icons/CH-Vorsignal-FB2 24x24.gif" degrees="90" scale="1.0">
+          <rotation>0</rotation>
+        </yellow>
+        <green url="settings:resources/icons/CH-Vorsignal-FB1 24x24.gif" degrees="90" scale="1.0">
+          <rotation>0</rotation>
+        </green>
+        <flashred url="settings:resources/icons/CH-Vorsignal-Halt 24x24.gif" degrees="90" scale="1.0">
+          <rotation>0</rotation>
+        </flashred>
+        <flashyellow url="settings:resources/icons/CH-Vorsignal-FB2 24x24.gif" degrees="90" scale="1.0">
+          <rotation>0</rotation>
+        </flashyellow>
+        <flashgreen url="settings:resources/icons/CH-Vorsignal-FB1 24x24.gif" degrees="90" scale="1.0">
+          <rotation>0</rotation>
+        </flashgreen>
+      </icons>
+      <iconmaps />
+    </signalheadicon>
     <layoutturnout ident="TO1" type="1" hidden="no" disabled="no" disableWhenOccupied="no" continuing="2" xcen="298.0" ycen="40.0" xa="278.0" ya="40.0" xb="318.0" yb="40.0" xc="320.0" yc="60.0" xd="278.0" yd="40.0" ver="1" class="jmri.jmrit.display.layoutEditor.configurexml.LayoutTurnoutXml" turnoutname="Turnout 01" blockname="Turnout Block 01" connectaname="T3" connectbname="T1" connectcname="T2" signala1name="vSignal Turnout 01 Throat Continue" signala2name="vSignal Turnout 01 Throat Diverge" signalb1name="vSignal Turnout 01 Continue" signalc1name="vSignal Turnout 01 Diverge" />
-    <layoutturnout ident="TO2" type="2" hidden="no" disabled="no" disableWhenOccupied="no" continuing="2" xcen="998.0" ycen="80.0" xa="1028.0" ya="80.0" xb="968.0" yb="80.0" xc="968.0" yc="100.0" xd="1028.0" yd="80.0" ver="1" class="jmri.jmrit.display.layoutEditor.configurexml.LayoutTurnoutXml" turnoutname="Turnout 06" blockname="Turnout Block 06" connectaname="T6" connectbname="T4" connectcname="T8" signala1name="vSignal Turnout 06 Throat Continue" signala2name="vSignal Turnout 06 Throat Diverge" signalb1name="vSignal Turnout 06 Continue" signalc1name="vSignal Turnout 06 Diverge" />
+    <layoutturnout ident="TO2" type="2" hidden="no" disabled="no" disableWhenOccupied="no" continuing="2" xcen="998.0" ycen="80.0" xa="1020.0" ya="80.0" xb="976.0" yb="80.0" xc="968.0" yc="100.0" xd="1020.0" yd="80.0" ver="1" class="jmri.jmrit.display.layoutEditor.configurexml.LayoutTurnoutXml" turnoutname="Turnout 06" blockname="Turnout Block 06" connectaname="T6" connectbname="T4" connectcname="T8" signala1name="vSignal Turnout 06 Throat Continue" signala2name="vSignal Turnout 06 Throat Diverge" signalb1name="vSignal Turnout 06 Continue" signalc1name="vSignal Turnout 06 Diverge" />
     <layoutturnout ident="TO3" type="1" hidden="no" disabled="no" disableWhenOccupied="no" continuing="2" xcen="938.0" ycen="120.0" xa="968.0" ya="100.0" xb="908.0" yb="140.0" xc="898.0" yc="120.0" xd="968.0" yd="100.0" ver="1" class="jmri.jmrit.display.layoutEditor.configurexml.LayoutTurnoutXml" turnoutname="Turnout 07" blockname="Turnout Block 07" connectaname="T8" connectbname="T9" connectcname="T11" signala1name="vSignal Turnout 07 Throat Continue" signala2name="vSignal Turnout 07 Throat Diverge" signalb1name="vSignal Turnout 07 Continue" signalc1name="vSignal Turnout 07 Diverge" />
     <layoutturnout ident="TO4" type="2" hidden="no" disabled="no" disableWhenOccupied="no" continuing="2" xcen="878.0" ycen="120.0" xa="898.0" ya="120.0" xb="858.0" yb="120.0" xc="858.0" yc="130.0" xd="898.0" yd="120.0" ver="1" class="jmri.jmrit.display.layoutEditor.configurexml.LayoutTurnoutXml" turnoutname="Turnout 08" blockname="Turnout Block 08" connectaname="T11" connectbname="T15" connectcname="T13" signala1name="vSignal Turnout 08 Throat Continue" signala2name="vSignal Turnout 08 Throat Diverge" signalb1name="vSignal Turnout 08 Continue" signalc1name="vSignal Turnout 08 Diverge" />
     <layoutturnout ident="TO5" type="2" hidden="no" disabled="no" disableWhenOccupied="no" continuing="2" xcen="898.0" ycen="230.0" xa="918.0" ya="230.0" xb="878.0" yb="230.0" xc="878.0" yc="240.0" xd="918.0" yd="230.0" ver="1" class="jmri.jmrit.display.layoutEditor.configurexml.LayoutTurnoutXml" turnoutname="Turnout 09" blockname="Turnout Block 09" connectaname="T19" connectbname="T16" connectcname="T17" signala1name="vSignal Turnout 09 Throat Continue" signala2name="vSignal Turnout 09 Throat Diverge" signalb1name="vSignal Turnout 09 Continue" signalc1name="vSignal Turnout 09 Diverge" />
-    <layoutturnout ident="TO10" type="5" hidden="no" disabled="no" disableWhenOccupied="no" continuing="2" xcen="930.0" ycen="530.0" xa="900.0" ya="520.0" xb="939.99999" yb="520.0" xc="960.0" yc="540.0" xd="920.00001" yd="540.0" ver="1" class="jmri.jmrit.display.layoutEditor.configurexml.LayoutTurnoutXml" turnoutname="Turnout 04" secondturnoutname="Turnout 05" blockname="Turnout Block 04" connectaname="T35" connectbname="T12" connectcname="T38" connectdname="T36" signala1name="vSignal Turnout 04 A Continue" signala2name="vSignal Turnout 04 A Diverge" signalb1name="vSignal Turnout 04 B Continue" signalc1name="vSignal Turnout 04 C Continue" signalc2name="vSignal Turnout 04 C Diverge" signald1name="vSignal Turnout 04 D Continue" />
-    <layoutturnout ident="TO11" type="6" hidden="no" disabled="no" disableWhenOccupied="no" continuing="2" xcen="430.0" ycen="530.0" xa="420.0" ya="520.0" xb="460.0" yb="520.0" xc="440.0" yc="540.0" xd="400.0" yd="540.0" ver="1" class="jmri.jmrit.display.layoutEditor.configurexml.LayoutTurnoutXml" turnoutname="Turnout 02" secondturnoutname="Turnout 03" blockname="Turnout Block 02" connectaname="T33" connectbname="T35" connectcname="T36" connectdname="T30" signala1name="vSignal Turnout 02 A Continue" signalb1name="vSignal Turnout 02 B Continue" signalb2name="vSignal Turnout 02 B Diverge" signalc1name="vSignal Turnout 02 C Continue" signald1name="vSignal Turnout 02 D Continue" signald2name="vSignal Turnout 02 D Diverge" />
+    <layoutturnout ident="TO10" type="5" hidden="no" disabled="no" disableWhenOccupied="no" continuing="2" xcen="930.0" ycen="530.0" xa="900.0" ya="520.0" xb="939.99999" yb="520.0" xc="960.0" yc="540.0" xd="920.00001" yd="540.0" ver="1" class="jmri.jmrit.display.layoutEditor.configurexml.LayoutTurnoutXml" turnoutname="Turnout 04" secondturnoutname="Turnout 05" blockname="Turnout Block 04" connectaname="T35" connectbname="T12" connectcname="T38" connectdname="T36" signala1name="vSignal Turnout 04A Continue" signala2name="vSignal Turnout 04A Diverge" signalb1name="vSignal Turnout 04B Continue" signalc1name="vSignal Turnout 04C Continue" signalc2name="vSignal Turnout 04C Diverge" signald1name="vSignal Turnout 04D Continue" />
+    <layoutturnout ident="TO11" type="6" hidden="no" disabled="no" disableWhenOccupied="no" continuing="2" xcen="430.0" ycen="530.0" xa="420.0" ya="520.0" xb="460.0" yb="520.0" xc="440.0" yc="540.0" xd="400.0" yd="540.0" ver="1" class="jmri.jmrit.display.layoutEditor.configurexml.LayoutTurnoutXml" turnoutname="Turnout 02" secondturnoutname="Turnout 03" blockname="Turnout Block 02" connectaname="T33" connectbname="T35" connectcname="T36" connectdname="T30" signala1name="vSignal Turnout 02A Continue" signalb1name="vSignal Turnout 02B Continue" signalb2name="vSignal Turnout 02B Diverge" signalc1name="vSignal Turnout 02C Continue" signald1name="vSignal Turnout 02D Continue" signald2name="vSignal Turnout 02D Diverge" />
     <layoutturnout ident="TO12" type="1" hidden="no" disabled="no" disableWhenOccupied="no" continuing="2" xcen="1120.0" ycen="470.0" xa="1140.0" ya="450.0" xb="1100.0" yb="490.0" xc="1100.0" yc="470.0" xd="1140.0" yd="450.0" ver="1" class="jmri.jmrit.display.layoutEditor.configurexml.LayoutTurnoutXml" turnoutname="Turnout 10" blockname="Block 11" connectaname="T26" connectbname="T39" connectcname="T42" signala1name="vSignal Turnout 10 Throat Continue" signala2name="vSignal Turnout 10 Throat Diverge" signalb1name="vSignal Turnout 10 Continue" signalc1name="vSignal Turnout 10 Diverge" />
     <tracksegment ident="T1" blockname="Block 01" connect1name="TO1" type1="3" connect2name="EB1" type2="1" dashed="no" mainline="no" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml" />
     <tracksegment ident="T2" blockname="Block 09" connect1name="TO1" type1="4" connect2name="A1" type2="1" dashed="no" mainline="no" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml" />
@@ -2410,104 +3836,104 @@
   <filehistory>
     <operation>
       <type>app</type>
-      <date>Sat Mar 14 16:41:34 CET 2020</date>
+      <date>Sun Mar 15 17:45:41 CET 2020</date>
       <filename>JMRI program</filename>
     </operation>
     <operation>
       <type>Load OK</type>
-      <date>Sat Mar 14 16:41:37 CET 2020</date>
+      <date>Sun Mar 15 17:45:44 CET 2020</date>
       <filename>/home/otto/.jmri/Signals_1.jmri/Signals%20SSL.xml</filename>
       <filehistory>
         <operation>
           <type>app</type>
-          <date>Fri Mar 13 20:56:33 CET 2020</date>
+          <date>Sun Mar 15 10:57:17 CET 2020</date>
           <filename>JMRI program</filename>
         </operation>
         <operation>
           <type>Load OK</type>
-          <date>Fri Mar 13 20:56:36 CET 2020</date>
+          <date>Sun Mar 15 10:57:20 CET 2020</date>
           <filename>/home/otto/.jmri/Signals_1.jmri/Signals%20SSL.xml</filename>
           <filehistory>
             <operation>
               <type>app</type>
-              <date>Fri Mar 13 17:08:30 CET 2020</date>
+              <date>Sat Mar 14 16:41:34 CET 2020</date>
               <filename>JMRI program</filename>
             </operation>
             <operation>
               <type>Load OK</type>
-              <date>Fri Mar 13 17:08:33 CET 2020</date>
+              <date>Sat Mar 14 16:41:37 CET 2020</date>
               <filename>/home/otto/.jmri/Signals_1.jmri/Signals%20SSL.xml</filename>
               <filehistory>
                 <operation>
                   <type>app</type>
-                  <date>Thu Mar 12 19:54:33 CET 2020</date>
+                  <date>Fri Mar 13 20:56:33 CET 2020</date>
                   <filename>JMRI program</filename>
                 </operation>
                 <operation>
                   <type>Load OK</type>
-                  <date>Thu Mar 12 19:54:35 CET 2020</date>
+                  <date>Fri Mar 13 20:56:36 CET 2020</date>
                   <filename>/home/otto/.jmri/Signals_1.jmri/Signals%20SSL.xml</filename>
                   <filehistory>
                     <operation>
                       <type>app</type>
-                      <date>Thu Mar 12 17:48:52 CET 2020</date>
+                      <date>Fri Mar 13 17:08:30 CET 2020</date>
                       <filename>JMRI program</filename>
                     </operation>
                     <operation>
                       <type>Load OK</type>
-                      <date>Thu Mar 12 17:48:54 CET 2020</date>
+                      <date>Fri Mar 13 17:08:33 CET 2020</date>
                       <filename>/home/otto/.jmri/Signals_1.jmri/Signals%20SSL.xml</filename>
                       <filehistory>
                         <operation>
                           <type>app</type>
-                          <date>Thu Mar 12 15:48:41 CET 2020</date>
+                          <date>Thu Mar 12 19:54:33 CET 2020</date>
                           <filename>JMRI program</filename>
                         </operation>
                         <operation>
                           <type>Load OK</type>
-                          <date>Thu Mar 12 15:48:42 CET 2020</date>
-                          <filename>/home/otto/.jmri/Signals_1.jmri/Signals%20Template.xml</filename>
+                          <date>Thu Mar 12 19:54:35 CET 2020</date>
+                          <filename>/home/otto/.jmri/Signals_1.jmri/Signals%20SSL.xml</filename>
                         </operation>
                         <operation>
                           <type>Store</type>
-                          <date>Thu Mar 12 17:34:04 CET 2020</date>
+                          <date>Thu Mar 12 21:38:42 CET 2020</date>
                           <filename />
                         </operation>
                       </filehistory>
                     </operation>
                     <operation>
                       <type>Store</type>
-                      <date>Thu Mar 12 19:54:10 CET 2020</date>
+                      <date>Fri Mar 13 18:37:03 CET 2020</date>
                       <filename />
                     </operation>
                   </filehistory>
                 </operation>
                 <operation>
                   <type>Store</type>
-                  <date>Thu Mar 12 21:38:42 CET 2020</date>
+                  <date>Fri Mar 13 21:35:35 CET 2020</date>
                   <filename />
                 </operation>
               </filehistory>
             </operation>
             <operation>
               <type>Store</type>
-              <date>Fri Mar 13 18:37:03 CET 2020</date>
+              <date>Sat Mar 14 21:04:11 CET 2020</date>
               <filename />
             </operation>
           </filehistory>
         </operation>
         <operation>
           <type>Store</type>
-          <date>Fri Mar 13 21:35:35 CET 2020</date>
+          <date>Sun Mar 15 14:31:29 CET 2020</date>
           <filename />
         </operation>
       </filehistory>
     </operation>
     <operation>
       <type>Store</type>
-      <date>Sat Mar 14 17:46:24 CET 2020</date>
+      <date>Sun Mar 15 17:53:37 CET 2020</date>
       <filename />
     </operation>
   </filehistory>
-  <!--Written by JMRI version 4.18+R37ad3d0 on Sat Mar 14 17:46:24 CET 2020-->
+  <!--Written by JMRI version 4.18+R37ad3d0 on Sun Mar 15 17:53:37 CET 2020-->
 </layout-config>
