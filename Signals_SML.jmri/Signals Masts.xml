@@ -275,6 +275,447 @@
         <disabledAspect>Unlit</disabledAspect>
       </disabledAspects>
     </virtualsignalmast>
+    <olcbsignalmast class="jmri.jmrix.openlcb.configurexml.OlcbSignalMastXml">
+      <systemName>MF$olm:SBB-Typ-L:3a-h($0001)</systemName>
+      <userName>Mast B01-B02</userName>
+      <lit>
+        <lit>00.00.00.00.00.00.00.00</lit>
+        <notlit>00.00.00.00.00.00.00.00</notlit>
+      </lit>
+      <held>
+        <held>00.00.00.00.00.00.00.00</held>
+        <notheld>00.00.00.00.00.00.00.00</notheld>
+      </held>
+      <aspect defines="FB1">
+        <event>05.01.01.01.31.00.10.02</event>
+      </aspect>
+      <aspect defines="FB2">
+        <event>05.01.01.01.31.00.10.01</event>
+      </aspect>
+      <aspect defines="Halt">
+        <event>05.01.01.01.31.00.10.00</event>
+      </aspect>
+    </olcbsignalmast>
+    <olcbsignalmast class="jmri.jmrix.openlcb.configurexml.OlcbSignalMastXml">
+      <systemName>MF$olm:SBB-Typ-L:3a-h($0002)</systemName>
+      <userName>Mast B02-B01-B09</userName>
+      <lit>
+        <lit>00.00.00.00.00.00.00.00</lit>
+        <notlit>00.00.00.00.00.00.00.00</notlit>
+      </lit>
+      <held>
+        <held>00.00.00.00.00.00.00.00</held>
+        <notheld>00.00.00.00.00.00.00.00</notheld>
+      </held>
+      <aspect defines="FB1">
+        <event>05.01.01.01.31.00.10.05</event>
+      </aspect>
+      <aspect defines="FB2">
+        <event>05.01.01.01.31.00.10.04</event>
+      </aspect>
+      <aspect defines="Halt">
+        <event>05.01.01.01.31.00.10.03</event>
+      </aspect>
+    </olcbsignalmast>
+    <olcbsignalmast class="jmri.jmrix.openlcb.configurexml.OlcbSignalMastXml">
+      <systemName>MF$olm:SBB-Typ-L:3a-h($0003)</systemName>
+      <userName>Mast B02-B03-B04</userName>
+      <lit>
+        <lit>00.00.00.00.00.00.00.00</lit>
+        <notlit>00.00.00.00.00.00.00.00</notlit>
+      </lit>
+      <held>
+        <held>00.00.00.00.00.00.00.00</held>
+        <notheld>00.00.00.00.00.00.00.00</notheld>
+      </held>
+      <aspect defines="FB1">
+        <event>05.01.01.01.31.00.10.08</event>
+      </aspect>
+      <aspect defines="FB2">
+        <event>05.01.01.01.31.00.10.07</event>
+      </aspect>
+      <aspect defines="Halt">
+        <event>05.01.01.01.31.00.10.06</event>
+      </aspect>
+    </olcbsignalmast>
+    <olcbsignalmast class="jmri.jmrix.openlcb.configurexml.OlcbSignalMastXml">
+      <systemName>MF$olm:SBB-Typ-L:3a-h($0004)</systemName>
+      <userName>Mast B03-B02-B13</userName>
+      <lit>
+        <lit>00.00.00.00.00.00.00.00</lit>
+        <notlit>00.00.00.00.00.00.00.00</notlit>
+      </lit>
+      <held>
+        <held>00.00.00.00.00.00.00.00</held>
+        <notheld>00.00.00.00.00.00.00.00</notheld>
+      </held>
+      <aspect defines="FB1">
+        <event>05.01.01.01.31.00.10.0B</event>
+      </aspect>
+      <aspect defines="FB2">
+        <event>05.01.01.01.31.00.10.0A</event>
+      </aspect>
+      <aspect defines="Halt">
+        <event>05.01.01.01.31.00.10.09</event>
+      </aspect>
+    </olcbsignalmast>
+    <olcbsignalmast class="jmri.jmrix.openlcb.configurexml.OlcbSignalMastXml">
+      <systemName>MF$olm:SBB-Typ-L:3a-h($0005)</systemName>
+      <userName>Mast B03-B05-B11</userName>
+      <lit>
+        <lit>00.00.00.00.00.00.00.00</lit>
+        <notlit>00.00.00.00.00.00.00.00</notlit>
+      </lit>
+      <held>
+        <held>00.00.00.00.00.00.00.00</held>
+        <notheld>00.00.00.00.00.00.00.00</notheld>
+      </held>
+      <aspect defines="FB1">
+        <event>05.01.01.01.31.00.10.00E</event>
+      </aspect>
+      <aspect defines="FB2">
+        <event>05.01.01.01.31.00.10.0D</event>
+      </aspect>
+      <aspect defines="Halt">
+        <event>05.01.01.01.31.00.10.0C</event>
+      </aspect>
+    </olcbsignalmast>
+    <olcbsignalmast class="jmri.jmrix.openlcb.configurexml.OlcbSignalMastXml">
+      <systemName>MF$olm:SBB-Typ-L:3a-h($0006)</systemName>
+      <userName>Mast B04-B02</userName>
+      <lit>
+        <lit>00.00.00.00.00.00.00.00</lit>
+        <notlit>00.00.00.00.00.00.00.00</notlit>
+      </lit>
+      <held>
+        <held>00.00.00.00.00.00.00.00</held>
+        <notheld>00.00.00.00.00.00.00.00</notheld>
+      </held>
+      <aspect defines="FB1">
+        <event>05.01.01.01.31.00.10.11</event>
+      </aspect>
+      <aspect defines="FB2">
+        <event>05.01.01.01.31.00.10.10</event>
+      </aspect>
+      <aspect defines="Halt">
+        <event>05.01.01.01.31.00.10.0F</event>
+      </aspect>
+    </olcbsignalmast>
+    <olcbsignalmast class="jmri.jmrix.openlcb.configurexml.OlcbSignalMastXml">
+      <systemName>MF$olm:SBB-Typ-L:3a-h($0007)</systemName>
+      <userName>Mast B04-B05</userName>
+      <lit>
+        <lit>00.00.00.00.00.00.00.00</lit>
+        <notlit>00.00.00.00.00.00.00.00</notlit>
+      </lit>
+      <held>
+        <held>00.00.00.00.00.00.00.00</held>
+        <notheld>00.00.00.00.00.00.00.00</notheld>
+      </held>
+      <aspect defines="FB1">
+        <event>05.01.01.01.31.00.10.14</event>
+      </aspect>
+      <aspect defines="FB2">
+        <event>05.01.01.01.31.00.10.13</event>
+      </aspect>
+      <aspect defines="Halt">
+        <event>05.01.01.01.31.00.10.12</event>
+      </aspect>
+    </olcbsignalmast>
+    <olcbsignalmast class="jmri.jmrix.openlcb.configurexml.OlcbSignalMastXml">
+      <systemName>MF$olm:SBB-Typ-L:3a-h($0008)</systemName>
+      <userName>Mast B05-B03-B04</userName>
+      <lit>
+        <lit>00.00.00.00.00.00.00.00</lit>
+        <notlit>00.00.00.00.00.00.00.00</notlit>
+      </lit>
+      <held>
+        <held>00.00.00.00.00.00.00.00</held>
+        <notheld>00.00.00.00.00.00.00.00</notheld>
+      </held>
+      <aspect defines="FB1">
+        <event>05.01.01.01.31.00.00.17</event>
+      </aspect>
+      <aspect defines="FB2">
+        <event>05.01.01.01.31.00.00.16</event>
+      </aspect>
+      <aspect defines="Halt">
+        <event>05.01.01.01.31.00.00.15</event>
+      </aspect>
+    </olcbsignalmast>
+    <olcbsignalmast class="jmri.jmrix.openlcb.configurexml.OlcbSignalMastXml">
+      <systemName>MF$olm:SBB-Typ-L:3a-h($0009)</systemName>
+      <userName>Mast B05-B09-Inglenook</userName>
+      <lit>
+        <lit>00.00.00.00.00.00.00.00</lit>
+        <notlit>00.00.00.00.00.00.00.00</notlit>
+      </lit>
+      <held>
+        <held>00.00.00.00.00.00.00.00</held>
+        <notheld>00.00.00.00.00.00.00.00</notheld>
+      </held>
+      <aspect defines="FB1">
+        <event>05.01.01.01.31.00.00.1A</event>
+      </aspect>
+      <aspect defines="FB2">
+        <event>05.01.01.01.31.00.00.19</event>
+      </aspect>
+      <aspect defines="Halt">
+        <event>05.01.01.01.31.00.00.18</event>
+      </aspect>
+    </olcbsignalmast>
+    <olcbsignalmast class="jmri.jmrix.openlcb.configurexml.OlcbSignalMastXml">
+      <systemName>MF$olm:SBB-Typ-L:3a-h($0010)</systemName>
+      <userName>Mast B09-B02</userName>
+      <lit>
+        <lit>00.00.00.00.00.00.00.00</lit>
+        <notlit>00.00.00.00.00.00.00.00</notlit>
+      </lit>
+      <held>
+        <held>00.00.00.00.00.00.00.00</held>
+        <notheld>00.00.00.00.00.00.00.00</notheld>
+      </held>
+      <aspect defines="FB1">
+        <event>05.01.01.01.31.00.00.1D</event>
+      </aspect>
+      <aspect defines="FB2">
+        <event>05.01.01.01.31.00.00.1C</event>
+      </aspect>
+      <aspect defines="Halt">
+        <event>05.01.01.01.31.00.00.1B</event>
+      </aspect>
+    </olcbsignalmast>
+    <olcbsignalmast class="jmri.jmrix.openlcb.configurexml.OlcbSignalMastXml">
+      <systemName>MF$olm:SBB-Typ-L:3a-h($0011)</systemName>
+      <userName>Mast B09-B05</userName>
+      <lit>
+        <lit>00.00.00.00.00.00.00.00</lit>
+        <notlit>00.00.00.00.00.00.00.00</notlit>
+      </lit>
+      <held>
+        <held>00.00.00.00.00.00.00.00</held>
+        <notheld>00.00.00.00.00.00.00.00</notheld>
+      </held>
+      <aspect defines="FB1">
+        <event>05.01.01.01.31.00.00.20</event>
+      </aspect>
+      <aspect defines="FB2">
+        <event>05.01.01.01.31.00.00.1F</event>
+      </aspect>
+      <aspect defines="Halt">
+        <event>05.01.01.01.31.00.00.1E</event>
+      </aspect>
+    </olcbsignalmast>
+    <olcbsignalmast class="jmri.jmrix.openlcb.configurexml.OlcbSignalMastXml">
+      <systemName>MF$olm:SBB-Typ-L:3a-h($0012)</systemName>
+      <userName>Mast B10-B03</userName>
+      <lit>
+        <lit>00.00.00.00.00.00.00.00</lit>
+        <notlit>00.00.00.00.00.00.00.00</notlit>
+      </lit>
+      <held>
+        <held>00.00.00.00.00.00.00.00</held>
+        <notheld>00.00.00.00.00.00.00.00</notheld>
+      </held>
+      <aspect defines="FB1">
+        <event>05.01.01.01.31.00.00.23</event>
+      </aspect>
+      <aspect defines="FB2">
+        <event>05.01.01.01.31.00.00.22</event>
+      </aspect>
+      <aspect defines="Halt">
+        <event>05.01.01.01.31.00.00.21</event>
+      </aspect>
+    </olcbsignalmast>
+    <olcbsignalmast class="jmri.jmrix.openlcb.configurexml.OlcbSignalMastXml">
+      <systemName>MF$olm:SBB-Typ-L:3a-h($0013)</systemName>
+      <userName>Mast B10-B11</userName>
+      <lit>
+        <lit>00.00.00.00.00.00.00.00</lit>
+        <notlit>00.00.00.00.00.00.00.00</notlit>
+      </lit>
+      <held>
+        <held>00.00.00.00.00.00.00.00</held>
+        <notheld>00.00.00.00.00.00.00.00</notheld>
+      </held>
+      <aspect defines="FB1">
+        <event>05.01.01.01.31.00.00.26</event>
+      </aspect>
+      <aspect defines="FB2">
+        <event>05.01.01.01.31.00.00.25</event>
+      </aspect>
+      <aspect defines="Halt">
+        <event>05.01.01.01.31.00.00.24</event>
+      </aspect>
+    </olcbsignalmast>
+    <olcbsignalmast class="jmri.jmrix.openlcb.configurexml.OlcbSignalMastXml">
+      <systemName>MF$olm:SBB-Typ-L:3a-h($0014)</systemName>
+      <userName>Mast B11-B03-B12</userName>
+      <lit>
+        <lit>00.00.00.00.00.00.00.00</lit>
+        <notlit>00.00.00.00.00.00.00.00</notlit>
+      </lit>
+      <held>
+        <held>00.00.00.00.00.00.00.00</held>
+        <notheld>00.00.00.00.00.00.00.00</notheld>
+      </held>
+      <aspect defines="FB1">
+        <event>05.01.01.01.31.00.00.29</event>
+      </aspect>
+      <aspect defines="FB2">
+        <event>05.01.01.01.31.00.00.28</event>
+      </aspect>
+      <aspect defines="Halt">
+        <event>05.01.01.01.31.00.00.27</event>
+      </aspect>
+    </olcbsignalmast>
+    <olcbsignalmast class="jmri.jmrix.openlcb.configurexml.OlcbSignalMastXml">
+      <systemName>MF$olm:SBB-Typ-L:3a-h($0015)</systemName>
+      <userName>Mast B11-B12-B13</userName>
+      <lit>
+        <lit>00.00.00.00.00.00.00.00</lit>
+        <notlit>00.00.00.00.00.00.00.00</notlit>
+      </lit>
+      <held>
+        <held>00.00.00.00.00.00.00.00</held>
+        <notheld>00.00.00.00.00.00.00.00</notheld>
+      </held>
+      <aspect defines="FB1">
+        <event>05.01.01.01.31.00.00.2C</event>
+      </aspect>
+      <aspect defines="FB2">
+        <event>05.01.01.01.31.00.00.2B</event>
+      </aspect>
+      <aspect defines="Halt">
+        <event>05.01.01.01.31.00.00.2A</event>
+      </aspect>
+    </olcbsignalmast>
+    <olcbsignalmast class="jmri.jmrix.openlcb.configurexml.OlcbSignalMastXml">
+      <systemName>MF$olm:SBB-Typ-L:3a-h($0016)</systemName>
+      <userName>Mast B12-B11-T09</userName>
+      <lit>
+        <lit>00.00.00.00.00.00.00.00</lit>
+        <notlit>00.00.00.00.00.00.00.00</notlit>
+      </lit>
+      <held>
+        <held>00.00.00.00.00.00.00.00</held>
+        <notheld>00.00.00.00.00.00.00.00</notheld>
+      </held>
+      <aspect defines="FB1">
+        <event>05.01.01.01.31.00.00.2F</event>
+      </aspect>
+      <aspect defines="FB2">
+        <event>05.01.01.01.31.00.00.2E</event>
+      </aspect>
+      <aspect defines="Halt">
+        <event>05.01.01.01.31.00.00.2D</event>
+      </aspect>
+    </olcbsignalmast>
+    <olcbsignalmast class="jmri.jmrix.openlcb.configurexml.OlcbSignalMastXml">
+      <systemName>MF$olm:SBB-Typ-L:3a-h($0017)</systemName>
+      <userName>Mast B12-B11-T10</userName>
+      <lit>
+        <lit>00.00.00.00.00.00.00.00</lit>
+        <notlit>00.00.00.00.00.00.00.00</notlit>
+      </lit>
+      <held>
+        <held>00.00.00.00.00.00.00.00</held>
+        <notheld>00.00.00.00.00.00.00.00</notheld>
+      </held>
+      <aspect defines="FB1">
+        <event>05.01.01.01.31.00.00.32</event>
+      </aspect>
+      <aspect defines="FB2">
+        <event>05.01.01.01.31.00.00.31</event>
+      </aspect>
+      <aspect defines="Halt">
+        <event>05.01.01.01.31.00.00.30</event>
+      </aspect>
+    </olcbsignalmast>
+    <olcbsignalmast class="jmri.jmrix.openlcb.configurexml.OlcbSignalMastXml">
+      <systemName>MF$olm:SBB-Typ-L:3a-h($0018)</systemName>
+      <userName>Mast B13-B03</userName>
+      <lit>
+        <lit>00.00.00.00.00.00.00.00</lit>
+        <notlit>00.00.00.00.00.00.00.00</notlit>
+      </lit>
+      <held>
+        <held>00.00.00.00.00.00.00.00</held>
+        <notheld>00.00.00.00.00.00.00.00</notheld>
+      </held>
+      <aspect defines="FB1">
+        <event>05.01.01.01.31.00.00.35</event>
+      </aspect>
+      <aspect defines="FB2">
+        <event>05.01.01.01.31.00.00.34</event>
+      </aspect>
+      <aspect defines="Halt">
+        <event>05.01.01.01.31.00.00.33</event>
+      </aspect>
+    </olcbsignalmast>
+    <olcbsignalmast class="jmri.jmrix.openlcb.configurexml.OlcbSignalMastXml">
+      <systemName>MF$olm:SBB-Typ-L:3a-h($0019)</systemName>
+      <userName>Mast B13-B11</userName>
+      <lit>
+        <lit>00.00.00.00.00.00.00.00</lit>
+        <notlit>00.00.00.00.00.00.00.00</notlit>
+      </lit>
+      <held>
+        <held>00.00.00.00.00.00.00.00</held>
+        <notheld>00.00.00.00.00.00.00.00</notheld>
+      </held>
+      <aspect defines="FB1">
+        <event>05.01.01.01.31.00.00.38</event>
+      </aspect>
+      <aspect defines="FB2">
+        <event>05.01.01.01.31.00.00.37</event>
+      </aspect>
+      <aspect defines="Halt">
+        <event>05.01.01.01.31.00.00.36</event>
+      </aspect>
+    </olcbsignalmast>
+    <olcbsignalmast class="jmri.jmrix.openlcb.configurexml.OlcbSignalMastXml">
+      <systemName>MF$olm:SBB-Typ-L:3a-h($0020)</systemName>
+      <userName>Mast Inglenook End</userName>
+      <lit>
+        <lit>00.00.00.00.00.00.00.00</lit>
+        <notlit>00.00.00.00.00.00.00.00</notlit>
+      </lit>
+      <held>
+        <held>00.00.00.00.00.00.00.00</held>
+        <notheld>00.00.00.00.00.00.00.00</notheld>
+      </held>
+      <aspect defines="FB1">
+        <event>05.01.01.01.31.00.00.3B</event>
+      </aspect>
+      <aspect defines="FB2">
+        <event>05.01.01.01.31.00.00.3A</event>
+      </aspect>
+      <aspect defines="Halt">
+        <event>05.01.01.01.31.00.00.39</event>
+      </aspect>
+    </olcbsignalmast>
+    <olcbsignalmast class="jmri.jmrix.openlcb.configurexml.OlcbSignalMastXml">
+      <systemName>MF$olm:SBB-Typ-L:3a-h($0021)</systemName>
+      <userName>Mast Inglenook-B11</userName>
+      <lit>
+        <lit>00.00.00.00.00.00.00.00</lit>
+        <notlit>00.00.00.00.00.00.00.00</notlit>
+      </lit>
+      <held>
+        <held>00.00.00.00.00.00.00.00</held>
+        <notheld>00.00.00.00.00.00.00.00</notheld>
+      </held>
+      <aspect defines="FB1">
+        <event>05.01.01.01.31.00.00.3E</event>
+      </aspect>
+      <aspect defines="FB2">
+        <event>05.01.01.01.31.00.00.3D</event>
+      </aspect>
+      <aspect defines="Halt">
+        <event>05.01.01.01.31.00.00.3C</event>
+      </aspect>
+    </olcbsignalmast>
   </signalmasts>
   <blocks class="jmri.configurexml.BlockManagerXml">
     <defaultspeed>Normal</defaultspeed>
@@ -1101,7 +1542,7 @@
       </destinationMast>
     </signalmastlogic>
   </signalmastlogics>
-  <LayoutEditor class="jmri.jmrit.display.layoutEditor.configurexml.LayoutEditorXml" name="Signals - Masts" x="70" y="27" windowheight="1053" windowwidth="1850" panelheight="608" panelwidth="1370" sliders="no" scrollable="none" editable="yes" positionable="yes" controlling="yes" animating="yes" showhelpbar="no" drawgrid="yes" snaponadd="yes" snaponmove="yes" antialiasing="no" turnoutcircles="no" tooltipsnotedit="no" tooltipsinedit="yes" mainlinetrackwidth="4" xscale="1.0" yscale="1.0" sidetrackwidth="2" defaulttrackcolor="darkGray" defaultoccupiedtrackcolor="red" defaultalternativetrackcolor="white" defaulttextcolor="black" turnoutcirclecolor="black" turnoutcirclesize="4" turnoutdrawunselectedleg="yes" turnoutbx="20.0" turnoutcx="20.0" turnoutwid="10.0" xoverlong="30.0" xoverhwid="10.0" xovershort="10.0" autoblkgenerate="no" redBackground="192" greenBackground="192" blueBackground="192" gridSize="10" gridSize2nd="10" openDispatcher="no" useDirectTurnoutControl="no">
+  <LayoutEditor class="jmri.jmrit.display.layoutEditor.configurexml.LayoutEditorXml" name="Signals - Masts" x="70" y="27" windowheight="1053" windowwidth="1850" panelheight="627" panelwidth="1370" sliders="no" scrollable="none" editable="yes" positionable="yes" controlling="yes" animating="yes" showhelpbar="no" drawgrid="yes" snaponadd="yes" snaponmove="yes" antialiasing="no" turnoutcircles="no" tooltipsnotedit="no" tooltipsinedit="yes" mainlinetrackwidth="4" xscale="1.0" yscale="1.0" sidetrackwidth="2" defaulttrackcolor="darkGray" defaultoccupiedtrackcolor="red" defaultalternativetrackcolor="white" defaulttextcolor="black" turnoutcirclecolor="black" turnoutcirclesize="4" turnoutdrawunselectedleg="yes" turnoutbx="20.0" turnoutcx="20.0" turnoutwid="10.0" xoverlong="30.0" xoverhwid="10.0" xovershort="10.0" autoblkgenerate="no" redBackground="192" greenBackground="192" blueBackground="192" gridSize="10" gridSize2nd="10" openDispatcher="no" useDirectTurnoutControl="no">
     <layoutTrackDrawingOptions name="Signals - Masts" class="jmri.jmrit.display.layoutEditor.configurexml.LayoutTrackDrawingOptionsXml">
       <mainBallastColor>#000000</mainBallastColor>
       <mainBallastWidth>0</mainBallastWidth>
@@ -1218,7 +1659,7 @@
       </inconsistent>
       <iconmaps />
     </sensoricon>
-    <sensoricon sensor="Occupancy Block 10" x="1080" y="520" level="10" forcecontroloff="false" hidden="no" positionable="true" showtooltip="true" editable="true" momentary="false" icon="yes" class="jmri.jmrit.display.configurexml.SensorIconXml">
+    <sensoricon sensor="Occupancy Block 10" x="1120" y="520" level="10" forcecontroloff="false" hidden="no" positionable="true" showtooltip="true" editable="true" momentary="false" icon="yes" class="jmri.jmrit.display.configurexml.SensorIconXml">
       <active url="program:resources/icons/smallschematics/tracksegments/circuit-occupied.gif" degrees="0" scale="1.0">
         <rotation>0</rotation>
       </active>
@@ -1248,7 +1689,7 @@
       </inconsistent>
       <iconmaps />
     </sensoricon>
-    <sensoricon sensor="Occupancy Block 11" x="1240" y="380" level="10" forcecontroloff="false" hidden="no" positionable="true" showtooltip="true" editable="true" momentary="false" icon="yes" class="jmri.jmrit.display.configurexml.SensorIconXml">
+    <sensoricon sensor="Occupancy Block 11" x="1240" y="350" level="10" forcecontroloff="false" hidden="no" positionable="true" showtooltip="true" editable="true" momentary="false" icon="yes" class="jmri.jmrit.display.configurexml.SensorIconXml">
       <active url="program:resources/icons/smallschematics/tracksegments/circuit-occupied.gif" degrees="0" scale="1.0">
         <rotation>0</rotation>
       </active>
@@ -1315,6 +1756,26 @@
       </inconsistent>
       <iconmaps />
     </sensoricon>
+    <signalmasticon signalmast="Mast B02-B01-B09" x="260" y="50" level="9" forcecontroloff="false" hidden="no" positionable="true" showtooltip="true" editable="true" degrees="90" clickmode="0" litmode="false" scale="1.0" imageset="default" class="jmri.jmrit.display.configurexml.SignalMastIconXml" />
+    <signalmasticon signalmast="Mast B01-B02" x="440" y="40" level="9" forcecontroloff="false" hidden="no" positionable="true" showtooltip="true" editable="true" degrees="270" clickmode="0" litmode="false" scale="1.0" imageset="default" class="jmri.jmrit.display.configurexml.SignalMastIconXml" />
+    <signalmasticon signalmast="Mast B09-B02" x="440" y="80" level="9" forcecontroloff="false" hidden="no" positionable="true" showtooltip="true" editable="true" degrees="270" clickmode="0" litmode="false" scale="1.0" imageset="default" class="jmri.jmrit.display.configurexml.SignalMastIconXml" />
+    <signalmasticon signalmast="Mast B09-B05" x="990" y="50" level="9" forcecontroloff="false" hidden="no" positionable="true" showtooltip="true" editable="true" degrees="90" clickmode="0" litmode="false" scale="1.0" imageset="default" class="jmri.jmrit.display.configurexml.SignalMastIconXml" />
+    <signalmasticon signalmast="Mast Inglenook-B11" x="990" y="90" level="9" forcecontroloff="false" hidden="no" positionable="true" showtooltip="true" editable="true" degrees="90" clickmode="0" litmode="false" scale="1.0" imageset="default" class="jmri.jmrit.display.configurexml.SignalMastIconXml" />
+    <signalmasticon signalmast="Mast B05-B09-Inglenook" x="1140" y="80" level="9" forcecontroloff="false" hidden="no" positionable="true" showtooltip="true" editable="true" degrees="270" clickmode="0" litmode="false" scale="1.0" imageset="default" class="jmri.jmrit.display.configurexml.SignalMastIconXml" />
+    <signalmasticon signalmast="Mast B13-B11" x="880" y="200" level="9" forcecontroloff="false" hidden="no" positionable="true" showtooltip="true" editable="true" degrees="90" clickmode="0" litmode="false" scale="1.0" imageset="default" class="jmri.jmrit.display.configurexml.SignalMastIconXml" />
+    <signalmasticon signalmast="Mast B11-B12-B13" x="1040" y="230" level="9" forcecontroloff="false" hidden="no" positionable="true" showtooltip="true" editable="true" degrees="270" clickmode="0" litmode="false" scale="1.0" imageset="default" class="jmri.jmrit.display.configurexml.SignalMastIconXml" />
+    <signalmasticon signalmast="Mast B12-B11-T09" x="880" y="250" level="9" forcecontroloff="false" hidden="no" positionable="true" showtooltip="true" editable="true" degrees="90" clickmode="0" litmode="false" scale="1.0" imageset="default" class="jmri.jmrit.display.configurexml.SignalMastIconXml" />
+    <signalmasticon signalmast="Mast B11-B03-B12" x="1240" y="370" level="9" forcecontroloff="false" hidden="no" positionable="true" showtooltip="true" editable="true" degrees="180" clickmode="0" litmode="false" scale="1.0" imageset="default" class="jmri.jmrit.display.configurexml.SignalMastIconXml" />
+    <signalmasticon signalmast="Mast B12-B11-T10" x="1130" y="440" level="9" forcecontroloff="false" hidden="no" positionable="true" showtooltip="true" editable="true" degrees="90" clickmode="0" litmode="false" scale="1.0" imageset="default" class="jmri.jmrit.display.configurexml.SignalMastIconXml" />
+    <signalmasticon signalmast="Mast B10-B11" x="1110" y="490" level="9" forcecontroloff="false" hidden="no" positionable="true" showtooltip="true" editable="true" degrees="90" clickmode="0" litmode="false" scale="1.0" imageset="default" class="jmri.jmrit.display.configurexml.SignalMastIconXml" />
+    <signalmasticon signalmast="Mast B10-B03" x="1060" y="520" level="9" forcecontroloff="false" hidden="no" positionable="true" showtooltip="true" editable="true" degrees="270" clickmode="0" litmode="false" scale="1.0" imageset="default" class="jmri.jmrit.display.configurexml.SignalMastIconXml" />
+    <signalmasticon signalmast="Mast B05-B03-B04" x="1080" y="550" level="9" forcecontroloff="false" hidden="no" positionable="true" showtooltip="true" editable="true" degrees="270" clickmode="0" litmode="false" scale="1.0" imageset="default" class="jmri.jmrit.display.configurexml.SignalMastIconXml" />
+    <signalmasticon signalmast="Mast B03-B05-B11" x="940" y="490" level="9" forcecontroloff="false" hidden="no" positionable="true" showtooltip="true" editable="true" degrees="90" clickmode="0" litmode="false" scale="1.0" imageset="default" class="jmri.jmrit.display.configurexml.SignalMastIconXml" />
+    <signalmasticon signalmast="Mast B04-B05" x="940" y="520" level="9" forcecontroloff="false" hidden="no" positionable="true" showtooltip="true" editable="true" degrees="90" clickmode="0" litmode="false" scale="1.0" imageset="default" class="jmri.jmrit.display.configurexml.SignalMastIconXml" />
+    <signalmasticon signalmast="Mast B03-B02-B13" x="580" y="520" level="9" forcecontroloff="false" hidden="no" positionable="true" showtooltip="true" editable="true" degrees="270" clickmode="0" litmode="false" scale="1.0" imageset="default" class="jmri.jmrit.display.configurexml.SignalMastIconXml" />
+    <signalmasticon signalmast="Mast B04-B02" x="580" y="550" level="9" forcecontroloff="false" hidden="no" positionable="true" showtooltip="true" editable="true" degrees="270" clickmode="0" litmode="false" scale="1.0" imageset="default" class="jmri.jmrit.display.configurexml.SignalMastIconXml" />
+    <signalmasticon signalmast="Mast B13-B03" x="440" y="490" level="9" forcecontroloff="false" hidden="no" positionable="true" showtooltip="true" editable="true" degrees="90" clickmode="0" litmode="false" scale="1.0" imageset="default" class="jmri.jmrit.display.configurexml.SignalMastIconXml" />
+    <signalmasticon signalmast="Mast B02-B03-B04" x="440" y="520" level="9" forcecontroloff="false" hidden="no" positionable="true" showtooltip="true" editable="true" degrees="90" clickmode="0" litmode="false" scale="1.0" imageset="default" class="jmri.jmrit.display.configurexml.SignalMastIconXml" />
     <layoutturnout ident="TO5" type="2" hidden="no" disabled="no" disableWhenOccupied="no" continuing="2" xcen="998.0" ycen="230.0" xa="1018.0" ya="230.0" xb="978.0" yb="230.0" xc="978.0" yc="240.0" xd="1018.0" yd="230.0" ver="1" class="jmri.jmrit.display.layoutEditor.configurexml.LayoutTurnoutXml" turnoutname="Turnout 09" blockname="Turnout Block 09" connectaname="T19" connectbname="T16" connectcname="T17">
       <signalAMast>vMast B11-B12-B13</signalAMast>
       <signalBMast>vMast B13-B11</signalBMast>
@@ -1414,109 +1875,104 @@
   <filehistory>
     <operation>
       <type>app</type>
-      <date>Fri Mar 20 20:43:52 CET 2020</date>
+      <date>Fri Mar 20 23:05:37 CET 2020</date>
       <filename>JMRI program</filename>
     </operation>
     <operation>
       <type>Load OK</type>
-      <date>Fri Mar 20 20:43:54 CET 2020</date>
+      <date>Fri Mar 20 23:05:39 CET 2020</date>
       <filename>/home/otto/.jmri/Signals_2.jmri/Signals%20Masts.xml</filename>
       <filehistory>
         <operation>
           <type>app</type>
-          <date>Fri Mar 20 20:11:36 CET 2020</date>
+          <date>Fri Mar 20 20:59:50 CET 2020</date>
           <filename>JMRI program</filename>
         </operation>
         <operation>
           <type>Load OK</type>
-          <date>Fri Mar 20 20:11:38 CET 2020</date>
+          <date>Fri Mar 20 20:59:52 CET 2020</date>
           <filename>/home/otto/.jmri/Signals_2.jmri/Signals%20Masts.xml</filename>
           <filehistory>
             <operation>
               <type>app</type>
-              <date>Fri Mar 20 19:42:22 CET 2020</date>
+              <date>Fri Mar 20 20:43:52 CET 2020</date>
               <filename>JMRI program</filename>
             </operation>
             <operation>
               <type>Load OK</type>
-              <date>Fri Mar 20 19:42:25 CET 2020</date>
+              <date>Fri Mar 20 20:43:54 CET 2020</date>
               <filename>/home/otto/.jmri/Signals_2.jmri/Signals%20Masts.xml</filename>
               <filehistory>
                 <operation>
                   <type>app</type>
-                  <date>Fri Mar 20 18:12:38 CET 2020</date>
+                  <date>Fri Mar 20 20:11:36 CET 2020</date>
                   <filename>JMRI program</filename>
                 </operation>
                 <operation>
                   <type>Load OK</type>
-                  <date>Fri Mar 20 18:12:40 CET 2020</date>
+                  <date>Fri Mar 20 20:11:38 CET 2020</date>
                   <filename>/home/otto/.jmri/Signals_2.jmri/Signals%20Masts.xml</filename>
                   <filehistory>
                     <operation>
                       <type>app</type>
-                      <date>Fri Mar 20 17:24:29 CET 2020</date>
+                      <date>Fri Mar 20 19:42:22 CET 2020</date>
                       <filename>JMRI program</filename>
                     </operation>
                     <operation>
                       <type>Load OK</type>
-                      <date>Fri Mar 20 17:24:33 CET 2020</date>
+                      <date>Fri Mar 20 19:42:25 CET 2020</date>
                       <filename>/home/otto/.jmri/Signals_2.jmri/Signals%20Masts.xml</filename>
                       <filehistory>
                         <operation>
                           <type>app</type>
-                          <date>Sun Mar 15 18:02:20 CET 2020</date>
+                          <date>Fri Mar 20 18:12:38 CET 2020</date>
                           <filename>JMRI program</filename>
                         </operation>
                         <operation>
                           <type>Load OK</type>
-                          <date>Sun Mar 15 18:02:23 CET 2020</date>
-                          <filename>/home/otto/.jmri/Signals_1.jmri/Signals%20SSL.xml</filename>
-                        </operation>
-                        <operation>
-                          <type>Load OK</type>
-                          <date>Sun Mar 15 18:02:36 CET 2020</date>
-                          <filename>/home/otto/.jmri/Signals_1.jmri/Signals%20Template.xml</filename>
+                          <date>Fri Mar 20 18:12:40 CET 2020</date>
+                          <filename>/home/otto/.jmri/Signals_2.jmri/Signals%20Masts.xml</filename>
                         </operation>
                         <operation>
                           <type>Store</type>
-                          <date>Sun Mar 15 18:06:28 CET 2020</date>
+                          <date>Fri Mar 20 19:27:35 CET 2020</date>
                           <filename />
                         </operation>
                       </filehistory>
                     </operation>
                     <operation>
                       <type>Store</type>
-                      <date>Fri Mar 20 18:12:19 CET 2020</date>
+                      <date>Fri Mar 20 20:08:18 CET 2020</date>
                       <filename />
                     </operation>
                   </filehistory>
                 </operation>
                 <operation>
                   <type>Store</type>
-                  <date>Fri Mar 20 19:27:35 CET 2020</date>
+                  <date>Fri Mar 20 20:37:02 CET 2020</date>
                   <filename />
                 </operation>
               </filehistory>
             </operation>
             <operation>
               <type>Store</type>
-              <date>Fri Mar 20 20:08:18 CET 2020</date>
+              <date>Fri Mar 20 20:52:12 CET 2020</date>
               <filename />
             </operation>
           </filehistory>
         </operation>
         <operation>
           <type>Store</type>
-          <date>Fri Mar 20 20:37:02 CET 2020</date>
+          <date>Fri Mar 20 23:05:06 CET 2020</date>
           <filename />
         </operation>
       </filehistory>
     </operation>
     <operation>
       <type>Store</type>
-      <date>Fri Mar 20 20:52:12 CET 2020</date>
+      <date>Fri Mar 20 23:41:41 CET 2020</date>
       <filename />
     </operation>
   </filehistory>
-  <!--Written by JMRI version 4.18+R37ad3d0 on Fri Mar 20 20:52:12 CET 2020-->
+  <!--Written by JMRI version 4.18+R37ad3d0 on Fri Mar 20 23:41:41 CET 2020-->
 </layout-config>
