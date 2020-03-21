@@ -325,6 +325,152 @@
       <userName>vTurnout Signal 10 Throat 2</userName>
     </turnout>
   </turnouts>
+  <signalheads class="jmri.managers.configurexml.AbstractSignalHeadManagerXml">
+    <signalhead class="jmri.implementation.configurexml.VirtualSignalHeadXml">
+      <systemName>IH01</systemName>
+      <userName>vSignal Turnout 01 Throat Continue</userName>
+    </signalhead>
+    <signalhead class="jmri.implementation.configurexml.VirtualSignalHeadXml">
+      <systemName>IH02</systemName>
+      <userName>vSignal Turnout 01 Continue</userName>
+    </signalhead>
+    <signalhead class="jmri.implementation.configurexml.VirtualSignalHeadXml">
+      <systemName>IH03</systemName>
+      <userName>vSignal Turnout 01 Diverge</userName>
+    </signalhead>
+    <signalhead class="jmri.implementation.configurexml.VirtualSignalHeadXml">
+      <systemName>IH04</systemName>
+      <userName>vSignal Turnout 01 Throat Diverge</userName>
+    </signalhead>
+    <signalhead class="jmri.implementation.configurexml.VirtualSignalHeadXml">
+      <systemName>IH05</systemName>
+      <userName>vSignal Turnout 02 A Continue</userName>
+    </signalhead>
+    <signalhead class="jmri.implementation.configurexml.VirtualSignalHeadXml">
+      <systemName>IH06</systemName>
+      <userName>vSignal Turnout 02 B Continue</userName>
+    </signalhead>
+    <signalhead class="jmri.implementation.configurexml.VirtualSignalHeadXml">
+      <systemName>IH07</systemName>
+      <userName>vSignal Turnout 02 B Diverge</userName>
+    </signalhead>
+    <signalhead class="jmri.implementation.configurexml.VirtualSignalHeadXml">
+      <systemName>IH08</systemName>
+      <userName>vSignal Turnout 02 C Continue</userName>
+    </signalhead>
+    <signalhead class="jmri.implementation.configurexml.VirtualSignalHeadXml">
+      <systemName>IH09</systemName>
+      <userName>vSignal Turnout 02 D Continue</userName>
+    </signalhead>
+    <signalhead class="jmri.implementation.configurexml.VirtualSignalHeadXml">
+      <systemName>IH10</systemName>
+      <userName>vSignal Turnout 02 D Diverge</userName>
+    </signalhead>
+    <signalhead class="jmri.implementation.configurexml.VirtualSignalHeadXml">
+      <systemName>IH11</systemName>
+      <userName>vSignal Turnout 04 A Continue</userName>
+    </signalhead>
+    <signalhead class="jmri.implementation.configurexml.VirtualSignalHeadXml">
+      <systemName>IH12</systemName>
+      <userName>vSignal Turnout 04 A Diverge</userName>
+    </signalhead>
+    <signalhead class="jmri.implementation.configurexml.VirtualSignalHeadXml">
+      <systemName>IH13</systemName>
+      <userName>vSignal Turnout 04 B Continue</userName>
+    </signalhead>
+    <signalhead class="jmri.implementation.configurexml.VirtualSignalHeadXml">
+      <systemName>IH14</systemName>
+      <userName>vSignal Turnout 04 C Continue</userName>
+    </signalhead>
+    <signalhead class="jmri.implementation.configurexml.VirtualSignalHeadXml">
+      <systemName>IH15</systemName>
+      <userName>vSignal Turnout 04 C Diverge</userName>
+    </signalhead>
+    <signalhead class="jmri.implementation.configurexml.VirtualSignalHeadXml">
+      <systemName>IH16</systemName>
+      <userName>vSignal Turnout 04 D Continue</userName>
+    </signalhead>
+    <signalhead class="jmri.implementation.configurexml.VirtualSignalHeadXml">
+      <systemName>IH17</systemName>
+      <userName>vSignal Turnout 06 Continue</userName>
+    </signalhead>
+    <signalhead class="jmri.implementation.configurexml.VirtualSignalHeadXml">
+      <systemName>IH18</systemName>
+      <userName>vSignal Turnout 06 Diverge</userName>
+    </signalhead>
+    <signalhead class="jmri.implementation.configurexml.VirtualSignalHeadXml">
+      <systemName>IH19</systemName>
+      <userName>vSignal Turnout 06 Throat Continue</userName>
+    </signalhead>
+    <signalhead class="jmri.implementation.configurexml.VirtualSignalHeadXml">
+      <systemName>IH20</systemName>
+      <userName>vSignal Turnout 06 Throat Diverge</userName>
+    </signalhead>
+    <signalhead class="jmri.implementation.configurexml.VirtualSignalHeadXml">
+      <systemName>IH21</systemName>
+      <userName>vSignal Turnout 07 Continue</userName>
+    </signalhead>
+    <signalhead class="jmri.implementation.configurexml.VirtualSignalHeadXml">
+      <systemName>IH22</systemName>
+      <userName>vSignal Turnout 07 Diverge</userName>
+    </signalhead>
+    <signalhead class="jmri.implementation.configurexml.VirtualSignalHeadXml">
+      <systemName>IH23</systemName>
+      <userName>vSignal Turnout 07 Throat Continue</userName>
+    </signalhead>
+    <signalhead class="jmri.implementation.configurexml.VirtualSignalHeadXml">
+      <systemName>IH24</systemName>
+      <userName>vSignal Turnout 07 Throat Diverge</userName>
+    </signalhead>
+    <signalhead class="jmri.implementation.configurexml.VirtualSignalHeadXml">
+      <systemName>IH25</systemName>
+      <userName>vSignal Turnout 08 Continue</userName>
+    </signalhead>
+    <signalhead class="jmri.implementation.configurexml.VirtualSignalHeadXml">
+      <systemName>IH26</systemName>
+      <userName>vSignal Turnout 08 Diverge</userName>
+    </signalhead>
+    <signalhead class="jmri.implementation.configurexml.VirtualSignalHeadXml">
+      <systemName>IH27</systemName>
+      <userName>vSignal Turnout 08 Throat Continue</userName>
+    </signalhead>
+    <signalhead class="jmri.implementation.configurexml.VirtualSignalHeadXml">
+      <systemName>IH28</systemName>
+      <userName>vSignal Turnout 08 Throat Diverge</userName>
+    </signalhead>
+    <signalhead class="jmri.implementation.configurexml.VirtualSignalHeadXml">
+      <systemName>IH29</systemName>
+      <userName>vSignal Turnout 09 Continue</userName>
+    </signalhead>
+    <signalhead class="jmri.implementation.configurexml.VirtualSignalHeadXml">
+      <systemName>IH30</systemName>
+      <userName>vSignal Turnout 09 Diverge</userName>
+    </signalhead>
+    <signalhead class="jmri.implementation.configurexml.VirtualSignalHeadXml">
+      <systemName>IH31</systemName>
+      <userName>vSignal Turnout 09 Throat Continue</userName>
+    </signalhead>
+    <signalhead class="jmri.implementation.configurexml.VirtualSignalHeadXml">
+      <systemName>IH32</systemName>
+      <userName>vSignal Turnout 09 Throat Diverge</userName>
+    </signalhead>
+    <signalhead class="jmri.implementation.configurexml.VirtualSignalHeadXml">
+      <systemName>IH33</systemName>
+      <userName>vSignal Turnout 10 Continue</userName>
+    </signalhead>
+    <signalhead class="jmri.implementation.configurexml.VirtualSignalHeadXml">
+      <systemName>IH34</systemName>
+      <userName>vSignal Turnout 10 Diverge</userName>
+    </signalhead>
+    <signalhead class="jmri.implementation.configurexml.VirtualSignalHeadXml">
+      <systemName>IH35</systemName>
+      <userName>vSignal Turnout 10 Throat Continue</userName>
+    </signalhead>
+    <signalhead class="jmri.implementation.configurexml.VirtualSignalHeadXml">
+      <systemName>IH36</systemName>
+      <userName>vSignal Turnout 10 Throat Diverge</userName>
+    </signalhead>
+  </signalheads>
   <blocks class="jmri.configurexml.BlockManagerXml">
     <defaultspeed>Normal</defaultspeed>
     <block systemName="IB:AUTO:0001">
@@ -805,7 +951,7 @@
   <signalmastlogics class="jmri.managers.configurexml.DefaultSignalMastLogicManagerXml">
     <logicDelay>500</logicDelay>
   </signalmastlogics>
-  <LayoutEditor class="jmri.jmrit.display.layoutEditor.configurexml.LayoutEditorXml" name="Signals SSL" x="70" y="27" windowheight="1053" windowwidth="1850" panelheight="600" panelwidth="1260" sliders="no" scrollable="none" editable="yes" positionable="yes" controlling="yes" animating="yes" showhelpbar="no" drawgrid="yes" snaponadd="yes" snaponmove="yes" antialiasing="no" turnoutcircles="no" tooltipsnotedit="no" tooltipsinedit="yes" mainlinetrackwidth="4" xscale="1.0" yscale="1.0" sidetrackwidth="2" defaulttrackcolor="darkGray" defaultoccupiedtrackcolor="red" defaultalternativetrackcolor="white" defaulttextcolor="black" turnoutcirclecolor="black" turnoutcirclesize="4" turnoutdrawunselectedleg="yes" turnoutbx="20.0" turnoutcx="20.0" turnoutwid="10.0" xoverlong="30.0" xoverhwid="10.0" xovershort="10.0" autoblkgenerate="no" redBackground="192" greenBackground="192" blueBackground="192" gridSize="10" gridSize2nd="10" openDispatcher="no" useDirectTurnoutControl="no">
+  <LayoutEditor class="jmri.jmrit.display.layoutEditor.configurexml.LayoutEditorXml" name="Signals SSL" x="70" y="27" windowheight="1053" windowwidth="1850" panelheight="607" panelwidth="1260" sliders="no" scrollable="none" editable="yes" positionable="yes" controlling="yes" animating="yes" showhelpbar="no" drawgrid="yes" snaponadd="yes" snaponmove="yes" antialiasing="no" turnoutcircles="no" tooltipsnotedit="no" tooltipsinedit="yes" mainlinetrackwidth="4" xscale="1.0" yscale="1.0" sidetrackwidth="2" defaulttrackcolor="darkGray" defaultoccupiedtrackcolor="red" defaultalternativetrackcolor="white" defaulttextcolor="black" turnoutcirclecolor="black" turnoutcirclesize="4" turnoutdrawunselectedleg="yes" turnoutbx="20.0" turnoutcx="20.0" turnoutwid="10.0" xoverlong="30.0" xoverhwid="10.0" xovershort="10.0" autoblkgenerate="no" redBackground="192" greenBackground="192" blueBackground="192" gridSize="10" gridSize2nd="10" openDispatcher="no" useDirectTurnoutControl="no">
     <layoutTrackDrawingOptions name="Signals SSL" class="jmri.jmrit.display.layoutEditor.configurexml.LayoutTrackDrawingOptionsXml">
       <mainBallastColor>#000000</mainBallastColor>
       <mainBallastWidth>0</mainBallastWidth>
@@ -1027,14 +1173,1058 @@
       </inconsistent>
       <iconmaps />
     </sensoricon>
-    <layoutturnout ident="TO1" type="1" hidden="no" disabled="no" disableWhenOccupied="no" continuing="2" xcen="298.0" ycen="40.0" xa="278.0" ya="40.0" xb="318.0" yb="40.0" xc="320.0" yc="60.0" xd="278.0" yd="40.0" ver="1" class="jmri.jmrit.display.layoutEditor.configurexml.LayoutTurnoutXml" turnoutname="Turnout 01" blockname="Turnout Block 01" connectaname="T3" connectbname="T1" connectcname="T2" />
-    <layoutturnout ident="TO2" type="2" hidden="no" disabled="no" disableWhenOccupied="no" continuing="2" xcen="998.0" ycen="80.0" xa="1028.0" ya="80.0" xb="968.0" yb="80.0" xc="968.0" yc="100.0" xd="1028.0" yd="80.0" ver="1" class="jmri.jmrit.display.layoutEditor.configurexml.LayoutTurnoutXml" turnoutname="Turnout 06" blockname="Turnout Block 06" connectaname="T6" connectbname="T4" connectcname="T8" />
-    <layoutturnout ident="TO3" type="1" hidden="no" disabled="no" disableWhenOccupied="no" continuing="2" xcen="938.0" ycen="120.0" xa="968.0" ya="100.0" xb="908.0" yb="140.0" xc="898.0" yc="120.0" xd="968.0" yd="100.0" ver="1" class="jmri.jmrit.display.layoutEditor.configurexml.LayoutTurnoutXml" turnoutname="Turnout 07" blockname="Turnout Block 07" connectaname="T8" connectbname="T9" connectcname="T11" />
-    <layoutturnout ident="TO4" type="2" hidden="no" disabled="no" disableWhenOccupied="no" continuing="2" xcen="878.0" ycen="120.0" xa="898.0" ya="120.0" xb="858.0" yb="120.0" xc="858.0" yc="130.0" xd="898.0" yd="120.0" ver="1" class="jmri.jmrit.display.layoutEditor.configurexml.LayoutTurnoutXml" turnoutname="Turnout 08" blockname="Turnout Block 08" connectaname="T11" connectbname="T15" connectcname="T13" />
-    <layoutturnout ident="TO5" type="2" hidden="no" disabled="no" disableWhenOccupied="no" continuing="2" xcen="898.0" ycen="230.0" xa="918.0" ya="230.0" xb="878.0" yb="230.0" xc="878.0" yc="240.0" xd="918.0" yd="230.0" ver="1" class="jmri.jmrit.display.layoutEditor.configurexml.LayoutTurnoutXml" turnoutname="Turnout 09" blockname="Turnout Block 09" connectaname="T19" connectbname="T16" connectcname="T17" />
-    <layoutturnout ident="TO10" type="5" hidden="no" disabled="no" disableWhenOccupied="no" continuing="2" xcen="930.0" ycen="530.0" xa="900.0" ya="520.0" xb="939.99999" yb="520.0" xc="960.0" yc="540.0" xd="920.00001" yd="540.0" ver="1" class="jmri.jmrit.display.layoutEditor.configurexml.LayoutTurnoutXml" turnoutname="Turnout 04" secondturnoutname="Turnout 05" blockname="Turnout Block 04" connectaname="T35" connectbname="T12" connectcname="T38" connectdname="T36" />
-    <layoutturnout ident="TO11" type="6" hidden="no" disabled="no" disableWhenOccupied="no" continuing="2" xcen="430.0" ycen="530.0" xa="420.0" ya="520.0" xb="460.0" yb="520.0" xc="440.0" yc="540.0" xd="400.0" yd="540.0" ver="1" class="jmri.jmrit.display.layoutEditor.configurexml.LayoutTurnoutXml" turnoutname="Turnout 02" secondturnoutname="Turnout 03" blockname="Turnout Block 02" connectaname="T33" connectbname="T35" connectcname="T36" connectdname="T30" />
-    <layoutturnout ident="TO12" type="1" hidden="no" disabled="no" disableWhenOccupied="no" continuing="2" xcen="1120.0" ycen="470.0" xa="1140.0" ya="450.0" xb="1100.0" yb="490.0" xc="1100.0" yc="470.0" xd="1140.0" yd="450.0" ver="1" class="jmri.jmrit.display.layoutEditor.configurexml.LayoutTurnoutXml" turnoutname="Turnout 10" blockname="Block 11" connectaname="T26" connectbname="T39" connectcname="T42" />
+    <signalheadicon signalhead="vSignal Turnout 01 Throat Continue" x="280" y="44" level="9" forcecontroloff="false" hidden="no" positionable="true" showtooltip="true" editable="true" degrees="180" clickmode="3" litmode="false" class="jmri.jmrit.display.configurexml.SignalHeadIconXml">
+      <icons>
+        <held url="program:resources/icons/smallschematics/searchlights/left-held-short.gif" degrees="180" scale="1.0">
+          <rotation>0</rotation>
+        </held>
+        <dark url="program:resources/icons/smallschematics/searchlights/left-dark-short.gif" degrees="180" scale="1.0">
+          <rotation>0</rotation>
+        </dark>
+        <red url="program:resources/icons/smallschematics/searchlights/left-red-short.gif" degrees="180" scale="1.0">
+          <rotation>0</rotation>
+        </red>
+        <yellow url="program:resources/icons/smallschematics/searchlights/left-yellow-short.gif" degrees="180" scale="1.0">
+          <rotation>0</rotation>
+        </yellow>
+        <green url="program:resources/icons/smallschematics/searchlights/left-green-short.gif" degrees="180" scale="1.0">
+          <rotation>0</rotation>
+        </green>
+        <flashred url="program:resources/icons/smallschematics/searchlights/left-flashred-short.gif" degrees="180" scale="1.0">
+          <rotation>0</rotation>
+        </flashred>
+        <flashyellow url="program:resources/icons/smallschematics/searchlights/left-flashyellow-short.gif" degrees="180" scale="1.0">
+          <rotation>0</rotation>
+        </flashyellow>
+        <flashgreen url="program:resources/icons/smallschematics/searchlights/left-flashgreen-short.gif" degrees="180" scale="1.0">
+          <rotation>0</rotation>
+        </flashgreen>
+      </icons>
+      <iconmaps />
+    </signalheadicon>
+    <signalheadicon signalhead="vSignal Turnout 01 Throat Diverge" x="260" y="44" level="9" forcecontroloff="false" hidden="no" positionable="true" showtooltip="true" editable="true" degrees="180" clickmode="3" litmode="false" class="jmri.jmrit.display.configurexml.SignalHeadIconXml">
+      <icons>
+        <held url="program:resources/icons/smallschematics/searchlights/left-held-short.gif" degrees="180" scale="1.0">
+          <rotation>0</rotation>
+        </held>
+        <dark url="program:resources/icons/smallschematics/searchlights/left-dark-short.gif" degrees="180" scale="1.0">
+          <rotation>0</rotation>
+        </dark>
+        <red url="program:resources/icons/smallschematics/searchlights/left-red-short.gif" degrees="180" scale="1.0">
+          <rotation>0</rotation>
+        </red>
+        <yellow url="program:resources/icons/smallschematics/searchlights/left-yellow-short.gif" degrees="180" scale="1.0">
+          <rotation>0</rotation>
+        </yellow>
+        <green url="program:resources/icons/smallschematics/searchlights/left-green-short.gif" degrees="180" scale="1.0">
+          <rotation>0</rotation>
+        </green>
+        <flashred url="program:resources/icons/smallschematics/searchlights/left-flashred-short.gif" degrees="180" scale="1.0">
+          <rotation>0</rotation>
+        </flashred>
+        <flashyellow url="program:resources/icons/smallschematics/searchlights/left-flashyellow-short.gif" degrees="180" scale="1.0">
+          <rotation>0</rotation>
+        </flashyellow>
+        <flashgreen url="program:resources/icons/smallschematics/searchlights/left-flashgreen-short.gif" degrees="180" scale="1.0">
+          <rotation>0</rotation>
+        </flashgreen>
+      </icons>
+      <iconmaps />
+    </signalheadicon>
+    <signalheadicon signalhead="vSignal Turnout 01 Continue" x="312" y="22" level="9" forcecontroloff="false" hidden="no" positionable="true" showtooltip="true" editable="true" degrees="90" clickmode="3" litmode="false" class="jmri.jmrit.display.configurexml.SignalHeadIconXml">
+      <icons>
+        <held url="program:resources/icons/smallschematics/searchlights/left-held-short.gif" degrees="90" scale="1.0">
+          <rotation>0</rotation>
+        </held>
+        <dark url="program:resources/icons/smallschematics/searchlights/left-dark-short.gif" degrees="90" scale="1.0">
+          <rotation>0</rotation>
+        </dark>
+        <red url="program:resources/icons/smallschematics/searchlights/left-red-short.gif" degrees="90" scale="1.0">
+          <rotation>0</rotation>
+        </red>
+        <yellow url="program:resources/icons/smallschematics/searchlights/left-yellow-short.gif" degrees="90" scale="1.0">
+          <rotation>0</rotation>
+        </yellow>
+        <green url="program:resources/icons/smallschematics/searchlights/left-green-short.gif" degrees="90" scale="1.0">
+          <rotation>0</rotation>
+        </green>
+        <flashred url="program:resources/icons/smallschematics/searchlights/left-flashred-short.gif" degrees="90" scale="1.0">
+          <rotation>0</rotation>
+        </flashred>
+        <flashyellow url="program:resources/icons/smallschematics/searchlights/left-flashyellow-short.gif" degrees="90" scale="1.0">
+          <rotation>0</rotation>
+        </flashyellow>
+        <flashgreen url="program:resources/icons/smallschematics/searchlights/left-flashgreen-short.gif" degrees="90" scale="1.0">
+          <rotation>0</rotation>
+        </flashgreen>
+      </icons>
+      <iconmaps />
+    </signalheadicon>
+    <signalheadicon signalhead="vSignal Turnout 01 Diverge" x="322" y="47" level="9" forcecontroloff="false" hidden="no" positionable="true" showtooltip="true" editable="true" degrees="42" clickmode="3" litmode="false" class="jmri.jmrit.display.configurexml.SignalHeadIconXml">
+      <icons>
+        <held url="program:resources/icons/smallschematics/searchlights/left-held-short.gif" degrees="42" scale="1.0">
+          <rotation>0</rotation>
+        </held>
+        <dark url="program:resources/icons/smallschematics/searchlights/left-dark-short.gif" degrees="42" scale="1.0">
+          <rotation>0</rotation>
+        </dark>
+        <red url="program:resources/icons/smallschematics/searchlights/left-red-short.gif" degrees="42" scale="1.0">
+          <rotation>0</rotation>
+        </red>
+        <yellow url="program:resources/icons/smallschematics/searchlights/left-yellow-short.gif" degrees="42" scale="1.0">
+          <rotation>0</rotation>
+        </yellow>
+        <green url="program:resources/icons/smallschematics/searchlights/left-green-short.gif" degrees="42" scale="1.0">
+          <rotation>0</rotation>
+        </green>
+        <flashred url="program:resources/icons/smallschematics/searchlights/left-flashred-short.gif" degrees="42" scale="1.0">
+          <rotation>0</rotation>
+        </flashred>
+        <flashyellow url="program:resources/icons/smallschematics/searchlights/left-flashyellow-short.gif" degrees="42" scale="1.0">
+          <rotation>0</rotation>
+        </flashyellow>
+        <flashgreen url="program:resources/icons/smallschematics/searchlights/left-flashgreen-short.gif" degrees="42" scale="1.0">
+          <rotation>0</rotation>
+        </flashgreen>
+      </icons>
+      <iconmaps />
+    </signalheadicon>
+    <signalheadicon signalhead="vSignal Turnout 02 A Continue" x="400" y="520" level="9" forcecontroloff="false" hidden="no" positionable="true" showtooltip="true" editable="true" degrees="180" clickmode="3" litmode="false" class="jmri.jmrit.display.configurexml.SignalHeadIconXml">
+      <icons>
+        <held url="program:resources/icons/smallschematics/searchlights/left-held-short.gif" degrees="180" scale="1.0">
+          <rotation>0</rotation>
+        </held>
+        <dark url="program:resources/icons/smallschematics/searchlights/left-dark-short.gif" degrees="180" scale="1.0">
+          <rotation>0</rotation>
+        </dark>
+        <red url="program:resources/icons/smallschematics/searchlights/left-red-short.gif" degrees="180" scale="1.0">
+          <rotation>0</rotation>
+        </red>
+        <yellow url="program:resources/icons/smallschematics/searchlights/left-yellow-short.gif" degrees="180" scale="1.0">
+          <rotation>0</rotation>
+        </yellow>
+        <green url="program:resources/icons/smallschematics/searchlights/left-green-short.gif" degrees="180" scale="1.0">
+          <rotation>0</rotation>
+        </green>
+        <flashred url="program:resources/icons/smallschematics/searchlights/left-flashred-short.gif" degrees="180" scale="1.0">
+          <rotation>0</rotation>
+        </flashred>
+        <flashyellow url="program:resources/icons/smallschematics/searchlights/left-flashyellow-short.gif" degrees="180" scale="1.0">
+          <rotation>0</rotation>
+        </flashyellow>
+        <flashgreen url="program:resources/icons/smallschematics/searchlights/left-flashgreen-short.gif" degrees="180" scale="1.0">
+          <rotation>0</rotation>
+        </flashgreen>
+      </icons>
+      <iconmaps />
+    </signalheadicon>
+    <signalheadicon signalhead="vSignal Turnout 02 B Continue" x="444" y="502" level="9" forcecontroloff="false" hidden="no" positionable="true" showtooltip="true" editable="true" degrees="90" clickmode="3" litmode="false" class="jmri.jmrit.display.configurexml.SignalHeadIconXml">
+      <icons>
+        <held url="program:resources/icons/smallschematics/searchlights/left-held-short.gif" degrees="90" scale="1.0">
+          <rotation>0</rotation>
+        </held>
+        <dark url="program:resources/icons/smallschematics/searchlights/left-dark-short.gif" degrees="90" scale="1.0">
+          <rotation>0</rotation>
+        </dark>
+        <red url="program:resources/icons/smallschematics/searchlights/left-red-short.gif" degrees="90" scale="1.0">
+          <rotation>0</rotation>
+        </red>
+        <yellow url="program:resources/icons/smallschematics/searchlights/left-yellow-short.gif" degrees="90" scale="1.0">
+          <rotation>0</rotation>
+        </yellow>
+        <green url="program:resources/icons/smallschematics/searchlights/left-green-short.gif" degrees="90" scale="1.0">
+          <rotation>0</rotation>
+        </green>
+        <flashred url="program:resources/icons/smallschematics/searchlights/left-flashred-short.gif" degrees="90" scale="1.0">
+          <rotation>0</rotation>
+        </flashred>
+        <flashyellow url="program:resources/icons/smallschematics/searchlights/left-flashyellow-short.gif" degrees="90" scale="1.0">
+          <rotation>0</rotation>
+        </flashyellow>
+        <flashgreen url="program:resources/icons/smallschematics/searchlights/left-flashgreen-short.gif" degrees="90" scale="1.0">
+          <rotation>0</rotation>
+        </flashgreen>
+      </icons>
+      <iconmaps />
+    </signalheadicon>
+    <signalheadicon signalhead="vSignal Turnout 02 B Diverge" x="464" y="502" level="9" forcecontroloff="false" hidden="no" positionable="true" showtooltip="true" editable="true" degrees="90" clickmode="3" litmode="false" class="jmri.jmrit.display.configurexml.SignalHeadIconXml">
+      <icons>
+        <held url="program:resources/icons/smallschematics/searchlights/left-held-short.gif" degrees="90" scale="1.0">
+          <rotation>0</rotation>
+        </held>
+        <dark url="program:resources/icons/smallschematics/searchlights/left-dark-short.gif" degrees="90" scale="1.0">
+          <rotation>0</rotation>
+        </dark>
+        <red url="program:resources/icons/smallschematics/searchlights/left-red-short.gif" degrees="90" scale="1.0">
+          <rotation>0</rotation>
+        </red>
+        <yellow url="program:resources/icons/smallschematics/searchlights/left-yellow-short.gif" degrees="90" scale="1.0">
+          <rotation>0</rotation>
+        </yellow>
+        <green url="program:resources/icons/smallschematics/searchlights/left-green-short.gif" degrees="90" scale="1.0">
+          <rotation>0</rotation>
+        </green>
+        <flashred url="program:resources/icons/smallschematics/searchlights/left-flashred-short.gif" degrees="90" scale="1.0">
+          <rotation>0</rotation>
+        </flashred>
+        <flashyellow url="program:resources/icons/smallschematics/searchlights/left-flashyellow-short.gif" degrees="90" scale="1.0">
+          <rotation>0</rotation>
+        </flashyellow>
+        <flashgreen url="program:resources/icons/smallschematics/searchlights/left-flashgreen-short.gif" degrees="90" scale="1.0">
+          <rotation>0</rotation>
+        </flashgreen>
+      </icons>
+      <iconmaps />
+    </signalheadicon>
+    <signalheadicon signalhead="vSignal Turnout 02 C Continue" x="450" y="530" level="9" forcecontroloff="false" hidden="no" positionable="true" showtooltip="true" editable="true" clickmode="3" litmode="false" class="jmri.jmrit.display.configurexml.SignalHeadIconXml">
+      <icons>
+        <held url="program:resources/icons/smallschematics/searchlights/left-held-short.gif" degrees="0" scale="1.0">
+          <rotation>0</rotation>
+        </held>
+        <dark url="program:resources/icons/smallschematics/searchlights/left-dark-short.gif" degrees="0" scale="1.0">
+          <rotation>0</rotation>
+        </dark>
+        <red url="program:resources/icons/smallschematics/searchlights/left-red-short.gif" degrees="0" scale="1.0">
+          <rotation>0</rotation>
+        </red>
+        <yellow url="program:resources/icons/smallschematics/searchlights/left-yellow-short.gif" degrees="0" scale="1.0">
+          <rotation>0</rotation>
+        </yellow>
+        <green url="program:resources/icons/smallschematics/searchlights/left-green-short.gif" degrees="0" scale="1.0">
+          <rotation>0</rotation>
+        </green>
+        <flashred url="program:resources/icons/smallschematics/searchlights/left-flashred-short.gif" degrees="0" scale="1.0">
+          <rotation>0</rotation>
+        </flashred>
+        <flashyellow url="program:resources/icons/smallschematics/searchlights/left-flashyellow-short.gif" degrees="0" scale="1.0">
+          <rotation>0</rotation>
+        </flashyellow>
+        <flashgreen url="program:resources/icons/smallschematics/searchlights/left-flashgreen-short.gif" degrees="0" scale="1.0">
+          <rotation>0</rotation>
+        </flashgreen>
+      </icons>
+      <iconmaps />
+    </signalheadicon>
+    <signalheadicon signalhead="vSignal Turnout 02 D Continue" x="402" y="544" level="9" forcecontroloff="false" hidden="no" positionable="true" showtooltip="true" editable="true" degrees="180" clickmode="3" litmode="false" class="jmri.jmrit.display.configurexml.SignalHeadIconXml">
+      <icons>
+        <held url="program:resources/icons/smallschematics/searchlights/left-held-short.gif" degrees="180" scale="1.0">
+          <rotation>0</rotation>
+        </held>
+        <dark url="program:resources/icons/smallschematics/searchlights/left-dark-short.gif" degrees="180" scale="1.0">
+          <rotation>0</rotation>
+        </dark>
+        <red url="program:resources/icons/smallschematics/searchlights/left-red-short.gif" degrees="180" scale="1.0">
+          <rotation>0</rotation>
+        </red>
+        <yellow url="program:resources/icons/smallschematics/searchlights/left-yellow-short.gif" degrees="180" scale="1.0">
+          <rotation>0</rotation>
+        </yellow>
+        <green url="program:resources/icons/smallschematics/searchlights/left-green-short.gif" degrees="180" scale="1.0">
+          <rotation>0</rotation>
+        </green>
+        <flashred url="program:resources/icons/smallschematics/searchlights/left-flashred-short.gif" degrees="180" scale="1.0">
+          <rotation>0</rotation>
+        </flashred>
+        <flashyellow url="program:resources/icons/smallschematics/searchlights/left-flashyellow-short.gif" degrees="180" scale="1.0">
+          <rotation>0</rotation>
+        </flashyellow>
+        <flashgreen url="program:resources/icons/smallschematics/searchlights/left-flashgreen-short.gif" degrees="180" scale="1.0">
+          <rotation>0</rotation>
+        </flashgreen>
+      </icons>
+      <iconmaps />
+    </signalheadicon>
+    <signalheadicon signalhead="vSignal Turnout 02 D Diverge" x="382" y="544" level="9" forcecontroloff="false" hidden="no" positionable="true" showtooltip="true" editable="true" degrees="180" clickmode="3" litmode="false" class="jmri.jmrit.display.configurexml.SignalHeadIconXml">
+      <icons>
+        <held url="program:resources/icons/smallschematics/searchlights/left-held-short.gif" degrees="180" scale="1.0">
+          <rotation>0</rotation>
+        </held>
+        <dark url="program:resources/icons/smallschematics/searchlights/left-dark-short.gif" degrees="180" scale="1.0">
+          <rotation>0</rotation>
+        </dark>
+        <red url="program:resources/icons/smallschematics/searchlights/left-red-short.gif" degrees="180" scale="1.0">
+          <rotation>0</rotation>
+        </red>
+        <yellow url="program:resources/icons/smallschematics/searchlights/left-yellow-short.gif" degrees="180" scale="1.0">
+          <rotation>0</rotation>
+        </yellow>
+        <green url="program:resources/icons/smallschematics/searchlights/left-green-short.gif" degrees="180" scale="1.0">
+          <rotation>0</rotation>
+        </green>
+        <flashred url="program:resources/icons/smallschematics/searchlights/left-flashred-short.gif" degrees="180" scale="1.0">
+          <rotation>0</rotation>
+        </flashred>
+        <flashyellow url="program:resources/icons/smallschematics/searchlights/left-flashyellow-short.gif" degrees="180" scale="1.0">
+          <rotation>0</rotation>
+        </flashyellow>
+        <flashgreen url="program:resources/icons/smallschematics/searchlights/left-flashgreen-short.gif" degrees="180" scale="1.0">
+          <rotation>0</rotation>
+        </flashgreen>
+      </icons>
+      <iconmaps />
+    </signalheadicon>
+    <signalheadicon signalhead="vSignal Turnout 04 A Continue" x="892" y="524" level="9" forcecontroloff="false" hidden="no" positionable="true" showtooltip="true" editable="true" degrees="180" clickmode="3" litmode="false" class="jmri.jmrit.display.configurexml.SignalHeadIconXml">
+      <icons>
+        <held url="program:resources/icons/smallschematics/searchlights/left-held-short.gif" degrees="180" scale="1.0">
+          <rotation>0</rotation>
+        </held>
+        <dark url="program:resources/icons/smallschematics/searchlights/left-dark-short.gif" degrees="180" scale="1.0">
+          <rotation>0</rotation>
+        </dark>
+        <red url="program:resources/icons/smallschematics/searchlights/left-red-short.gif" degrees="180" scale="1.0">
+          <rotation>0</rotation>
+        </red>
+        <yellow url="program:resources/icons/smallschematics/searchlights/left-yellow-short.gif" degrees="180" scale="1.0">
+          <rotation>0</rotation>
+        </yellow>
+        <green url="program:resources/icons/smallschematics/searchlights/left-green-short.gif" degrees="180" scale="1.0">
+          <rotation>0</rotation>
+        </green>
+        <flashred url="program:resources/icons/smallschematics/searchlights/left-flashred-short.gif" degrees="180" scale="1.0">
+          <rotation>0</rotation>
+        </flashred>
+        <flashyellow url="program:resources/icons/smallschematics/searchlights/left-flashyellow-short.gif" degrees="180" scale="1.0">
+          <rotation>0</rotation>
+        </flashyellow>
+        <flashgreen url="program:resources/icons/smallschematics/searchlights/left-flashgreen-short.gif" degrees="180" scale="1.0">
+          <rotation>0</rotation>
+        </flashgreen>
+      </icons>
+      <iconmaps />
+    </signalheadicon>
+    <signalheadicon signalhead="vSignal Turnout 04 A Diverge" x="872" y="524" level="9" forcecontroloff="false" hidden="no" positionable="true" showtooltip="true" editable="true" degrees="180" clickmode="3" litmode="false" class="jmri.jmrit.display.configurexml.SignalHeadIconXml">
+      <icons>
+        <held url="program:resources/icons/smallschematics/searchlights/left-held-short.gif" degrees="180" scale="1.0">
+          <rotation>0</rotation>
+        </held>
+        <dark url="program:resources/icons/smallschematics/searchlights/left-dark-short.gif" degrees="180" scale="1.0">
+          <rotation>0</rotation>
+        </dark>
+        <red url="program:resources/icons/smallschematics/searchlights/left-red-short.gif" degrees="180" scale="1.0">
+          <rotation>0</rotation>
+        </red>
+        <yellow url="program:resources/icons/smallschematics/searchlights/left-yellow-short.gif" degrees="180" scale="1.0">
+          <rotation>0</rotation>
+        </yellow>
+        <green url="program:resources/icons/smallschematics/searchlights/left-green-short.gif" degrees="180" scale="1.0">
+          <rotation>0</rotation>
+        </green>
+        <flashred url="program:resources/icons/smallschematics/searchlights/left-flashred-short.gif" degrees="180" scale="1.0">
+          <rotation>0</rotation>
+        </flashred>
+        <flashyellow url="program:resources/icons/smallschematics/searchlights/left-flashyellow-short.gif" degrees="180" scale="1.0">
+          <rotation>0</rotation>
+        </flashyellow>
+        <flashgreen url="program:resources/icons/smallschematics/searchlights/left-flashgreen-short.gif" degrees="180" scale="1.0">
+          <rotation>0</rotation>
+        </flashgreen>
+      </icons>
+      <iconmaps />
+    </signalheadicon>
+    <signalheadicon signalhead="vSignal Turnout 04 B Continue" x="923" y="502" level="9" forcecontroloff="false" hidden="no" positionable="true" showtooltip="true" editable="true" clickmode="3" litmode="false" class="jmri.jmrit.display.configurexml.SignalHeadIconXml">
+      <icons>
+        <held url="program:resources/icons/smallschematics/searchlights/left-held-short.gif" degrees="0" scale="1.0">
+          <rotation>0</rotation>
+        </held>
+        <dark url="program:resources/icons/smallschematics/searchlights/left-dark-short.gif" degrees="0" scale="1.0">
+          <rotation>0</rotation>
+        </dark>
+        <red url="program:resources/icons/smallschematics/searchlights/left-red-short.gif" degrees="0" scale="1.0">
+          <rotation>0</rotation>
+        </red>
+        <yellow url="program:resources/icons/smallschematics/searchlights/left-yellow-short.gif" degrees="0" scale="1.0">
+          <rotation>0</rotation>
+        </yellow>
+        <green url="program:resources/icons/smallschematics/searchlights/left-green-short.gif" degrees="0" scale="1.0">
+          <rotation>0</rotation>
+        </green>
+        <flashred url="program:resources/icons/smallschematics/searchlights/left-flashred-short.gif" degrees="0" scale="1.0">
+          <rotation>0</rotation>
+        </flashred>
+        <flashyellow url="program:resources/icons/smallschematics/searchlights/left-flashyellow-short.gif" degrees="0" scale="1.0">
+          <rotation>0</rotation>
+        </flashyellow>
+        <flashgreen url="program:resources/icons/smallschematics/searchlights/left-flashgreen-short.gif" degrees="0" scale="1.0">
+          <rotation>0</rotation>
+        </flashgreen>
+      </icons>
+      <iconmaps />
+    </signalheadicon>
+    <signalheadicon signalhead="vSignal Turnout 04 C Continue" x="954" y="522" level="9" forcecontroloff="false" hidden="no" positionable="true" showtooltip="true" editable="true" clickmode="3" litmode="false" class="jmri.jmrit.display.configurexml.SignalHeadIconXml">
+      <icons>
+        <held url="program:resources/icons/smallschematics/searchlights/left-held-short.gif" degrees="0" scale="1.0">
+          <rotation>0</rotation>
+        </held>
+        <dark url="program:resources/icons/smallschematics/searchlights/left-dark-short.gif" degrees="0" scale="1.0">
+          <rotation>0</rotation>
+        </dark>
+        <red url="program:resources/icons/smallschematics/searchlights/left-red-short.gif" degrees="0" scale="1.0">
+          <rotation>0</rotation>
+        </red>
+        <yellow url="program:resources/icons/smallschematics/searchlights/left-yellow-short.gif" degrees="0" scale="1.0">
+          <rotation>0</rotation>
+        </yellow>
+        <green url="program:resources/icons/smallschematics/searchlights/left-green-short.gif" degrees="0" scale="1.0">
+          <rotation>0</rotation>
+        </green>
+        <flashred url="program:resources/icons/smallschematics/searchlights/left-flashred-short.gif" degrees="0" scale="1.0">
+          <rotation>0</rotation>
+        </flashred>
+        <flashyellow url="program:resources/icons/smallschematics/searchlights/left-flashyellow-short.gif" degrees="0" scale="1.0">
+          <rotation>0</rotation>
+        </flashyellow>
+        <flashgreen url="program:resources/icons/smallschematics/searchlights/left-flashgreen-short.gif" degrees="0" scale="1.0">
+          <rotation>0</rotation>
+        </flashgreen>
+      </icons>
+      <iconmaps />
+    </signalheadicon>
+    <signalheadicon signalhead="vSignal Turnout 04 C Diverge" x="974" y="522" level="9" forcecontroloff="false" hidden="no" positionable="true" showtooltip="true" editable="true" clickmode="3" litmode="false" class="jmri.jmrit.display.configurexml.SignalHeadIconXml">
+      <icons>
+        <held url="program:resources/icons/smallschematics/searchlights/left-held-short.gif" degrees="0" scale="1.0">
+          <rotation>0</rotation>
+        </held>
+        <dark url="program:resources/icons/smallschematics/searchlights/left-dark-short.gif" degrees="0" scale="1.0">
+          <rotation>0</rotation>
+        </dark>
+        <red url="program:resources/icons/smallschematics/searchlights/left-red-short.gif" degrees="0" scale="1.0">
+          <rotation>0</rotation>
+        </red>
+        <yellow url="program:resources/icons/smallschematics/searchlights/left-yellow-short.gif" degrees="0" scale="1.0">
+          <rotation>0</rotation>
+        </yellow>
+        <green url="program:resources/icons/smallschematics/searchlights/left-green-short.gif" degrees="0" scale="1.0">
+          <rotation>0</rotation>
+        </green>
+        <flashred url="program:resources/icons/smallschematics/searchlights/left-flashred-short.gif" degrees="0" scale="1.0">
+          <rotation>0</rotation>
+        </flashred>
+        <flashyellow url="program:resources/icons/smallschematics/searchlights/left-flashyellow-short.gif" degrees="0" scale="1.0">
+          <rotation>0</rotation>
+        </flashyellow>
+        <flashgreen url="program:resources/icons/smallschematics/searchlights/left-flashgreen-short.gif" degrees="0" scale="1.0">
+          <rotation>0</rotation>
+        </flashgreen>
+      </icons>
+      <iconmaps />
+    </signalheadicon>
+    <signalheadicon signalhead="vSignal Turnout 04 D Continue" x="922" y="544" level="9" forcecontroloff="false" hidden="no" positionable="true" showtooltip="true" editable="true" degrees="180" clickmode="3" litmode="false" class="jmri.jmrit.display.configurexml.SignalHeadIconXml">
+      <icons>
+        <held url="program:resources/icons/smallschematics/searchlights/left-held-short.gif" degrees="180" scale="1.0">
+          <rotation>0</rotation>
+        </held>
+        <dark url="program:resources/icons/smallschematics/searchlights/left-dark-short.gif" degrees="180" scale="1.0">
+          <rotation>0</rotation>
+        </dark>
+        <red url="program:resources/icons/smallschematics/searchlights/left-red-short.gif" degrees="180" scale="1.0">
+          <rotation>0</rotation>
+        </red>
+        <yellow url="program:resources/icons/smallschematics/searchlights/left-yellow-short.gif" degrees="180" scale="1.0">
+          <rotation>0</rotation>
+        </yellow>
+        <green url="program:resources/icons/smallschematics/searchlights/left-green-short.gif" degrees="180" scale="1.0">
+          <rotation>0</rotation>
+        </green>
+        <flashred url="program:resources/icons/smallschematics/searchlights/left-flashred-short.gif" degrees="180" scale="1.0">
+          <rotation>0</rotation>
+        </flashred>
+        <flashyellow url="program:resources/icons/smallschematics/searchlights/left-flashyellow-short.gif" degrees="180" scale="1.0">
+          <rotation>0</rotation>
+        </flashyellow>
+        <flashgreen url="program:resources/icons/smallschematics/searchlights/left-flashgreen-short.gif" degrees="180" scale="1.0">
+          <rotation>0</rotation>
+        </flashgreen>
+      </icons>
+      <iconmaps />
+    </signalheadicon>
+    <signalheadicon signalhead="vSignal Turnout 06 Throat Continue" x="1010" y="64" level="9" forcecontroloff="false" hidden="no" positionable="true" showtooltip="true" editable="true" clickmode="3" litmode="false" class="jmri.jmrit.display.configurexml.SignalHeadIconXml">
+      <icons>
+        <held url="program:resources/icons/smallschematics/searchlights/left-held-short.gif" degrees="0" scale="1.0">
+          <rotation>0</rotation>
+        </held>
+        <dark url="program:resources/icons/smallschematics/searchlights/left-dark-short.gif" degrees="0" scale="1.0">
+          <rotation>0</rotation>
+        </dark>
+        <red url="program:resources/icons/smallschematics/searchlights/left-red-short.gif" degrees="0" scale="1.0">
+          <rotation>0</rotation>
+        </red>
+        <yellow url="program:resources/icons/smallschematics/searchlights/left-yellow-short.gif" degrees="0" scale="1.0">
+          <rotation>0</rotation>
+        </yellow>
+        <green url="program:resources/icons/smallschematics/searchlights/left-green-short.gif" degrees="0" scale="1.0">
+          <rotation>0</rotation>
+        </green>
+        <flashred url="program:resources/icons/smallschematics/searchlights/left-flashred-short.gif" degrees="0" scale="1.0">
+          <rotation>0</rotation>
+        </flashred>
+        <flashyellow url="program:resources/icons/smallschematics/searchlights/left-flashyellow-short.gif" degrees="0" scale="1.0">
+          <rotation>0</rotation>
+        </flashyellow>
+        <flashgreen url="program:resources/icons/smallschematics/searchlights/left-flashgreen-short.gif" degrees="0" scale="1.0">
+          <rotation>0</rotation>
+        </flashgreen>
+      </icons>
+      <iconmaps />
+    </signalheadicon>
+    <signalheadicon signalhead="vSignal Turnout 06 Throat Diverge" x="1030" y="64" level="9" forcecontroloff="false" hidden="no" positionable="true" showtooltip="true" editable="true" clickmode="3" litmode="false" class="jmri.jmrit.display.configurexml.SignalHeadIconXml">
+      <icons>
+        <held url="program:resources/icons/smallschematics/searchlights/left-held-short.gif" degrees="0" scale="1.0">
+          <rotation>0</rotation>
+        </held>
+        <dark url="program:resources/icons/smallschematics/searchlights/left-dark-short.gif" degrees="0" scale="1.0">
+          <rotation>0</rotation>
+        </dark>
+        <red url="program:resources/icons/smallschematics/searchlights/left-red-short.gif" degrees="0" scale="1.0">
+          <rotation>0</rotation>
+        </red>
+        <yellow url="program:resources/icons/smallschematics/searchlights/left-yellow-short.gif" degrees="0" scale="1.0">
+          <rotation>0</rotation>
+        </yellow>
+        <green url="program:resources/icons/smallschematics/searchlights/left-green-short.gif" degrees="0" scale="1.0">
+          <rotation>0</rotation>
+        </green>
+        <flashred url="program:resources/icons/smallschematics/searchlights/left-flashred-short.gif" degrees="0" scale="1.0">
+          <rotation>0</rotation>
+        </flashred>
+        <flashyellow url="program:resources/icons/smallschematics/searchlights/left-flashyellow-short.gif" degrees="0" scale="1.0">
+          <rotation>0</rotation>
+        </flashyellow>
+        <flashgreen url="program:resources/icons/smallschematics/searchlights/left-flashgreen-short.gif" degrees="0" scale="1.0">
+          <rotation>0</rotation>
+        </flashgreen>
+      </icons>
+      <iconmaps />
+    </signalheadicon>
+    <signalheadicon signalhead="vSignal Turnout 06 Continue" x="951" y="84" level="9" forcecontroloff="false" hidden="no" positionable="true" showtooltip="true" editable="true" degrees="180" clickmode="3" litmode="false" class="jmri.jmrit.display.configurexml.SignalHeadIconXml">
+      <icons>
+        <held url="program:resources/icons/smallschematics/searchlights/left-held-short.gif" degrees="180" scale="1.0">
+          <rotation>0</rotation>
+        </held>
+        <dark url="program:resources/icons/smallschematics/searchlights/left-dark-short.gif" degrees="180" scale="1.0">
+          <rotation>0</rotation>
+        </dark>
+        <red url="program:resources/icons/smallschematics/searchlights/left-red-short.gif" degrees="180" scale="1.0">
+          <rotation>0</rotation>
+        </red>
+        <yellow url="program:resources/icons/smallschematics/searchlights/left-yellow-short.gif" degrees="180" scale="1.0">
+          <rotation>0</rotation>
+        </yellow>
+        <green url="program:resources/icons/smallschematics/searchlights/left-green-short.gif" degrees="180" scale="1.0">
+          <rotation>0</rotation>
+        </green>
+        <flashred url="program:resources/icons/smallschematics/searchlights/left-flashred-short.gif" degrees="180" scale="1.0">
+          <rotation>0</rotation>
+        </flashred>
+        <flashyellow url="program:resources/icons/smallschematics/searchlights/left-flashyellow-short.gif" degrees="180" scale="1.0">
+          <rotation>0</rotation>
+        </flashyellow>
+        <flashgreen url="program:resources/icons/smallschematics/searchlights/left-flashgreen-short.gif" degrees="180" scale="1.0">
+          <rotation>0</rotation>
+        </flashgreen>
+      </icons>
+      <iconmaps />
+    </signalheadicon>
+    <signalheadicon signalhead="vSignal Turnout 06 Diverge" x="963" y="99" level="9" forcecontroloff="false" hidden="no" positionable="true" showtooltip="true" editable="true" degrees="146" clickmode="3" litmode="false" class="jmri.jmrit.display.configurexml.SignalHeadIconXml">
+      <icons>
+        <held url="program:resources/icons/smallschematics/searchlights/left-held-short.gif" degrees="146" scale="1.0">
+          <rotation>0</rotation>
+        </held>
+        <dark url="program:resources/icons/smallschematics/searchlights/left-dark-short.gif" degrees="146" scale="1.0">
+          <rotation>0</rotation>
+        </dark>
+        <red url="program:resources/icons/smallschematics/searchlights/left-red-short.gif" degrees="146" scale="1.0">
+          <rotation>0</rotation>
+        </red>
+        <yellow url="program:resources/icons/smallschematics/searchlights/left-yellow-short.gif" degrees="146" scale="1.0">
+          <rotation>0</rotation>
+        </yellow>
+        <green url="program:resources/icons/smallschematics/searchlights/left-green-short.gif" degrees="146" scale="1.0">
+          <rotation>0</rotation>
+        </green>
+        <flashred url="program:resources/icons/smallschematics/searchlights/left-flashred-short.gif" degrees="146" scale="1.0">
+          <rotation>0</rotation>
+        </flashred>
+        <flashyellow url="program:resources/icons/smallschematics/searchlights/left-flashyellow-short.gif" degrees="146" scale="1.0">
+          <rotation>0</rotation>
+        </flashyellow>
+        <flashgreen url="program:resources/icons/smallschematics/searchlights/left-flashgreen-short.gif" degrees="146" scale="1.0">
+          <rotation>0</rotation>
+        </flashgreen>
+      </icons>
+      <iconmaps />
+    </signalheadicon>
+    <signalheadicon signalhead="vSignal Turnout 07 Throat Continue" x="944" y="88" level="9" forcecontroloff="false" hidden="no" positionable="true" showtooltip="true" editable="true" degrees="326" clickmode="3" litmode="false" class="jmri.jmrit.display.configurexml.SignalHeadIconXml">
+      <icons>
+        <held url="program:resources/icons/smallschematics/searchlights/left-held-short.gif" degrees="326" scale="1.0">
+          <rotation>0</rotation>
+        </held>
+        <dark url="program:resources/icons/smallschematics/searchlights/left-dark-short.gif" degrees="326" scale="1.0">
+          <rotation>0</rotation>
+        </dark>
+        <red url="program:resources/icons/smallschematics/searchlights/left-red-short.gif" degrees="326" scale="1.0">
+          <rotation>0</rotation>
+        </red>
+        <yellow url="program:resources/icons/smallschematics/searchlights/left-yellow-short.gif" degrees="326" scale="1.0">
+          <rotation>0</rotation>
+        </yellow>
+        <green url="program:resources/icons/smallschematics/searchlights/left-green-short.gif" degrees="326" scale="1.0">
+          <rotation>0</rotation>
+        </green>
+        <flashred url="program:resources/icons/smallschematics/searchlights/left-flashred-short.gif" degrees="326" scale="1.0">
+          <rotation>0</rotation>
+        </flashred>
+        <flashyellow url="program:resources/icons/smallschematics/searchlights/left-flashyellow-short.gif" degrees="326" scale="1.0">
+          <rotation>0</rotation>
+        </flashyellow>
+        <flashgreen url="program:resources/icons/smallschematics/searchlights/left-flashgreen-short.gif" degrees="326" scale="1.0">
+          <rotation>0</rotation>
+        </flashgreen>
+      </icons>
+      <iconmaps />
+    </signalheadicon>
+    <signalheadicon signalhead="vSignal Turnout 07 Throat Diverge" x="960" y="77" level="9" forcecontroloff="false" hidden="no" positionable="true" showtooltip="true" editable="true" degrees="326" clickmode="3" litmode="false" class="jmri.jmrit.display.configurexml.SignalHeadIconXml">
+      <icons>
+        <held url="program:resources/icons/smallschematics/searchlights/left-held-short.gif" degrees="326" scale="1.0">
+          <rotation>0</rotation>
+        </held>
+        <dark url="program:resources/icons/smallschematics/searchlights/left-dark-short.gif" degrees="326" scale="1.0">
+          <rotation>0</rotation>
+        </dark>
+        <red url="program:resources/icons/smallschematics/searchlights/left-red-short.gif" degrees="326" scale="1.0">
+          <rotation>0</rotation>
+        </red>
+        <yellow url="program:resources/icons/smallschematics/searchlights/left-yellow-short.gif" degrees="326" scale="1.0">
+          <rotation>0</rotation>
+        </yellow>
+        <green url="program:resources/icons/smallschematics/searchlights/left-green-short.gif" degrees="326" scale="1.0">
+          <rotation>0</rotation>
+        </green>
+        <flashred url="program:resources/icons/smallschematics/searchlights/left-flashred-short.gif" degrees="326" scale="1.0">
+          <rotation>0</rotation>
+        </flashred>
+        <flashyellow url="program:resources/icons/smallschematics/searchlights/left-flashyellow-short.gif" degrees="326" scale="1.0">
+          <rotation>0</rotation>
+        </flashyellow>
+        <flashgreen url="program:resources/icons/smallschematics/searchlights/left-flashgreen-short.gif" degrees="326" scale="1.0">
+          <rotation>0</rotation>
+        </flashgreen>
+      </icons>
+      <iconmaps />
+    </signalheadicon>
+    <signalheadicon signalhead="vSignal Turnout 07 Continue" x="903" y="139" level="9" forcecontroloff="false" hidden="no" positionable="true" showtooltip="true" editable="true" degrees="146" clickmode="3" litmode="false" class="jmri.jmrit.display.configurexml.SignalHeadIconXml">
+      <icons>
+        <held url="program:resources/icons/smallschematics/searchlights/left-held-short.gif" degrees="146" scale="1.0">
+          <rotation>0</rotation>
+        </held>
+        <dark url="program:resources/icons/smallschematics/searchlights/left-dark-short.gif" degrees="146" scale="1.0">
+          <rotation>0</rotation>
+        </dark>
+        <red url="program:resources/icons/smallschematics/searchlights/left-red-short.gif" degrees="146" scale="1.0">
+          <rotation>0</rotation>
+        </red>
+        <yellow url="program:resources/icons/smallschematics/searchlights/left-yellow-short.gif" degrees="146" scale="1.0">
+          <rotation>0</rotation>
+        </yellow>
+        <green url="program:resources/icons/smallschematics/searchlights/left-green-short.gif" degrees="146" scale="1.0">
+          <rotation>0</rotation>
+        </green>
+        <flashred url="program:resources/icons/smallschematics/searchlights/left-flashred-short.gif" degrees="146" scale="1.0">
+          <rotation>0</rotation>
+        </flashred>
+        <flashyellow url="program:resources/icons/smallschematics/searchlights/left-flashyellow-short.gif" degrees="146" scale="1.0">
+          <rotation>0</rotation>
+        </flashyellow>
+        <flashgreen url="program:resources/icons/smallschematics/searchlights/left-flashgreen-short.gif" degrees="146" scale="1.0">
+          <rotation>0</rotation>
+        </flashgreen>
+      </icons>
+      <iconmaps />
+    </signalheadicon>
+    <signalheadicon signalhead="vSignal Turnout 07 Diverge" x="881" y="124" level="9" forcecontroloff="false" hidden="no" positionable="true" showtooltip="true" editable="true" degrees="180" clickmode="3" litmode="false" class="jmri.jmrit.display.configurexml.SignalHeadIconXml">
+      <icons>
+        <held url="program:resources/icons/smallschematics/searchlights/left-held-short.gif" degrees="180" scale="1.0">
+          <rotation>0</rotation>
+        </held>
+        <dark url="program:resources/icons/smallschematics/searchlights/left-dark-short.gif" degrees="180" scale="1.0">
+          <rotation>0</rotation>
+        </dark>
+        <red url="program:resources/icons/smallschematics/searchlights/left-red-short.gif" degrees="180" scale="1.0">
+          <rotation>0</rotation>
+        </red>
+        <yellow url="program:resources/icons/smallschematics/searchlights/left-yellow-short.gif" degrees="180" scale="1.0">
+          <rotation>0</rotation>
+        </yellow>
+        <green url="program:resources/icons/smallschematics/searchlights/left-green-short.gif" degrees="180" scale="1.0">
+          <rotation>0</rotation>
+        </green>
+        <flashred url="program:resources/icons/smallschematics/searchlights/left-flashred-short.gif" degrees="180" scale="1.0">
+          <rotation>0</rotation>
+        </flashred>
+        <flashyellow url="program:resources/icons/smallschematics/searchlights/left-flashyellow-short.gif" degrees="180" scale="1.0">
+          <rotation>0</rotation>
+        </flashyellow>
+        <flashgreen url="program:resources/icons/smallschematics/searchlights/left-flashgreen-short.gif" degrees="180" scale="1.0">
+          <rotation>0</rotation>
+        </flashgreen>
+      </icons>
+      <iconmaps />
+    </signalheadicon>
+    <signalheadicon signalhead="vSignal Turnout 08 Throat Continue" x="880" y="104" level="9" forcecontroloff="false" hidden="no" positionable="true" showtooltip="true" editable="true" clickmode="3" litmode="false" class="jmri.jmrit.display.configurexml.SignalHeadIconXml">
+      <icons>
+        <held url="program:resources/icons/smallschematics/searchlights/left-held-short.gif" degrees="0" scale="1.0">
+          <rotation>0</rotation>
+        </held>
+        <dark url="program:resources/icons/smallschematics/searchlights/left-dark-short.gif" degrees="0" scale="1.0">
+          <rotation>0</rotation>
+        </dark>
+        <red url="program:resources/icons/smallschematics/searchlights/left-red-short.gif" degrees="0" scale="1.0">
+          <rotation>0</rotation>
+        </red>
+        <yellow url="program:resources/icons/smallschematics/searchlights/left-yellow-short.gif" degrees="0" scale="1.0">
+          <rotation>0</rotation>
+        </yellow>
+        <green url="program:resources/icons/smallschematics/searchlights/left-green-short.gif" degrees="0" scale="1.0">
+          <rotation>0</rotation>
+        </green>
+        <flashred url="program:resources/icons/smallschematics/searchlights/left-flashred-short.gif" degrees="0" scale="1.0">
+          <rotation>0</rotation>
+        </flashred>
+        <flashyellow url="program:resources/icons/smallschematics/searchlights/left-flashyellow-short.gif" degrees="0" scale="1.0">
+          <rotation>0</rotation>
+        </flashyellow>
+        <flashgreen url="program:resources/icons/smallschematics/searchlights/left-flashgreen-short.gif" degrees="0" scale="1.0">
+          <rotation>0</rotation>
+        </flashgreen>
+      </icons>
+      <iconmaps />
+    </signalheadicon>
+    <signalheadicon signalhead="vSignal Turnout 08 Throat Diverge" x="900" y="104" level="9" forcecontroloff="false" hidden="no" positionable="true" showtooltip="true" editable="true" clickmode="3" litmode="false" class="jmri.jmrit.display.configurexml.SignalHeadIconXml">
+      <icons>
+        <held url="program:resources/icons/smallschematics/searchlights/left-held-short.gif" degrees="0" scale="1.0">
+          <rotation>0</rotation>
+        </held>
+        <dark url="program:resources/icons/smallschematics/searchlights/left-dark-short.gif" degrees="0" scale="1.0">
+          <rotation>0</rotation>
+        </dark>
+        <red url="program:resources/icons/smallschematics/searchlights/left-red-short.gif" degrees="0" scale="1.0">
+          <rotation>0</rotation>
+        </red>
+        <yellow url="program:resources/icons/smallschematics/searchlights/left-yellow-short.gif" degrees="0" scale="1.0">
+          <rotation>0</rotation>
+        </yellow>
+        <green url="program:resources/icons/smallschematics/searchlights/left-green-short.gif" degrees="0" scale="1.0">
+          <rotation>0</rotation>
+        </green>
+        <flashred url="program:resources/icons/smallschematics/searchlights/left-flashred-short.gif" degrees="0" scale="1.0">
+          <rotation>0</rotation>
+        </flashred>
+        <flashyellow url="program:resources/icons/smallschematics/searchlights/left-flashyellow-short.gif" degrees="0" scale="1.0">
+          <rotation>0</rotation>
+        </flashyellow>
+        <flashgreen url="program:resources/icons/smallschematics/searchlights/left-flashgreen-short.gif" degrees="0" scale="1.0">
+          <rotation>0</rotation>
+        </flashgreen>
+      </icons>
+      <iconmaps />
+    </signalheadicon>
+    <signalheadicon signalhead="vSignal Turnout 08 Continue" x="841" y="124" level="9" forcecontroloff="false" hidden="no" positionable="true" showtooltip="true" editable="true" degrees="180" clickmode="3" litmode="false" class="jmri.jmrit.display.configurexml.SignalHeadIconXml">
+      <icons>
+        <held url="program:resources/icons/smallschematics/searchlights/left-held-short.gif" degrees="180" scale="1.0">
+          <rotation>0</rotation>
+        </held>
+        <dark url="program:resources/icons/smallschematics/searchlights/left-dark-short.gif" degrees="180" scale="1.0">
+          <rotation>0</rotation>
+        </dark>
+        <red url="program:resources/icons/smallschematics/searchlights/left-red-short.gif" degrees="180" scale="1.0">
+          <rotation>0</rotation>
+        </red>
+        <yellow url="program:resources/icons/smallschematics/searchlights/left-yellow-short.gif" degrees="180" scale="1.0">
+          <rotation>0</rotation>
+        </yellow>
+        <green url="program:resources/icons/smallschematics/searchlights/left-green-short.gif" degrees="180" scale="1.0">
+          <rotation>0</rotation>
+        </green>
+        <flashred url="program:resources/icons/smallschematics/searchlights/left-flashred-short.gif" degrees="180" scale="1.0">
+          <rotation>0</rotation>
+        </flashred>
+        <flashyellow url="program:resources/icons/smallschematics/searchlights/left-flashyellow-short.gif" degrees="180" scale="1.0">
+          <rotation>0</rotation>
+        </flashyellow>
+        <flashgreen url="program:resources/icons/smallschematics/searchlights/left-flashgreen-short.gif" degrees="180" scale="1.0">
+          <rotation>0</rotation>
+        </flashgreen>
+      </icons>
+      <iconmaps />
+    </signalheadicon>
+    <signalheadicon signalhead="vSignal Turnout 08 Diverge" x="852" y="129" level="9" forcecontroloff="false" hidden="no" positionable="true" showtooltip="true" editable="true" degrees="153" clickmode="3" litmode="false" class="jmri.jmrit.display.configurexml.SignalHeadIconXml">
+      <icons>
+        <held url="program:resources/icons/smallschematics/searchlights/left-held-short.gif" degrees="153" scale="1.0">
+          <rotation>0</rotation>
+        </held>
+        <dark url="program:resources/icons/smallschematics/searchlights/left-dark-short.gif" degrees="153" scale="1.0">
+          <rotation>0</rotation>
+        </dark>
+        <red url="program:resources/icons/smallschematics/searchlights/left-red-short.gif" degrees="153" scale="1.0">
+          <rotation>0</rotation>
+        </red>
+        <yellow url="program:resources/icons/smallschematics/searchlights/left-yellow-short.gif" degrees="153" scale="1.0">
+          <rotation>0</rotation>
+        </yellow>
+        <green url="program:resources/icons/smallschematics/searchlights/left-green-short.gif" degrees="153" scale="1.0">
+          <rotation>0</rotation>
+        </green>
+        <flashred url="program:resources/icons/smallschematics/searchlights/left-flashred-short.gif" degrees="153" scale="1.0">
+          <rotation>0</rotation>
+        </flashred>
+        <flashyellow url="program:resources/icons/smallschematics/searchlights/left-flashyellow-short.gif" degrees="153" scale="1.0">
+          <rotation>0</rotation>
+        </flashyellow>
+        <flashgreen url="program:resources/icons/smallschematics/searchlights/left-flashgreen-short.gif" degrees="153" scale="1.0">
+          <rotation>0</rotation>
+        </flashgreen>
+      </icons>
+      <iconmaps />
+    </signalheadicon>
+    <signalheadicon signalhead="vSignal Turnout 09 Throat Continue" x="900" y="214" level="9" forcecontroloff="false" hidden="no" positionable="true" showtooltip="true" editable="true" clickmode="3" litmode="false" class="jmri.jmrit.display.configurexml.SignalHeadIconXml">
+      <icons>
+        <held url="program:resources/icons/smallschematics/searchlights/left-held-short.gif" degrees="0" scale="1.0">
+          <rotation>0</rotation>
+        </held>
+        <dark url="program:resources/icons/smallschematics/searchlights/left-dark-short.gif" degrees="0" scale="1.0">
+          <rotation>0</rotation>
+        </dark>
+        <red url="program:resources/icons/smallschematics/searchlights/left-red-short.gif" degrees="0" scale="1.0">
+          <rotation>0</rotation>
+        </red>
+        <yellow url="program:resources/icons/smallschematics/searchlights/left-yellow-short.gif" degrees="0" scale="1.0">
+          <rotation>0</rotation>
+        </yellow>
+        <green url="program:resources/icons/smallschematics/searchlights/left-green-short.gif" degrees="0" scale="1.0">
+          <rotation>0</rotation>
+        </green>
+        <flashred url="program:resources/icons/smallschematics/searchlights/left-flashred-short.gif" degrees="0" scale="1.0">
+          <rotation>0</rotation>
+        </flashred>
+        <flashyellow url="program:resources/icons/smallschematics/searchlights/left-flashyellow-short.gif" degrees="0" scale="1.0">
+          <rotation>0</rotation>
+        </flashyellow>
+        <flashgreen url="program:resources/icons/smallschematics/searchlights/left-flashgreen-short.gif" degrees="0" scale="1.0">
+          <rotation>0</rotation>
+        </flashgreen>
+      </icons>
+      <iconmaps />
+    </signalheadicon>
+    <signalheadicon signalhead="vSignal Turnout 09 Throat Diverge" x="920" y="214" level="9" forcecontroloff="false" hidden="no" positionable="true" showtooltip="true" editable="true" clickmode="3" litmode="false" class="jmri.jmrit.display.configurexml.SignalHeadIconXml">
+      <icons>
+        <held url="program:resources/icons/smallschematics/searchlights/left-held-short.gif" degrees="0" scale="1.0">
+          <rotation>0</rotation>
+        </held>
+        <dark url="program:resources/icons/smallschematics/searchlights/left-dark-short.gif" degrees="0" scale="1.0">
+          <rotation>0</rotation>
+        </dark>
+        <red url="program:resources/icons/smallschematics/searchlights/left-red-short.gif" degrees="0" scale="1.0">
+          <rotation>0</rotation>
+        </red>
+        <yellow url="program:resources/icons/smallschematics/searchlights/left-yellow-short.gif" degrees="0" scale="1.0">
+          <rotation>0</rotation>
+        </yellow>
+        <green url="program:resources/icons/smallschematics/searchlights/left-green-short.gif" degrees="0" scale="1.0">
+          <rotation>0</rotation>
+        </green>
+        <flashred url="program:resources/icons/smallschematics/searchlights/left-flashred-short.gif" degrees="0" scale="1.0">
+          <rotation>0</rotation>
+        </flashred>
+        <flashyellow url="program:resources/icons/smallschematics/searchlights/left-flashyellow-short.gif" degrees="0" scale="1.0">
+          <rotation>0</rotation>
+        </flashyellow>
+        <flashgreen url="program:resources/icons/smallschematics/searchlights/left-flashgreen-short.gif" degrees="0" scale="1.0">
+          <rotation>0</rotation>
+        </flashgreen>
+      </icons>
+      <iconmaps />
+    </signalheadicon>
+    <signalheadicon signalhead="vSignal Turnout 09 Continue" x="861" y="234" level="9" forcecontroloff="false" hidden="no" positionable="true" showtooltip="true" editable="true" degrees="180" clickmode="3" litmode="false" class="jmri.jmrit.display.configurexml.SignalHeadIconXml">
+      <icons>
+        <held url="program:resources/icons/smallschematics/searchlights/left-held-short.gif" degrees="180" scale="1.0">
+          <rotation>0</rotation>
+        </held>
+        <dark url="program:resources/icons/smallschematics/searchlights/left-dark-short.gif" degrees="180" scale="1.0">
+          <rotation>0</rotation>
+        </dark>
+        <red url="program:resources/icons/smallschematics/searchlights/left-red-short.gif" degrees="180" scale="1.0">
+          <rotation>0</rotation>
+        </red>
+        <yellow url="program:resources/icons/smallschematics/searchlights/left-yellow-short.gif" degrees="180" scale="1.0">
+          <rotation>0</rotation>
+        </yellow>
+        <green url="program:resources/icons/smallschematics/searchlights/left-green-short.gif" degrees="180" scale="1.0">
+          <rotation>0</rotation>
+        </green>
+        <flashred url="program:resources/icons/smallschematics/searchlights/left-flashred-short.gif" degrees="180" scale="1.0">
+          <rotation>0</rotation>
+        </flashred>
+        <flashyellow url="program:resources/icons/smallschematics/searchlights/left-flashyellow-short.gif" degrees="180" scale="1.0">
+          <rotation>0</rotation>
+        </flashyellow>
+        <flashgreen url="program:resources/icons/smallschematics/searchlights/left-flashgreen-short.gif" degrees="180" scale="1.0">
+          <rotation>0</rotation>
+        </flashgreen>
+      </icons>
+      <iconmaps />
+    </signalheadicon>
+    <signalheadicon signalhead="vSignal Turnout 09 Diverge" x="872" y="239" level="9" forcecontroloff="false" hidden="no" positionable="true" showtooltip="true" editable="true" degrees="153" clickmode="3" litmode="false" class="jmri.jmrit.display.configurexml.SignalHeadIconXml">
+      <icons>
+        <held url="program:resources/icons/smallschematics/searchlights/left-held-short.gif" degrees="153" scale="1.0">
+          <rotation>0</rotation>
+        </held>
+        <dark url="program:resources/icons/smallschematics/searchlights/left-dark-short.gif" degrees="153" scale="1.0">
+          <rotation>0</rotation>
+        </dark>
+        <red url="program:resources/icons/smallschematics/searchlights/left-red-short.gif" degrees="153" scale="1.0">
+          <rotation>0</rotation>
+        </red>
+        <yellow url="program:resources/icons/smallschematics/searchlights/left-yellow-short.gif" degrees="153" scale="1.0">
+          <rotation>0</rotation>
+        </yellow>
+        <green url="program:resources/icons/smallschematics/searchlights/left-green-short.gif" degrees="153" scale="1.0">
+          <rotation>0</rotation>
+        </green>
+        <flashred url="program:resources/icons/smallschematics/searchlights/left-flashred-short.gif" degrees="153" scale="1.0">
+          <rotation>0</rotation>
+        </flashred>
+        <flashyellow url="program:resources/icons/smallschematics/searchlights/left-flashyellow-short.gif" degrees="153" scale="1.0">
+          <rotation>0</rotation>
+        </flashyellow>
+        <flashgreen url="program:resources/icons/smallschematics/searchlights/left-flashgreen-short.gif" degrees="153" scale="1.0">
+          <rotation>0</rotation>
+        </flashgreen>
+      </icons>
+      <iconmaps />
+    </signalheadicon>
+    <signalheadicon signalhead="vSignal Turnout 10 Throat Continue" x="1115" y="440" level="9" forcecontroloff="false" hidden="no" positionable="true" showtooltip="true" editable="true" degrees="315" clickmode="3" litmode="false" class="jmri.jmrit.display.configurexml.SignalHeadIconXml">
+      <icons>
+        <held url="program:resources/icons/smallschematics/searchlights/left-held-short.gif" degrees="315" scale="1.0">
+          <rotation>0</rotation>
+        </held>
+        <dark url="program:resources/icons/smallschematics/searchlights/left-dark-short.gif" degrees="315" scale="1.0">
+          <rotation>0</rotation>
+        </dark>
+        <red url="program:resources/icons/smallschematics/searchlights/left-red-short.gif" degrees="315" scale="1.0">
+          <rotation>0</rotation>
+        </red>
+        <yellow url="program:resources/icons/smallschematics/searchlights/left-yellow-short.gif" degrees="315" scale="1.0">
+          <rotation>0</rotation>
+        </yellow>
+        <green url="program:resources/icons/smallschematics/searchlights/left-green-short.gif" degrees="315" scale="1.0">
+          <rotation>0</rotation>
+        </green>
+        <flashred url="program:resources/icons/smallschematics/searchlights/left-flashred-short.gif" degrees="315" scale="1.0">
+          <rotation>0</rotation>
+        </flashred>
+        <flashyellow url="program:resources/icons/smallschematics/searchlights/left-flashyellow-short.gif" degrees="315" scale="1.0">
+          <rotation>0</rotation>
+        </flashyellow>
+        <flashgreen url="program:resources/icons/smallschematics/searchlights/left-flashgreen-short.gif" degrees="315" scale="1.0">
+          <rotation>0</rotation>
+        </flashgreen>
+      </icons>
+      <iconmaps />
+    </signalheadicon>
+    <signalheadicon signalhead="vSignal Turnout 10 Throat Diverge" x="1130" y="425" level="9" forcecontroloff="false" hidden="no" positionable="true" showtooltip="true" editable="true" degrees="315" clickmode="3" litmode="false" class="jmri.jmrit.display.configurexml.SignalHeadIconXml">
+      <icons>
+        <held url="program:resources/icons/smallschematics/searchlights/left-held-short.gif" degrees="315" scale="1.0">
+          <rotation>0</rotation>
+        </held>
+        <dark url="program:resources/icons/smallschematics/searchlights/left-dark-short.gif" degrees="315" scale="1.0">
+          <rotation>0</rotation>
+        </dark>
+        <red url="program:resources/icons/smallschematics/searchlights/left-red-short.gif" degrees="315" scale="1.0">
+          <rotation>0</rotation>
+        </red>
+        <yellow url="program:resources/icons/smallschematics/searchlights/left-yellow-short.gif" degrees="315" scale="1.0">
+          <rotation>0</rotation>
+        </yellow>
+        <green url="program:resources/icons/smallschematics/searchlights/left-green-short.gif" degrees="315" scale="1.0">
+          <rotation>0</rotation>
+        </green>
+        <flashred url="program:resources/icons/smallschematics/searchlights/left-flashred-short.gif" degrees="315" scale="1.0">
+          <rotation>0</rotation>
+        </flashred>
+        <flashyellow url="program:resources/icons/smallschematics/searchlights/left-flashyellow-short.gif" degrees="315" scale="1.0">
+          <rotation>0</rotation>
+        </flashyellow>
+        <flashgreen url="program:resources/icons/smallschematics/searchlights/left-flashgreen-short.gif" degrees="315" scale="1.0">
+          <rotation>0</rotation>
+        </flashgreen>
+      </icons>
+      <iconmaps />
+    </signalheadicon>
+    <signalheadicon signalhead="vSignal Turnout 10 Continue" x="1097" y="487" level="9" forcecontroloff="false" hidden="no" positionable="true" showtooltip="true" editable="true" degrees="135" clickmode="3" litmode="false" class="jmri.jmrit.display.configurexml.SignalHeadIconXml">
+      <icons>
+        <held url="program:resources/icons/smallschematics/searchlights/left-held-short.gif" degrees="135" scale="1.0">
+          <rotation>0</rotation>
+        </held>
+        <dark url="program:resources/icons/smallschematics/searchlights/left-dark-short.gif" degrees="135" scale="1.0">
+          <rotation>0</rotation>
+        </dark>
+        <red url="program:resources/icons/smallschematics/searchlights/left-red-short.gif" degrees="135" scale="1.0">
+          <rotation>0</rotation>
+        </red>
+        <yellow url="program:resources/icons/smallschematics/searchlights/left-yellow-short.gif" degrees="135" scale="1.0">
+          <rotation>0</rotation>
+        </yellow>
+        <green url="program:resources/icons/smallschematics/searchlights/left-green-short.gif" degrees="135" scale="1.0">
+          <rotation>0</rotation>
+        </green>
+        <flashred url="program:resources/icons/smallschematics/searchlights/left-flashred-short.gif" degrees="135" scale="1.0">
+          <rotation>0</rotation>
+        </flashred>
+        <flashyellow url="program:resources/icons/smallschematics/searchlights/left-flashyellow-short.gif" degrees="135" scale="1.0">
+          <rotation>0</rotation>
+        </flashyellow>
+        <flashgreen url="program:resources/icons/smallschematics/searchlights/left-flashgreen-short.gif" degrees="135" scale="1.0">
+          <rotation>0</rotation>
+        </flashgreen>
+      </icons>
+      <iconmaps />
+    </signalheadicon>
+    <signalheadicon signalhead="vSignal Turnout 10 Diverge" x="1084" y="474" level="9" forcecontroloff="false" hidden="no" positionable="true" showtooltip="true" editable="true" degrees="180" clickmode="3" litmode="false" class="jmri.jmrit.display.configurexml.SignalHeadIconXml">
+      <icons>
+        <held url="program:resources/icons/smallschematics/searchlights/left-held-short.gif" degrees="180" scale="1.0">
+          <rotation>0</rotation>
+        </held>
+        <dark url="program:resources/icons/smallschematics/searchlights/left-dark-short.gif" degrees="180" scale="1.0">
+          <rotation>0</rotation>
+        </dark>
+        <red url="program:resources/icons/smallschematics/searchlights/left-red-short.gif" degrees="180" scale="1.0">
+          <rotation>0</rotation>
+        </red>
+        <yellow url="program:resources/icons/smallschematics/searchlights/left-yellow-short.gif" degrees="180" scale="1.0">
+          <rotation>0</rotation>
+        </yellow>
+        <green url="program:resources/icons/smallschematics/searchlights/left-green-short.gif" degrees="180" scale="1.0">
+          <rotation>0</rotation>
+        </green>
+        <flashred url="program:resources/icons/smallschematics/searchlights/left-flashred-short.gif" degrees="180" scale="1.0">
+          <rotation>0</rotation>
+        </flashred>
+        <flashyellow url="program:resources/icons/smallschematics/searchlights/left-flashyellow-short.gif" degrees="180" scale="1.0">
+          <rotation>0</rotation>
+        </flashyellow>
+        <flashgreen url="program:resources/icons/smallschematics/searchlights/left-flashgreen-short.gif" degrees="180" scale="1.0">
+          <rotation>0</rotation>
+        </flashgreen>
+      </icons>
+      <iconmaps />
+    </signalheadicon>
+    <layoutturnout ident="TO1" type="1" hidden="no" disabled="no" disableWhenOccupied="no" continuing="2" xcen="298.0" ycen="40.0" xa="278.0" ya="40.0" xb="318.0" yb="40.0" xc="320.0" yc="60.0" xd="278.0" yd="40.0" ver="1" class="jmri.jmrit.display.layoutEditor.configurexml.LayoutTurnoutXml" turnoutname="Turnout 01" blockname="Turnout Block 01" connectaname="T3" connectbname="T1" connectcname="T2" signala1name="vSignal Turnout 01 Throat Continue" signala2name="vSignal Turnout 01 Throat Diverge" signalb1name="vSignal Turnout 01 Continue" signalc1name="vSignal Turnout 01 Diverge" />
+    <layoutturnout ident="TO2" type="2" hidden="no" disabled="no" disableWhenOccupied="no" continuing="2" xcen="998.0" ycen="80.0" xa="1028.0" ya="80.0" xb="968.0" yb="80.0" xc="968.0" yc="100.0" xd="1028.0" yd="80.0" ver="1" class="jmri.jmrit.display.layoutEditor.configurexml.LayoutTurnoutXml" turnoutname="Turnout 06" blockname="Turnout Block 06" connectaname="T6" connectbname="T4" connectcname="T8" signala1name="vSignal Turnout 06 Throat Continue" signala2name="vSignal Turnout 06 Throat Diverge" signalb1name="vSignal Turnout 06 Continue" signalc1name="vSignal Turnout 06 Diverge" />
+    <layoutturnout ident="TO3" type="1" hidden="no" disabled="no" disableWhenOccupied="no" continuing="2" xcen="938.0" ycen="120.0" xa="968.0" ya="100.0" xb="908.0" yb="140.0" xc="898.0" yc="120.0" xd="968.0" yd="100.0" ver="1" class="jmri.jmrit.display.layoutEditor.configurexml.LayoutTurnoutXml" turnoutname="Turnout 07" blockname="Turnout Block 07" connectaname="T8" connectbname="T9" connectcname="T11" signala1name="vSignal Turnout 07 Throat Continue" signala2name="vSignal Turnout 07 Throat Diverge" signalb1name="vSignal Turnout 07 Continue" signalc1name="vSignal Turnout 07 Diverge" />
+    <layoutturnout ident="TO4" type="2" hidden="no" disabled="no" disableWhenOccupied="no" continuing="2" xcen="878.0" ycen="120.0" xa="898.0" ya="120.0" xb="858.0" yb="120.0" xc="858.0" yc="130.0" xd="898.0" yd="120.0" ver="1" class="jmri.jmrit.display.layoutEditor.configurexml.LayoutTurnoutXml" turnoutname="Turnout 08" blockname="Turnout Block 08" connectaname="T11" connectbname="T15" connectcname="T13" signala1name="vSignal Turnout 08 Throat Continue" signala2name="vSignal Turnout 08 Throat Diverge" signalb1name="vSignal Turnout 08 Continue" signalc1name="vSignal Turnout 08 Diverge" />
+    <layoutturnout ident="TO5" type="2" hidden="no" disabled="no" disableWhenOccupied="no" continuing="2" xcen="898.0" ycen="230.0" xa="918.0" ya="230.0" xb="878.0" yb="230.0" xc="878.0" yc="240.0" xd="918.0" yd="230.0" ver="1" class="jmri.jmrit.display.layoutEditor.configurexml.LayoutTurnoutXml" turnoutname="Turnout 09" blockname="Turnout Block 09" connectaname="T19" connectbname="T16" connectcname="T17" signala1name="vSignal Turnout 09 Throat Continue" signala2name="vSignal Turnout 09 Throat Diverge" signalb1name="vSignal Turnout 09 Continue" signalc1name="vSignal Turnout 09 Diverge" />
+    <layoutturnout ident="TO10" type="5" hidden="no" disabled="no" disableWhenOccupied="no" continuing="2" xcen="930.0" ycen="530.0" xa="900.0" ya="520.0" xb="939.99999" yb="520.0" xc="960.0" yc="540.0" xd="920.00001" yd="540.0" ver="1" class="jmri.jmrit.display.layoutEditor.configurexml.LayoutTurnoutXml" turnoutname="Turnout 04" secondturnoutname="Turnout 05" blockname="Turnout Block 04" connectaname="T35" connectbname="T12" connectcname="T38" connectdname="T36" signala1name="vSignal Turnout 04 A Continue" signala2name="vSignal Turnout 04 A Diverge" signalb1name="vSignal Turnout 04 B Continue" signalc1name="vSignal Turnout 04 C Continue" signalc2name="vSignal Turnout 04 C Diverge" signald1name="vSignal Turnout 04 D Continue" />
+    <layoutturnout ident="TO11" type="6" hidden="no" disabled="no" disableWhenOccupied="no" continuing="2" xcen="430.0" ycen="530.0" xa="420.0" ya="520.0" xb="460.0" yb="520.0" xc="440.0" yc="540.0" xd="400.0" yd="540.0" ver="1" class="jmri.jmrit.display.layoutEditor.configurexml.LayoutTurnoutXml" turnoutname="Turnout 02" secondturnoutname="Turnout 03" blockname="Turnout Block 02" connectaname="T33" connectbname="T35" connectcname="T36" connectdname="T30" signala1name="vSignal Turnout 02 A Continue" signalb1name="vSignal Turnout 02 B Continue" signalb2name="vSignal Turnout 02 B Diverge" signalc1name="vSignal Turnout 02 C Continue" signald1name="vSignal Turnout 02 D Continue" signald2name="vSignal Turnout 02 D Diverge" />
+    <layoutturnout ident="TO12" type="1" hidden="no" disabled="no" disableWhenOccupied="no" continuing="2" xcen="1120.0" ycen="470.0" xa="1140.0" ya="450.0" xb="1100.0" yb="490.0" xc="1100.0" yc="470.0" xd="1140.0" yd="450.0" ver="1" class="jmri.jmrit.display.layoutEditor.configurexml.LayoutTurnoutXml" turnoutname="Turnout 10" blockname="Block 11" connectaname="T26" connectbname="T39" connectcname="T42" signala1name="vSignal Turnout 10 Throat Continue" signala2name="vSignal Turnout 10 Throat Diverge" signalb1name="vSignal Turnout 10 Continue" signalc1name="vSignal Turnout 10 Diverge" />
     <tracksegment ident="T1" blockname="Block 01" connect1name="TO1" type1="3" connect2name="EB1" type2="1" dashed="no" mainline="no" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml" />
     <tracksegment ident="T2" blockname="Block 09" connect1name="TO1" type1="4" connect2name="A1" type2="1" dashed="no" mainline="no" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml" />
     <tracksegment ident="T3" blockname="Block 02" connect1name="TO1" type1="2" connect2name="A2" type2="1" dashed="no" mainline="no" hidden="no" class="jmri.jmrit.display.layoutEditor.configurexml.TrackSegmentXml" />
@@ -1082,7 +2272,7 @@
     <positionablepoint ident="A3" type="1" x="100.0" y="140.0" connect1name="T5" connect2name="T21" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml" />
     <positionablepoint ident="A4" type="1" x="1098.0" y="80.0" connect1name="T6" connect2name="T7" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml" />
     <positionablepoint ident="A5" type="1" x="1198.0" y="140.0" connect1name="T7" connect2name="T27" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml" />
-    <positionablepoint ident="A6" type="1" x="838.0" y="180.0" connect1name="T9" connect2name="T10" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml" />
+    <positionablepoint ident="A6" type="1" x="850.0" y="180.0" connect1name="T9" connect2name="T10" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml" />
     <positionablepoint ident="EB2" type="2" x="498.0" y="180.0" connect1name="T10" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml" />
     <positionablepoint ident="EB3" type="2" x="498.0" y="120.0" connect1name="T15" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml" />
     <positionablepoint ident="EB4" type="2" x="498.0" y="150.0" connect1name="T14" class="jmri.jmrit.display.layoutEditor.configurexml.PositionablePointXml" />
@@ -1205,9 +2395,9 @@
     </operation>
     <operation>
       <type>Store</type>
-      <date>Sat Mar 14 16:55:31 CET 2020</date>
+      <date>Sat Mar 14 17:35:46 CET 2020</date>
       <filename />
     </operation>
   </filehistory>
-  <!--Written by JMRI version 4.18+R37ad3d0 on Sat Mar 14 16:55:31 CET 2020-->
+  <!--Written by JMRI version 4.18+R37ad3d0 on Sat Mar 14 17:35:46 CET 2020-->
 </layout-config>
