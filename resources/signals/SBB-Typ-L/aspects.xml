@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="/xml/XSLT/aspecttable.xsl" type="text/xsl"?>
+
+<aspecttable
+    xmlns:xsi = "http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation = "http://jmri.org/xml/schema/aspecttable.xsd">
+  <name>SBB Typ L 1969</name>
+  <date>1969</date>
+  <reference>Swiss signals L System 1969</reference>
+
+  <copyright xmlns="http://docbook.org/ns/docbook">
+    <year>2017</year><year>2017</year><holder>O Schreibke</holder>
+  </copyright>
+
+  <authorgroup xmlns="http://docbook.org/ns/docbook">
+    <author>
+        <personname><firstname>Otto</firstname><surname>Schreibke</surname></personname>
+        <email>otto@solwiz.ch</email>
+    </author>
+  </authorgroup>
+
+  <revhistory xmlns="http://docbook.org/ns/docbook">
+    <revision>
+        <revnumber>0</revnumber>
+        <date>2017-04-28</date>
+        <authorinitials>OS</authorinitials>
+        <revremark>New</revremark>
+    </revision> 
+  </revhistory>
+
+  <aspects>
+    <aspect>
+      <name>Halt</name>
+      <indication>Stop</indication>
+          <description>One red light</description>
+          <!--description>Previously one red light had the meaning of "Stop for train movements" (shunting movements were allowed). To actually stop shunting two horizontal red lights were neccessary. Since 1959 one red light is enough to stop all movements.</description-->
+          <comment>Halt</comment>
+      <speed>Stop</speed>
+      <speed2>Stop</speed2>
+    </aspect>
+
+    <aspect>
+      <name>FB1</name>
+      <indication>Proceed, line clear (with timetable speed)</indication>
+          <description>One green light</description>
+          <comment>Fahrbegriff 1</comment>
+      <speed>Normal</speed>
+      <speed2>Normal</speed2>
+      <!--route>Normal</route-->
+    </aspect>
+
+    <aspect>
+      <name>FB2</name>
+      <indication>Max speed 40 km/h for the points in diverging position</indication>
+          <description>One green light over one orange light</description>
+          <comment>Fahrbegriff 2</comment>
+      <speed>40</speed>
+      <speed2>40</speed2>
+      <!--speed2>Limited</speed2-->
+      <!--route>Diverging</route-->
+    </aspect>
+
+    <aspect>
+      <name>FB3</name>
+      <indication>Max speed 60 km/h for the points in diverging position. Takes precedence over line limits.</indication>
+          <description>Two green lights, vertical</description>
+          <comment>Fahrbegriff 2</comment>
+      <speed>60</speed>
+      <speed2>60</speed2>
+      <!--route>Diverging</route-->
+    </aspect>
+
+    <aspect>
+      <name>FB5</name>
+      <indication>Max speed 90 km/h for the points in diverging position.</indication>
+          <description>Three green lights, vertical</description>
+          <comment>Fahrbegriff 5</comment>
+      <speed>90</speed>
+      <speed2>90</speed2>
+      <!--route>Diverging</route-->
+    </aspect>
+
+    <aspect>
+      <name>FB6</name>
+      <indication>Max speed 40 km/h, the next signal shows 'stop' and is at reduced distance.</indication>
+          <description>Two orange lights, vertical</description>
+          <comment>Fahrbegriff 6</comment>
+      <speed>40</speed>
+      <speed2>0</speed2>
+      <!--route>Diverging</route-->
+    </aspect>
+
+    <aspect>
+      <name>vHalt</name>
+      <indication>Advance signal: Next main signal shows Halt</indication>
+          <description>Two orange lights</description>
+          <!--description>Previously one red light had the meaning of "Stop for train movements" (shunting movements were allowed). To actually stop shunting two horizontal red lights were neccessary. Since 1959 one red light is enough to stop all movements.</description-->
+          <comment>Stop at next main signal</comment>
+      <speed>Limited</speed>
+      <speed2>0</speed2>
+    </aspect>
+
+    <aspect>
+      <name>vFB1</name>
+      <indication>Advance signal: Next main signal shows Fahrbegriff 1</indication>
+          <description>Two diagonal green lights</description>
+          <comment>Fahrbegriff 1</comment>
+      <speed>Normal</speed>
+      <speed2>Normal</speed2>
+      <!--route>Either</route-->
+    </aspect>
+
+    <aspect>
+      <name>vFB2</name>
+      <indication>Advance signal: Next main signal shows Fahrbegriff 2</indication>
+          <description>One orange light diagonally over one green light</description>
+          <comment>Fahrbegriff 2</comment>
+      <speed>Limited</speed>
+      <speed2>40</speed2>
+      <!--route>Diverging</route-->
+    </aspect>
+
+    <aspect>
+      <name>vFB3</name>
+      <indication>Advance signal: Next main signal shows Fahrbegriff 3</indication>
+          <description>One orange light over two diagonal green lights</description>
+          <comment>Fahrbegriff 3</comment>
+      <speed>Limited</speed>
+      <speed2>60</speed2>
+      <!--route>Diverging</route-->
+    </aspect>
+
+    <aspect>
+      <name>vFB5</name>
+      <indication>Advance signal: Next main signal shows Fahrbegriff 5</indication>
+          <description>Two diagonal green lights, one orange light</description>
+          <comment>Fahrbegriff 5</comment>
+      <speed>Limited</speed>
+      <speed2>90</speed2>
+      <!--route>Diverging</route-->
+    </aspect>
+
+    <aspect>
+      <name>vFB6</name>
+      <indication>Advance signal: Max speed 40 km/h, the next signal shows 'stop' and is at reduced distance.</indication>
+          <description>One orange light, Diagonally over one green light</description>
+          <comment>Fahrbegriff 6</comment>
+      <speed>Limited</speed>
+      <speed2>40</speed2>
+      <!--route>Diverging</route-->
+    </aspect>
+
+    <aspect>
+      <name>vDark</name>
+      <indication>Advance signal: This signal is on a mast together with a main signal showing Halt.</indication>
+          <description>All lamps dark</description>
+          <comment>Dark</comment>
+      <speed>0</speed>
+      <speed2>0</speed2>
+      <!--route>Diverging</route-->
+    </aspect>
+  </aspects>
+  
+  <imagetypes>
+    <!--imagetype type="large" /-->
+    <imagetype type="small" />
+  </imagetypes>
+  
+  <appearancefiles>
+    <appearancefile href="preference:resources/signals/SBB-Typ-L/appearance-2-h.xml"/>
+    <appearancefile href="preference:resources/signals/SBB-Typ-L/appearance-v.xml"/> 
+    <appearancefile href="preference:resources/signals/SBB-Typ-L/appearance-3a-h.xml"/>
+    <appearancefile href="preference:resources/signals/SBB-Typ-L/appearance-3b-h.xml"/>
+    <appearancefile href="preference:resources/signals/SBB-Typ-L/appearance-4-h.xml"/>
+    <appearancefile href="preference:resources/signals/SBB-Typ-L/appearance-5a-h.xml"/>
+    <appearancefile href="preference:resources/signals/SBB-Typ-L/appearance-5b-h.xml"/>
+  </appearancefiles>
+    
+</aspecttable>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profileConfig>
+  <profiles>
+    <profile id="My_JMRI_Railroad.3cba16e6" path="settings:My_JMRI_Railroad.jmri/" />
+    <profile id="Sandbox.3eba5452" path="settings:Sandbox.jmri/" />
+    <profile id="Sandbox2.3f0a80d5" path="settings:Sandbox2.jmri/" />
+    <profile id="Traunstein.3f716b0f" path="settings:Traunstein.jmri/" />
+    <profile id="Signals_1.3f77c56c" path="settings:Signals_SSL.jmri/" />
+    <profile id="Signals_2.3f5da885" path="settings:Signals_SML.jmri/" />
+    <profile id="Traunstein_2.3e9d3232" path="settings:Traunstein_2.jmri/" />
+  </profiles>
+  <searchPaths>
+    <path path="settings:" default="true" />
+  </searchPaths>
+</profileConfig>

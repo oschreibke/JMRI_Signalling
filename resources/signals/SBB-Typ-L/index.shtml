@@ -1,0 +1,55 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html lang="en">
+<head>
+<!-- Copyright Otto@solwiz.ch 2017 -->
+<title>JMRI: SBB Type L Signals</title>
+
+<!-- Style -->
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<LINK REL="stylesheet" TYPE="text/css" HREF="/css/default.css"
+        MEDIA="screen">
+<LINK REL="stylesheet" TYPE="text/css" HREF="/css/print.css"
+        MEDIA="print">
+<LINK REL="icon" HREF="/images/jmri.ico" TYPE="image/png">
+<LINK REL="home" TITLE="Home" HREF="/">
+<!-- /Style -->
+
+</head>
+<body>
+<!--#include virtual="/Header" -->
+  <div class="nomenu" id="mBody">
+    <div id="mainContent">
+
+<h1> 
+JMRI: SBB type L definition
+</h1>
+
+This directory contains signaling definitions for the SBB (Swiss Federal Railways) from (with minor variations) about 1946.
+The definitions apply (again with minor variations) to all rail companies in Switzerland as they were mandated by the 
+Federal Council (Bundesrat/Conseil Federal/Consiglio federale/Cussegl federal) and are part of Swiss law.
+
+References:
+<a href="https://en.wikipedia.org/wiki/Swiss_railway_signalling">Swiss railway signalling (English) </a>
+<a ref="http://www.lokifahrer.ch/Signale/CH/signale_typ_l.htm">Signale Typ L (German) </a> 
+
+<p>
+See the 
+<a href="aspects.xml">aspect page</a>.
+
+<p>
+Signal Mast definitions:
+<ul>
+<li><a href="halt.xml">Stop Aspect (Halt)</a>
+<li><a href="fahrbegriff1.xml">Aspect 1 (Fahrbegriff 1: freie Fahrt) Clear (maximum speed is defined in the route description)</a>
+<li><a href="fahrbegriff2.xml">Aspect 2 (Fahrbegriff 2) Maximum speed 40km/h</a>
+<li><a href="fahrbegriff3.xml">Aspect 3 (Fahrbegriff 3) Maximum speed 60km/h</a>
+<li><a href="fahrbegriff5.xml">Aspect 5 (Fahrbegriff 5) Maximum speed 90km/h</a>
+<li><a href="fahrbegriff6.xml">Aspect 6 (Fahrbegriff 6: Kurze Fahrt) Maximum speed 40km/h</a>
+</ul>
+
+Aspect 4 (Fahrbegriff 4) was discontinued in 1967, and is not documented further.
+
+<!--#include virtual="/Footer" -->
+
+</body>
+</html>
