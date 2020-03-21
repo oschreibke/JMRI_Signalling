@@ -948,6 +948,116 @@
       <userName>Block 10</userName>
     </layoutblock>
   </layoutblocks>
+  <signalelements class="jmri.jmrit.blockboss.configurexml.BlockBossLogicXml">
+    <signalelement signal="vSignal Turnout 01 Throat Continue" mode="2" watchedturnout="MT05.01.01.01.31.00.00.00;05.01.01.01.31.00.00.01" limitspeed1="false" limitspeed2="false" useflashyellow="false" distantsignal="false">
+      <sensorname>MS05.01.01.01.31.00.02.00;05.01.01.01.31.00.02.01</sensorname>
+    </signalelement>
+    <signalelement signal="vSignal Turnout 01 Throat Diverge" mode="3" watchedturnout="MT05.01.01.01.31.00.00.00;05.01.01.01.31.00.00.01" watchedsignal1="IH17" limitspeed1="false" limitspeed2="true" useflashyellow="false" distantsignal="false">
+      <sensorname>MS05.01.01.01.31.00.02.10;05.01.01.01.31.00.02.11</sensorname>
+    </signalelement>
+    <signalelement signal="vSignal Turnout 01 Continue" mode="2" watchedturnout="MT05.01.01.01.31.00.00.00;05.01.01.01.31.00.00.01" watchedsignal1="IH09" watchedsignal1alt="IH10" limitspeed1="false" limitspeed2="false" useflashyellow="false" distantsignal="false">
+      <sensorname>MS05.01.01.01.31.00.02.02;05.01.01.01.31.00.02.03</sensorname>
+    </signalelement>
+    <signalelement signal="vSignal Turnout 01 Diverge" mode="3" watchedturnout="MT05.01.01.01.31.00.00.00;05.01.01.01.31.00.00.01" watchedsignal1="IH09" watchedsignal1alt="IH10" limitspeed1="false" limitspeed2="true" useflashyellow="false" distantsignal="false">
+      <sensorname>MS05.01.01.01.31.00.02.02;05.01.01.01.31.00.02.03</sensorname>
+    </signalelement>
+    <signalelement signal="vSignal Turnout 02 A Continue" mode="2" watchedturnout="MT05.01.01.01.31.00.00.02;05.01.01.01.31.00.00.03" watchedsignal1="IH11" watchedsignal1alt="IH12" limitspeed1="false" limitspeed2="false" useflashyellow="false" distantsignal="false">
+      <sensorname>MS05.01.01.01.31.00.02.04;05.01.01.01.31.00.02.05</sensorname>
+    </signalelement>
+    <signalelement signal="vSignal Turnout 02 B Continue" mode="2" watchedturnout="MT05.01.01.01.31.00.00.02;05.01.01.01.31.00.00.03" watchedsignal1="IH29" limitspeed1="false" limitspeed2="false" useflashyellow="false" distantsignal="false">
+      <sensorname>MS05.01.01.01.31.00.02.18;05.01.01.01.31.00.02.19</sensorname>
+    </signalelement>
+    <signalelement signal="vSignal Turnout 02 B Diverge" mode="3" watchedturnout="MT05.01.01.01.31.00.00.02;05.01.01.01.31.00.00.03" watchedsignal1="IH01" watchedsignal1alt="IH04" limitspeed1="false" limitspeed2="true" useflashyellow="false" distantsignal="false">
+      <sensorname>MS05.01.01.01.31.00.02.02;05.01.01.01.31.00.02.03</sensorname>
+    </signalelement>
+    <signalelement signal="vSignal Turnout 02 C Continue" mode="2" watchedturnout="MT05.01.01.01.31.00.00.02;05.01.01.01.31.00.00.03" watchedsignal1="IH01" watchedsignal1alt="IH04" limitspeed1="false" limitspeed2="false" useflashyellow="false" distantsignal="false">
+      <sensorname>MS05.01.01.01.31.00.02.02;05.01.01.01.31.00.02.03</sensorname>
+    </signalelement>
+    <signalelement signal="vSignal Turnout 02 D Continue" mode="2" watchedturnout="MT05.01.01.01.31.00.00.02;05.01.01.01.31.00.00.03" watchedsignal1="IH16" limitspeed1="false" limitspeed2="false" useflashyellow="false" distantsignal="false">
+      <sensorname>MS05.01.01.01.31.00.02.06;05.01.01.01.31.00.02.07</sensorname>
+    </signalelement>
+    <signalelement signal="vSignal Turnout 02 D Diverge" mode="3" watchedturnout="MT05.01.01.01.31.00.00.02;05.01.01.01.31.00.00.03" watchedsignal1="IH11" watchedsignal1alt="IH12" limitspeed1="false" limitspeed2="true" useflashyellow="false" distantsignal="false">
+      <sensorname>MS05.01.01.01.31.00.02.04;05.01.01.01.31.00.02.05</sensorname>
+    </signalelement>
+    <signalelement signal="vSignal Turnout 04 A Continue" mode="2" watchedturnout="MT05.01.01.01.31.00.00.06;05.01.01.01.31.00.00.07" watchedsignal1="IH33" limitspeed1="false" limitspeed2="false" useflashyellow="false" distantsignal="false">
+      <sensorname>MS05.01.01.01.31.00.02.12;05.01.01.01.31.00.02.13</sensorname>
+    </signalelement>
+    <signalelement signal="vSignal Turnout 04 A Diverge" mode="3" watchedturnout="MT05.01.01.01.31.00.00.06;05.01.01.01.31.00.00.07" watchedsignal1="IH19" watchedsignal1alt="IH20" limitspeed1="false" limitspeed2="true" useflashyellow="false" distantsignal="false">
+      <sensorname>MS05.01.01.01.31.00.02.08;05.01.01.01.31.00.02.09</sensorname>
+    </signalelement>
+    <signalelement signal="vSignal Turnout 04 B Continue" mode="2" watchedturnout="MT05.01.01.01.31.00.00.06;05.01.01.01.31.00.00.07" watchedsignal1="IH06" watchedsignal1alt="IH07" limitspeed1="false" limitspeed2="false" useflashyellow="false" distantsignal="false">
+      <sensorname>MS05.01.01.01.31.00.02.04;05.01.01.01.31.00.02.05</sensorname>
+    </signalelement>
+    <signalelement signal="vSignal Turnout 04 C Continue" mode="2" watchedturnout="MT05.01.01.01.31.00.00.06;05.01.01.01.31.00.00.07" watchedsignal1="IH08" limitspeed1="false" limitspeed2="false" useflashyellow="false" distantsignal="false">
+      <sensorname>MS05.01.01.01.31.00.02.06;05.01.01.01.31.00.02.07</sensorname>
+    </signalelement>
+    <signalelement signal="vSignal Turnout 04 C Diverge" mode="3" watchedturnout="MT05.01.01.01.31.00.00.06;05.01.01.01.31.00.00.07" watchedsignal1="IH06" watchedsignal1alt="IH07" limitspeed1="false" limitspeed2="true" useflashyellow="false" distantsignal="false">
+      <sensorname>MS05.01.01.01.31.00.02.04;05.01.01.01.31.00.02.05</sensorname>
+    </signalelement>
+    <signalelement signal="vSignal Turnout 04 D Continue" mode="2" watchedturnout="MT05.01.01.01.31.00.00.06;05.01.01.01.31.00.00.07" watchedsignal1="IH19" watchedsignal1alt="IH20" limitspeed1="false" limitspeed2="false" useflashyellow="false" distantsignal="false">
+      <sensorname>MS05.01.01.01.31.00.02.08;05.01.01.01.31.00.02.09</sensorname>
+    </signalelement>
+    <signalelement signal="vSignal Turnout 06 Throat Continue" mode="2" watchedturnout="MT05.01.01.01.31.00.00.0A;05.01.01.01.31.00.00.0B" watchedsignal1="IH03" limitspeed1="false" limitspeed2="false" useflashyellow="false" distantsignal="false">
+      <sensorname>MS05.01.01.01.31.00.02.10;05.01.01.01.31.00.02.11</sensorname>
+    </signalelement>
+    <signalelement signal="vSignal Turnout 06 Throat Diverge" mode="3" watchedturnout="MT05.01.01.01.31.00.00.0A;05.01.01.01.31.00.00.0B" watchedsignal1="IH23" watchedsignal1alt="IH24" limitspeed1="false" limitspeed2="true" useflashyellow="false" distantsignal="false">
+      <sensorname>MS05.01.01.01.31.00.01.0A;05.01.01.01.31.00.01.0B</sensorname>
+    </signalelement>
+    <signalelement signal="vSignal Turnout 06 Continue" mode="2" watchedturnout="MT05.01.01.01.31.00.00.0A;05.01.01.01.31.00.00.0B" watchedsignal1="IH14" watchedsignal1alt="IH15" limitspeed1="false" limitspeed2="false" useflashyellow="false" distantsignal="false">
+      <sensorname>MS05.01.01.01.31.00.02.08;05.01.01.01.31.00.02.09</sensorname>
+    </signalelement>
+    <signalelement signal="vSignal Turnout 06 Diverge" mode="3" watchedturnout="MT05.01.01.01.31.00.00.0A;05.01.01.01.31.00.00.0B" watchedsignal1="IH14" watchedsignal1alt="IH15" limitspeed1="false" limitspeed2="true" useflashyellow="false" distantsignal="false">
+      <sensorname>MS05.01.01.01.31.00.02.08;05.01.01.01.31.00.02.09</sensorname>
+    </signalelement>
+    <signalelement signal="vSignal Turnout 07 Throat Continue" mode="2" watchedturnout="MT05.01.01.01.31.00.00.0C;05.01.01.01.31.00.00.0D" limitspeed1="false" limitspeed2="false" useflashyellow="false" distantsignal="false">
+      <sensorname>MS05.01.01.01.31.00.02.0E;05.01.01.01.31.00.02.0F</sensorname>
+    </signalelement>
+    <signalelement signal="vSignal Turnout 07 Throat Diverge" mode="3" watchedturnout="MT05.01.01.01.31.00.00.0C;05.01.01.01.31.00.00.0D" watchedsignal1="IH27" watchedsignal1alt="IH28" limitspeed1="false" limitspeed2="true" useflashyellow="false" distantsignal="false">
+      <sensorname>MS05.01.01.01.31.00.01.0C;05.01.01.01.31.00.01.0D</sensorname>
+    </signalelement>
+    <signalelement signal="vSignal Turnout 07 Continue" mode="2" watchedturnout="MT05.01.01.01.31.00.00.0C;05.01.01.01.31.00.00.0D" watchedsignal1="IH18" limitspeed1="false" limitspeed2="false" useflashyellow="false" distantsignal="false">
+      <sensorname>MS05.01.01.01.31.00.01.0A;05.01.01.01.31.00.01.0B</sensorname>
+    </signalelement>
+    <signalelement signal="vSignal Turnout 07 Diverge" mode="3" watchedturnout="MT05.01.01.01.31.00.00.0C;05.01.01.01.31.00.00.0D" watchedsignal1="IH18" limitspeed1="false" limitspeed2="true" useflashyellow="false" distantsignal="false">
+      <sensorname>MS05.01.01.01.31.00.01.0A;05.01.01.01.31.00.01.0B</sensorname>
+    </signalelement>
+    <signalelement signal="vSignal Turnout 08 Throat Continue" mode="2" watchedturnout="MT05.01.01.01.31.00.00.0E;05.01.01.01.31.00.00.0F" limitspeed1="false" limitspeed2="false" useflashyellow="false" distantsignal="false">
+      <sensorname>MS05.01.01.01.31.00.02.0A;05.01.01.01.31.00.02.0B</sensorname>
+    </signalelement>
+    <signalelement signal="vSignal Turnout 08 Throat Diverge" mode="3" watchedturnout="MT05.01.01.01.31.00.00.0E;05.01.01.01.31.00.00.0F" limitspeed1="false" limitspeed2="true" useflashyellow="false" distantsignal="false">
+      <sensorname>MS05.01.01.01.31.00.02.0C;05.01.01.01.31.00.02.0D</sensorname>
+    </signalelement>
+    <signalelement signal="vSignal Turnout 08 Continue" mode="2" watchedturnout="MT05.01.01.01.31.00.00.0E;05.01.01.01.31.00.00.0F" watchedsignal1="IH22" limitspeed1="false" limitspeed2="false" useflashyellow="false" distantsignal="false">
+      <sensorname>MS05.01.01.01.31.00.01.0C;05.01.01.01.31.00.01.0D</sensorname>
+    </signalelement>
+    <signalelement signal="vSignal Turnout 08 Diverge" mode="3" watchedturnout="MT05.01.01.01.31.00.00.0E;05.01.01.01.31.00.00.0F" watchedsignal1="IH22" limitspeed1="false" limitspeed2="true" useflashyellow="false" distantsignal="false">
+      <sensorname>MS05.01.01.01.31.00.01.0C;05.01.01.01.31.00.01.0D</sensorname>
+    </signalelement>
+    <signalelement signal="vSignal Turnout 09 Throat Continue" mode="2" watchedturnout="MT05.01.01.01.31.00.00.10;05.01.01.01.31.00.00.11" watchedsignal1="IH05" limitspeed1="false" limitspeed2="false" useflashyellow="false" distantsignal="false">
+      <sensorname>MS05.01.01.01.31.00.02.18;05.01.01.01.31.00.02.19</sensorname>
+    </signalelement>
+    <signalelement signal="vSignal Turnout 09 Throat Diverge" mode="3" watchedturnout="MT05.01.01.01.31.00.00.10;05.01.01.01.31.00.00.11" watchedsignal1="IH34" limitspeed1="false" limitspeed2="true" useflashyellow="false" distantsignal="false">
+      <sensorname>MS05.01.01.01.31.00.02.16;05.01.01.01.31.00.02.17</sensorname>
+    </signalelement>
+    <signalelement signal="vSignal Turnout 09 Continue" mode="2" watchedturnout="MT05.01.01.01.31.00.00.10;05.01.01.01.31.00.00.11" watchedsignal1="IH35" watchedsignal1alt="IH36" limitspeed1="false" limitspeed2="false" useflashyellow="false" distantsignal="false">
+      <sensorname>MS05.01.01.01.31.00.02.14;05.01.01.01.31.00.02.15</sensorname>
+    </signalelement>
+    <signalelement signal="vSignal Turnout 09 Diverge" mode="3" watchedturnout="MT05.01.01.01.31.00.00.10;05.01.01.01.31.00.00.11" watchedsignal1="IH35" watchedsignal1alt="IH36" limitspeed1="false" limitspeed2="true" useflashyellow="false" distantsignal="false">
+      <sensorname>MS05.01.01.01.31.00.02.14;05.01.01.01.31.00.02.15</sensorname>
+    </signalelement>
+    <signalelement signal="vSignal Turnout 10 Throat Continue" mode="2" watchedturnout="MT05.01.01.01.31.00.00.12;05.01.01.01.31.00.00.13" watchedsignal1="IH13" limitspeed1="false" limitspeed2="false" useflashyellow="false" distantsignal="false">
+      <sensorname>MS05.01.01.01.31.00.02.12;05.01.01.01.31.00.02.13</sensorname>
+    </signalelement>
+    <signalelement signal="vSignal Turnout 10 Throat Diverge" mode="3" watchedturnout="MT05.01.01.01.31.00.00.12;05.01.01.01.31.00.00.13" watchedsignal1="IH30" limitspeed1="false" limitspeed2="true" useflashyellow="false" distantsignal="false">
+      <sensorname>MS05.01.01.01.31.00.02.16;05.01.01.01.31.00.02.17</sensorname>
+    </signalelement>
+    <signalelement signal="vSignal Turnout 10 Continue" mode="2" watchedturnout="MT05.01.01.01.31.00.00.12;05.01.01.01.31.00.00.13" watchedsignal1="IH31" watchedsignal1alt="IH32" limitspeed1="false" limitspeed2="false" useflashyellow="false" distantsignal="false">
+      <sensorname>MS05.01.01.01.31.00.02.14;05.01.01.01.31.00.02.15</sensorname>
+    </signalelement>
+    <signalelement signal="vSignal Turnout 10 Diverge" mode="3" watchedturnout="MT05.01.01.01.31.00.00.12;05.01.01.01.31.00.00.13" watchedsignal1="IH31" watchedsignal1alt="IH32" limitspeed1="false" limitspeed2="true" useflashyellow="false" distantsignal="false">
+      <sensorname>MS05.01.01.01.31.00.02.14;05.01.01.01.31.00.02.15</sensorname>
+    </signalelement>
+  </signalelements>
   <signalmastlogics class="jmri.managers.configurexml.DefaultSignalMastLogicManagerXml">
     <logicDelay>500</logicDelay>
   </signalmastlogics>
@@ -1289,7 +1399,7 @@
       </icons>
       <iconmaps />
     </signalheadicon>
-    <signalheadicon signalhead="vSignal Turnout 02 A Continue" x="400" y="520" level="9" forcecontroloff="false" hidden="no" positionable="true" showtooltip="true" editable="true" degrees="180" clickmode="3" litmode="false" class="jmri.jmrit.display.configurexml.SignalHeadIconXml">
+    <signalheadicon signalhead="vSignal Turnout 02 A Continue" x="412" y="524" level="9" forcecontroloff="false" hidden="no" positionable="true" showtooltip="true" editable="true" degrees="180" clickmode="3" litmode="false" class="jmri.jmrit.display.configurexml.SignalHeadIconXml">
       <icons>
         <held url="program:resources/icons/smallschematics/searchlights/left-held-short.gif" degrees="180" scale="1.0">
           <rotation>0</rotation>
@@ -1376,30 +1486,30 @@
       </icons>
       <iconmaps />
     </signalheadicon>
-    <signalheadicon signalhead="vSignal Turnout 02 C Continue" x="450" y="530" level="9" forcecontroloff="false" hidden="no" positionable="true" showtooltip="true" editable="true" clickmode="3" litmode="false" class="jmri.jmrit.display.configurexml.SignalHeadIconXml">
+    <signalheadicon signalhead="vSignal Turnout 02 C Continue" x="434" y="522" level="9" forcecontroloff="false" hidden="no" positionable="true" showtooltip="true" editable="true" degrees="90" clickmode="3" litmode="false" class="jmri.jmrit.display.configurexml.SignalHeadIconXml">
       <icons>
-        <held url="program:resources/icons/smallschematics/searchlights/left-held-short.gif" degrees="0" scale="1.0">
+        <held url="program:resources/icons/smallschematics/searchlights/left-held-short.gif" degrees="90" scale="1.0">
           <rotation>0</rotation>
         </held>
-        <dark url="program:resources/icons/smallschematics/searchlights/left-dark-short.gif" degrees="0" scale="1.0">
+        <dark url="program:resources/icons/smallschematics/searchlights/left-dark-short.gif" degrees="90" scale="1.0">
           <rotation>0</rotation>
         </dark>
-        <red url="program:resources/icons/smallschematics/searchlights/left-red-short.gif" degrees="0" scale="1.0">
+        <red url="program:resources/icons/smallschematics/searchlights/left-red-short.gif" degrees="90" scale="1.0">
           <rotation>0</rotation>
         </red>
-        <yellow url="program:resources/icons/smallschematics/searchlights/left-yellow-short.gif" degrees="0" scale="1.0">
+        <yellow url="program:resources/icons/smallschematics/searchlights/left-yellow-short.gif" degrees="90" scale="1.0">
           <rotation>0</rotation>
         </yellow>
-        <green url="program:resources/icons/smallschematics/searchlights/left-green-short.gif" degrees="0" scale="1.0">
+        <green url="program:resources/icons/smallschematics/searchlights/left-green-short.gif" degrees="90" scale="1.0">
           <rotation>0</rotation>
         </green>
-        <flashred url="program:resources/icons/smallschematics/searchlights/left-flashred-short.gif" degrees="0" scale="1.0">
+        <flashred url="program:resources/icons/smallschematics/searchlights/left-flashred-short.gif" degrees="90" scale="1.0">
           <rotation>0</rotation>
         </flashred>
-        <flashyellow url="program:resources/icons/smallschematics/searchlights/left-flashyellow-short.gif" degrees="0" scale="1.0">
+        <flashyellow url="program:resources/icons/smallschematics/searchlights/left-flashyellow-short.gif" degrees="90" scale="1.0">
           <rotation>0</rotation>
         </flashyellow>
-        <flashgreen url="program:resources/icons/smallschematics/searchlights/left-flashgreen-short.gif" degrees="0" scale="1.0">
+        <flashgreen url="program:resources/icons/smallschematics/searchlights/left-flashgreen-short.gif" degrees="90" scale="1.0">
           <rotation>0</rotation>
         </flashgreen>
       </icons>
@@ -1521,88 +1631,88 @@
       </icons>
       <iconmaps />
     </signalheadicon>
-    <signalheadicon signalhead="vSignal Turnout 04 B Continue" x="923" y="502" level="9" forcecontroloff="false" hidden="no" positionable="true" showtooltip="true" editable="true" clickmode="3" litmode="false" class="jmri.jmrit.display.configurexml.SignalHeadIconXml">
+    <signalheadicon signalhead="vSignal Turnout 04 B Continue" x="923" y="502" level="9" forcecontroloff="false" hidden="no" positionable="true" showtooltip="true" editable="true" degrees="90" clickmode="3" litmode="false" class="jmri.jmrit.display.configurexml.SignalHeadIconXml">
       <icons>
-        <held url="program:resources/icons/smallschematics/searchlights/left-held-short.gif" degrees="0" scale="1.0">
+        <held url="program:resources/icons/smallschematics/searchlights/left-held-short.gif" degrees="90" scale="1.0">
           <rotation>0</rotation>
         </held>
-        <dark url="program:resources/icons/smallschematics/searchlights/left-dark-short.gif" degrees="0" scale="1.0">
+        <dark url="program:resources/icons/smallschematics/searchlights/left-dark-short.gif" degrees="90" scale="1.0">
           <rotation>0</rotation>
         </dark>
-        <red url="program:resources/icons/smallschematics/searchlights/left-red-short.gif" degrees="0" scale="1.0">
+        <red url="program:resources/icons/smallschematics/searchlights/left-red-short.gif" degrees="90" scale="1.0">
           <rotation>0</rotation>
         </red>
-        <yellow url="program:resources/icons/smallschematics/searchlights/left-yellow-short.gif" degrees="0" scale="1.0">
+        <yellow url="program:resources/icons/smallschematics/searchlights/left-yellow-short.gif" degrees="90" scale="1.0">
           <rotation>0</rotation>
         </yellow>
-        <green url="program:resources/icons/smallschematics/searchlights/left-green-short.gif" degrees="0" scale="1.0">
+        <green url="program:resources/icons/smallschematics/searchlights/left-green-short.gif" degrees="90" scale="1.0">
           <rotation>0</rotation>
         </green>
-        <flashred url="program:resources/icons/smallschematics/searchlights/left-flashred-short.gif" degrees="0" scale="1.0">
+        <flashred url="program:resources/icons/smallschematics/searchlights/left-flashred-short.gif" degrees="90" scale="1.0">
           <rotation>0</rotation>
         </flashred>
-        <flashyellow url="program:resources/icons/smallschematics/searchlights/left-flashyellow-short.gif" degrees="0" scale="1.0">
+        <flashyellow url="program:resources/icons/smallschematics/searchlights/left-flashyellow-short.gif" degrees="90" scale="1.0">
           <rotation>0</rotation>
         </flashyellow>
-        <flashgreen url="program:resources/icons/smallschematics/searchlights/left-flashgreen-short.gif" degrees="0" scale="1.0">
+        <flashgreen url="program:resources/icons/smallschematics/searchlights/left-flashgreen-short.gif" degrees="90" scale="1.0">
           <rotation>0</rotation>
         </flashgreen>
       </icons>
       <iconmaps />
     </signalheadicon>
-    <signalheadicon signalhead="vSignal Turnout 04 C Continue" x="954" y="522" level="9" forcecontroloff="false" hidden="no" positionable="true" showtooltip="true" editable="true" clickmode="3" litmode="false" class="jmri.jmrit.display.configurexml.SignalHeadIconXml">
+    <signalheadicon signalhead="vSignal Turnout 04 C Continue" x="954" y="522" level="9" forcecontroloff="false" hidden="no" positionable="true" showtooltip="true" editable="true" degrees="90" clickmode="3" litmode="false" class="jmri.jmrit.display.configurexml.SignalHeadIconXml">
       <icons>
-        <held url="program:resources/icons/smallschematics/searchlights/left-held-short.gif" degrees="0" scale="1.0">
+        <held url="program:resources/icons/smallschematics/searchlights/left-held-short.gif" degrees="90" scale="1.0">
           <rotation>0</rotation>
         </held>
-        <dark url="program:resources/icons/smallschematics/searchlights/left-dark-short.gif" degrees="0" scale="1.0">
+        <dark url="program:resources/icons/smallschematics/searchlights/left-dark-short.gif" degrees="90" scale="1.0">
           <rotation>0</rotation>
         </dark>
-        <red url="program:resources/icons/smallschematics/searchlights/left-red-short.gif" degrees="0" scale="1.0">
+        <red url="program:resources/icons/smallschematics/searchlights/left-red-short.gif" degrees="90" scale="1.0">
           <rotation>0</rotation>
         </red>
-        <yellow url="program:resources/icons/smallschematics/searchlights/left-yellow-short.gif" degrees="0" scale="1.0">
+        <yellow url="program:resources/icons/smallschematics/searchlights/left-yellow-short.gif" degrees="90" scale="1.0">
           <rotation>0</rotation>
         </yellow>
-        <green url="program:resources/icons/smallschematics/searchlights/left-green-short.gif" degrees="0" scale="1.0">
+        <green url="program:resources/icons/smallschematics/searchlights/left-green-short.gif" degrees="90" scale="1.0">
           <rotation>0</rotation>
         </green>
-        <flashred url="program:resources/icons/smallschematics/searchlights/left-flashred-short.gif" degrees="0" scale="1.0">
+        <flashred url="program:resources/icons/smallschematics/searchlights/left-flashred-short.gif" degrees="90" scale="1.0">
           <rotation>0</rotation>
         </flashred>
-        <flashyellow url="program:resources/icons/smallschematics/searchlights/left-flashyellow-short.gif" degrees="0" scale="1.0">
+        <flashyellow url="program:resources/icons/smallschematics/searchlights/left-flashyellow-short.gif" degrees="90" scale="1.0">
           <rotation>0</rotation>
         </flashyellow>
-        <flashgreen url="program:resources/icons/smallschematics/searchlights/left-flashgreen-short.gif" degrees="0" scale="1.0">
+        <flashgreen url="program:resources/icons/smallschematics/searchlights/left-flashgreen-short.gif" degrees="90" scale="1.0">
           <rotation>0</rotation>
         </flashgreen>
       </icons>
       <iconmaps />
     </signalheadicon>
-    <signalheadicon signalhead="vSignal Turnout 04 C Diverge" x="974" y="522" level="9" forcecontroloff="false" hidden="no" positionable="true" showtooltip="true" editable="true" clickmode="3" litmode="false" class="jmri.jmrit.display.configurexml.SignalHeadIconXml">
+    <signalheadicon signalhead="vSignal Turnout 04 C Diverge" x="974" y="522" level="9" forcecontroloff="false" hidden="no" positionable="true" showtooltip="true" editable="true" degrees="90" clickmode="3" litmode="false" class="jmri.jmrit.display.configurexml.SignalHeadIconXml">
       <icons>
-        <held url="program:resources/icons/smallschematics/searchlights/left-held-short.gif" degrees="0" scale="1.0">
+        <held url="program:resources/icons/smallschematics/searchlights/left-held-short.gif" degrees="90" scale="1.0">
           <rotation>0</rotation>
         </held>
-        <dark url="program:resources/icons/smallschematics/searchlights/left-dark-short.gif" degrees="0" scale="1.0">
+        <dark url="program:resources/icons/smallschematics/searchlights/left-dark-short.gif" degrees="90" scale="1.0">
           <rotation>0</rotation>
         </dark>
-        <red url="program:resources/icons/smallschematics/searchlights/left-red-short.gif" degrees="0" scale="1.0">
+        <red url="program:resources/icons/smallschematics/searchlights/left-red-short.gif" degrees="90" scale="1.0">
           <rotation>0</rotation>
         </red>
-        <yellow url="program:resources/icons/smallschematics/searchlights/left-yellow-short.gif" degrees="0" scale="1.0">
+        <yellow url="program:resources/icons/smallschematics/searchlights/left-yellow-short.gif" degrees="90" scale="1.0">
           <rotation>0</rotation>
         </yellow>
-        <green url="program:resources/icons/smallschematics/searchlights/left-green-short.gif" degrees="0" scale="1.0">
+        <green url="program:resources/icons/smallschematics/searchlights/left-green-short.gif" degrees="90" scale="1.0">
           <rotation>0</rotation>
         </green>
-        <flashred url="program:resources/icons/smallschematics/searchlights/left-flashred-short.gif" degrees="0" scale="1.0">
+        <flashred url="program:resources/icons/smallschematics/searchlights/left-flashred-short.gif" degrees="90" scale="1.0">
           <rotation>0</rotation>
         </flashred>
-        <flashyellow url="program:resources/icons/smallschematics/searchlights/left-flashyellow-short.gif" degrees="0" scale="1.0">
+        <flashyellow url="program:resources/icons/smallschematics/searchlights/left-flashyellow-short.gif" degrees="90" scale="1.0">
           <rotation>0</rotation>
         </flashyellow>
-        <flashgreen url="program:resources/icons/smallschematics/searchlights/left-flashgreen-short.gif" degrees="0" scale="1.0">
+        <flashgreen url="program:resources/icons/smallschematics/searchlights/left-flashgreen-short.gif" degrees="90" scale="1.0">
           <rotation>0</rotation>
         </flashgreen>
       </icons>
@@ -2395,9 +2505,9 @@
     </operation>
     <operation>
       <type>Store</type>
-      <date>Sat Mar 14 17:35:46 CET 2020</date>
+      <date>Sat Mar 14 17:46:24 CET 2020</date>
       <filename />
     </operation>
   </filehistory>
-  <!--Written by JMRI version 4.18+R37ad3d0 on Sat Mar 14 17:35:46 CET 2020-->
+  <!--Written by JMRI version 4.18+R37ad3d0 on Sat Mar 14 17:46:24 CET 2020-->
 </layout-config>
